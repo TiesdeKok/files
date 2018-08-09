@@ -1,0 +1,6427 @@
+,abb,median_days_open,month_id,state
+1,AL,6,2008_1,Alabama
+0,AK,13,2008_1,Alaska
+3,AZ,11,2008_1,Arizona
+2,AR,24,2008_1,Arkansas
+4,CA,9,2008_1,California
+5,CO,14,2008_1,Colorado
+6,CT,4,2008_1,Connecticut
+8,DE,9,2008_1,Delaware
+7,DC,6,2008_1,District of Columbia
+9,FL,3,2008_1,Florida
+10,GA,6,2008_1,Georgia
+11,HI,2,2008_1,Hawaii
+13,ID,25,2008_1,Idaho
+14,IL,4,2008_1,Illinois
+15,IN,20,2008_1,Indiana
+12,IA,19,2008_1,Iowa
+16,KS,8,2008_1,Kansas
+17,KY,8,2008_1,Kentucky
+18,LA,6,2008_1,Louisiana
+21,ME,0,2008_1,Maine
+20,MD,15,2008_1,Maryland
+19,MA,14,2008_1,Massachusetts
+22,MI,8,2008_1,Michigan
+23,MN,4,2008_1,Minnesota
+25,MS,14,2008_1,Mississippi
+24,MO,3,2008_1,Missouri
+26,MT,24,2008_1,Montana
+29,NE,5,2008_1,Nebraska
+33,NV,21,2008_1,Nevada
+30,NH,9,2008_1,New Hampshire
+31,NJ,16,2008_1,New Jersey
+32,NM,6,2008_1,New Mexico
+34,NY,5,2008_1,New York
+27,NC,11,2008_1,North Carolina
+28,ND,8,2008_1,North Dakota
+35,OH,10,2008_1,Ohio
+36,OK,14,2008_1,Oklahoma
+37,OR,19,2008_1,Oregon
+38,PA,14,2008_1,Pennsylvania
+39,RI,16,2008_1,Rhode Island
+40,SC,12,2008_1,South Carolina
+41,SD,11,2008_1,South Dakota
+42,TN,14,2008_1,Tennessee
+43,TX,9,2008_1,Texas
+44,UT,6,2008_1,Utah
+46,VT,23,2008_1,Vermont
+45,VA,3,2008_1,Virginia
+47,WA,19,2008_1,Washington
+49,WV,0,2008_1,West Virginia
+48,WI,2,2008_1,Wisconsin
+50,WY,22,2008_1,Wyoming
+458,AL,0,2008_10,Alabama
+457,AK,8,2008_10,Alaska
+460,AZ,2,2008_10,Arizona
+459,AR,0,2008_10,Arkansas
+461,CA,0,2008_10,California
+462,CO,13,2008_10,Colorado
+463,CT,0,2008_10,Connecticut
+465,DE,26,2008_10,Delaware
+464,DC,0,2008_10,District of Columbia
+466,FL,0,2008_10,Florida
+467,GA,0,2008_10,Georgia
+468,HI,0,2008_10,Hawaii
+470,ID,13,2008_10,Idaho
+471,IL,0,2008_10,Illinois
+472,IN,9,2008_10,Indiana
+469,IA,0,2008_10,Iowa
+473,KS,0,2008_10,Kansas
+474,KY,4,2008_10,Kentucky
+475,LA,12,2008_10,Louisiana
+478,ME,0,2008_10,Maine
+477,MD,0,2008_10,Maryland
+476,MA,0,2008_10,Massachusetts
+479,MI,0,2008_10,Michigan
+480,MN,6,2008_10,Minnesota
+482,MS,0,2008_10,Mississippi
+481,MO,6,2008_10,Missouri
+483,MT,0,2008_10,Montana
+486,NE,0,2008_10,Nebraska
+490,NV,27,2008_10,Nevada
+487,NH,0,2008_10,New Hampshire
+488,NJ,0,2008_10,New Jersey
+489,NM,31,2008_10,New Mexico
+491,NY,0,2008_10,New York
+484,NC,6,2008_10,North Carolina
+485,ND,43,2008_10,North Dakota
+492,OH,0,2008_10,Ohio
+493,OK,7,2008_10,Oklahoma
+494,OR,6,2008_10,Oregon
+495,PA,4,2008_10,Pennsylvania
+496,RI,0,2008_10,Rhode Island
+497,SC,0,2008_10,South Carolina
+498,SD,1,2008_10,South Dakota
+499,TN,4,2008_10,Tennessee
+500,TX,0,2008_10,Texas
+501,UT,6,2008_10,Utah
+503,VT,8,2008_10,Vermont
+502,VA,0,2008_10,Virginia
+504,WA,4,2008_10,Washington
+506,WV,46,2008_10,West Virginia
+505,WI,0,2008_10,Wisconsin
+507,WY,0,2008_10,Wyoming
+509,AL,0,2008_11,Alabama
+508,AK,10,2008_11,Alaska
+511,AZ,0,2008_11,Arizona
+510,AR,0,2008_11,Arkansas
+512,CA,0,2008_11,California
+513,CO,2,2008_11,Colorado
+514,CT,0,2008_11,Connecticut
+516,DE,4,2008_11,Delaware
+515,DC,0,2008_11,District of Columbia
+517,FL,0,2008_11,Florida
+518,GA,0,2008_11,Georgia
+519,HI,4,2008_11,Hawaii
+521,ID,0,2008_11,Idaho
+522,IL,0,2008_11,Illinois
+523,IN,0,2008_11,Indiana
+520,IA,10,2008_11,Iowa
+524,KS,0,2008_11,Kansas
+525,KY,0,2008_11,Kentucky
+526,LA,1,2008_11,Louisiana
+529,ME,0,2008_11,Maine
+528,MD,0,2008_11,Maryland
+527,MA,0,2008_11,Massachusetts
+530,MI,0,2008_11,Michigan
+531,MN,0,2008_11,Minnesota
+533,MS,0,2008_11,Mississippi
+532,MO,3,2008_11,Missouri
+534,MT,64,2008_11,Montana
+537,NE,0,2008_11,Nebraska
+541,NV,0,2008_11,Nevada
+538,NH,0,2008_11,New Hampshire
+539,NJ,0,2008_11,New Jersey
+540,NM,26,2008_11,New Mexico
+542,NY,0,2008_11,New York
+535,NC,0,2008_11,North Carolina
+536,ND,15,2008_11,North Dakota
+543,OH,0,2008_11,Ohio
+544,OK,14,2008_11,Oklahoma
+545,OR,1,2008_11,Oregon
+546,PA,0,2008_11,Pennsylvania
+547,RI,0,2008_11,Rhode Island
+548,SC,0,2008_11,South Carolina
+549,SD,0,2008_11,South Dakota
+550,TN,0,2008_11,Tennessee
+551,TX,0,2008_11,Texas
+552,UT,6,2008_11,Utah
+554,VT,1,2008_11,Vermont
+553,VA,0,2008_11,Virginia
+555,WA,0,2008_11,Washington
+557,WV,0,2008_11,West Virginia
+556,WI,0,2008_11,Wisconsin
+558,WY,0,2008_11,Wyoming
+560,AL,0,2008_12,Alabama
+559,AK,16,2008_12,Alaska
+562,AZ,0,2008_12,Arizona
+561,AR,0,2008_12,Arkansas
+563,CA,0,2008_12,California
+564,CO,4,2008_12,Colorado
+565,CT,0,2008_12,Connecticut
+567,DE,6,2008_12,Delaware
+566,DC,0,2008_12,District of Columbia
+568,FL,0,2008_12,Florida
+569,GA,0,2008_12,Georgia
+570,HI,30,2008_12,Hawaii
+572,ID,0,2008_12,Idaho
+573,IL,0,2008_12,Illinois
+574,IN,0,2008_12,Indiana
+571,IA,10,2008_12,Iowa
+575,KS,0,2008_12,Kansas
+576,KY,0,2008_12,Kentucky
+577,LA,4,2008_12,Louisiana
+580,ME,0,2008_12,Maine
+579,MD,2,2008_12,Maryland
+578,MA,0,2008_12,Massachusetts
+581,MI,0,2008_12,Michigan
+582,MN,0,2008_12,Minnesota
+584,MS,33,2008_12,Mississippi
+583,MO,6,2008_12,Missouri
+585,MT,34,2008_12,Montana
+588,NE,0,2008_12,Nebraska
+592,NV,28,2008_12,Nevada
+589,NH,17,2008_12,New Hampshire
+590,NJ,0,2008_12,New Jersey
+591,NM,5,2008_12,New Mexico
+593,NY,0,2008_12,New York
+586,NC,10,2008_12,North Carolina
+587,ND,3,2008_12,North Dakota
+594,OH,0,2008_12,Ohio
+595,OK,17,2008_12,Oklahoma
+596,OR,0,2008_12,Oregon
+597,PA,8,2008_12,Pennsylvania
+598,RI,0,2008_12,Rhode Island
+599,SC,2,2008_12,South Carolina
+600,SD,26,2008_12,South Dakota
+601,TN,6,2008_12,Tennessee
+602,TX,0,2008_12,Texas
+603,UT,22,2008_12,Utah
+605,VT,0,2008_12,Vermont
+604,VA,0,2008_12,Virginia
+606,WA,16,2008_12,Washington
+608,WV,0,2008_12,West Virginia
+607,WI,0,2008_12,Wisconsin
+609,WY,28,2008_12,Wyoming
+52,AL,18,2008_2,Alabama
+51,AK,24,2008_2,Alaska
+54,AZ,10,2008_2,Arizona
+53,AR,17,2008_2,Arkansas
+55,CA,6,2008_2,California
+56,CO,15,2008_2,Colorado
+57,CT,2,2008_2,Connecticut
+59,DE,21,2008_2,Delaware
+58,DC,0,2008_2,District of Columbia
+60,FL,2,2008_2,Florida
+61,GA,6,2008_2,Georgia
+62,HI,4,2008_2,Hawaii
+64,ID,6,2008_2,Idaho
+65,IL,4,2008_2,Illinois
+66,IN,20,2008_2,Indiana
+63,IA,17,2008_2,Iowa
+67,KS,12,2008_2,Kansas
+68,KY,12,2008_2,Kentucky
+69,LA,27,2008_2,Louisiana
+72,ME,12,2008_2,Maine
+71,MD,3,2008_2,Maryland
+70,MA,75,2008_2,Massachusetts
+73,MI,7,2008_2,Michigan
+74,MN,20,2008_2,Minnesota
+76,MS,2,2008_2,Mississippi
+75,MO,17,2008_2,Missouri
+77,MT,70,2008_2,Montana
+80,NE,12,2008_2,Nebraska
+84,NV,19,2008_2,Nevada
+81,NH,0,2008_2,New Hampshire
+82,NJ,3,2008_2,New Jersey
+83,NM,0,2008_2,New Mexico
+85,NY,2,2008_2,New York
+78,NC,4,2008_2,North Carolina
+79,ND,50,2008_2,North Dakota
+86,OH,6,2008_2,Ohio
+87,OK,27,2008_2,Oklahoma
+88,OR,11,2008_2,Oregon
+89,PA,9,2008_2,Pennsylvania
+90,RI,45,2008_2,Rhode Island
+91,SC,3,2008_2,South Carolina
+92,SD,16,2008_2,South Dakota
+93,TN,25,2008_2,Tennessee
+94,TX,6,2008_2,Texas
+95,UT,18,2008_2,Utah
+97,VT,0,2008_2,Vermont
+96,VA,2,2008_2,Virginia
+98,WA,17,2008_2,Washington
+100,WV,6,2008_2,West Virginia
+99,WI,0,2008_2,Wisconsin
+101,WY,24,2008_2,Wyoming
+103,AL,3,2008_3,Alabama
+102,AK,13,2008_3,Alaska
+105,AZ,10,2008_3,Arizona
+104,AR,3,2008_3,Arkansas
+106,CA,6,2008_3,California
+107,CO,9,2008_3,Colorado
+108,CT,5,2008_3,Connecticut
+110,DE,12,2008_3,Delaware
+109,DC,9,2008_3,District of Columbia
+111,FL,3,2008_3,Florida
+112,GA,9,2008_3,Georgia
+113,HI,18,2008_3,Hawaii
+115,ID,89,2008_3,Idaho
+116,IL,0,2008_3,Illinois
+117,IN,7,2008_3,Indiana
+114,IA,10,2008_3,Iowa
+118,KS,6,2008_3,Kansas
+119,KY,3,2008_3,Kentucky
+120,LA,14,2008_3,Louisiana
+123,ME,37,2008_3,Maine
+122,MD,0,2008_3,Maryland
+121,MA,9,2008_3,Massachusetts
+124,MI,3,2008_3,Michigan
+125,MN,21,2008_3,Minnesota
+127,MS,1,2008_3,Mississippi
+126,MO,5,2008_3,Missouri
+128,MT,32,2008_3,Montana
+131,NE,5,2008_3,Nebraska
+135,NV,1,2008_3,Nevada
+132,NH,11,2008_3,New Hampshire
+133,NJ,3,2008_3,New Jersey
+134,NM,6,2008_3,New Mexico
+136,NY,3,2008_3,New York
+129,NC,12,2008_3,North Carolina
+130,ND,54,2008_3,North Dakota
+137,OH,6,2008_3,Ohio
+138,OK,26,2008_3,Oklahoma
+139,OR,10,2008_3,Oregon
+140,PA,6,2008_3,Pennsylvania
+141,RI,25,2008_3,Rhode Island
+142,SC,3,2008_3,South Carolina
+143,SD,0,2008_3,South Dakota
+144,TN,8,2008_3,Tennessee
+145,TX,4,2008_3,Texas
+146,UT,16,2008_3,Utah
+148,VT,0,2008_3,Vermont
+147,VA,3,2008_3,Virginia
+149,WA,15,2008_3,Washington
+151,WV,12,2008_3,West Virginia
+150,WI,2,2008_3,Wisconsin
+152,WY,53,2008_3,Wyoming
+154,AL,11,2008_4,Alabama
+153,AK,20,2008_4,Alaska
+156,AZ,10,2008_4,Arizona
+155,AR,2,2008_4,Arkansas
+157,CA,0,2008_4,California
+158,CO,15,2008_4,Colorado
+159,CT,2,2008_4,Connecticut
+161,DE,13,2008_4,Delaware
+160,DC,1,2008_4,District of Columbia
+162,FL,9,2008_4,Florida
+163,GA,16,2008_4,Georgia
+164,HI,17,2008_4,Hawaii
+166,ID,13,2008_4,Idaho
+167,IL,2,2008_4,Illinois
+168,IN,23,2008_4,Indiana
+165,IA,9,2008_4,Iowa
+169,KS,23,2008_4,Kansas
+170,KY,14,2008_4,Kentucky
+171,LA,12,2008_4,Louisiana
+174,ME,37,2008_4,Maine
+173,MD,4,2008_4,Maryland
+172,MA,10,2008_4,Massachusetts
+175,MI,4,2008_4,Michigan
+176,MN,17,2008_4,Minnesota
+178,MS,26,2008_4,Mississippi
+177,MO,7,2008_4,Missouri
+179,MT,18,2008_4,Montana
+182,NE,7,2008_4,Nebraska
+186,NV,13,2008_4,Nevada
+183,NH,9,2008_4,New Hampshire
+184,NJ,4,2008_4,New Jersey
+185,NM,2,2008_4,New Mexico
+187,NY,16,2008_4,New York
+180,NC,10,2008_4,North Carolina
+181,ND,8,2008_4,North Dakota
+188,OH,16,2008_4,Ohio
+189,OK,13,2008_4,Oklahoma
+190,OR,20,2008_4,Oregon
+191,PA,13,2008_4,Pennsylvania
+192,RI,9,2008_4,Rhode Island
+193,SC,14,2008_4,South Carolina
+194,SD,9,2008_4,South Dakota
+195,TN,20,2008_4,Tennessee
+196,TX,10,2008_4,Texas
+197,UT,8,2008_4,Utah
+199,VT,9,2008_4,Vermont
+198,VA,0,2008_4,Virginia
+200,WA,20,2008_4,Washington
+202,WV,0,2008_4,West Virginia
+201,WI,6,2008_4,Wisconsin
+203,WY,29,2008_4,Wyoming
+205,AL,8,2008_5,Alabama
+204,AK,8,2008_5,Alaska
+207,AZ,7,2008_5,Arizona
+206,AR,6,2008_5,Arkansas
+208,CA,6,2008_5,California
+209,CO,18,2008_5,Colorado
+210,CT,9,2008_5,Connecticut
+212,DE,20,2008_5,Delaware
+211,DC,0,2008_5,District of Columbia
+213,FL,12,2008_5,Florida
+214,GA,21,2008_5,Georgia
+215,HI,1,2008_5,Hawaii
+217,ID,23,2008_5,Idaho
+218,IL,7,2008_5,Illinois
+219,IN,20,2008_5,Indiana
+216,IA,17,2008_5,Iowa
+220,KS,9,2008_5,Kansas
+221,KY,20,2008_5,Kentucky
+222,LA,11,2008_5,Louisiana
+225,ME,23,2008_5,Maine
+224,MD,6,2008_5,Maryland
+223,MA,24,2008_5,Massachusetts
+226,MI,9,2008_5,Michigan
+227,MN,9,2008_5,Minnesota
+229,MS,11,2008_5,Mississippi
+228,MO,14,2008_5,Missouri
+230,MT,17,2008_5,Montana
+233,NE,16,2008_5,Nebraska
+237,NV,22,2008_5,Nevada
+234,NH,22,2008_5,New Hampshire
+235,NJ,19,2008_5,New Jersey
+236,NM,3,2008_5,New Mexico
+238,NY,21,2008_5,New York
+231,NC,12,2008_5,North Carolina
+232,ND,13,2008_5,North Dakota
+239,OH,24,2008_5,Ohio
+240,OK,11,2008_5,Oklahoma
+241,OR,26,2008_5,Oregon
+242,PA,24,2008_5,Pennsylvania
+243,RI,18,2008_5,Rhode Island
+244,SC,22,2008_5,South Carolina
+245,SD,2,2008_5,South Dakota
+246,TN,9,2008_5,Tennessee
+247,TX,12,2008_5,Texas
+248,UT,24,2008_5,Utah
+250,VT,6,2008_5,Vermont
+249,VA,9,2008_5,Virginia
+251,WA,24,2008_5,Washington
+253,WV,15,2008_5,West Virginia
+252,WI,6,2008_5,Wisconsin
+254,WY,14,2008_5,Wyoming
+256,AL,21,2008_6,Alabama
+255,AK,3,2008_6,Alaska
+258,AZ,17,2008_6,Arizona
+257,AR,6,2008_6,Arkansas
+259,CA,1,2008_6,California
+260,CO,12,2008_6,Colorado
+261,CT,11,2008_6,Connecticut
+263,DE,25,2008_6,Delaware
+262,DC,0,2008_6,District of Columbia
+264,FL,12,2008_6,Florida
+265,GA,14,2008_6,Georgia
+266,HI,21,2008_6,Hawaii
+268,ID,18,2008_6,Idaho
+269,IL,8,2008_6,Illinois
+270,IN,25,2008_6,Indiana
+267,IA,18,2008_6,Iowa
+271,KS,16,2008_6,Kansas
+272,KY,25,2008_6,Kentucky
+273,LA,24,2008_6,Louisiana
+276,ME,10,2008_6,Maine
+275,MD,12,2008_6,Maryland
+274,MA,17,2008_6,Massachusetts
+277,MI,16,2008_6,Michigan
+278,MN,8,2008_6,Minnesota
+280,MS,9,2008_6,Mississippi
+279,MO,12,2008_6,Missouri
+281,MT,0,2008_6,Montana
+284,NE,10,2008_6,Nebraska
+288,NV,0,2008_6,Nevada
+285,NH,51,2008_6,New Hampshire
+286,NJ,20,2008_6,New Jersey
+287,NM,27,2008_6,New Mexico
+289,NY,20,2008_6,New York
+282,NC,19,2008_6,North Carolina
+283,ND,0,2008_6,North Dakota
+290,OH,16,2008_6,Ohio
+291,OK,7,2008_6,Oklahoma
+292,OR,28,2008_6,Oregon
+293,PA,24,2008_6,Pennsylvania
+294,RI,24,2008_6,Rhode Island
+295,SC,28,2008_6,South Carolina
+296,SD,3,2008_6,South Dakota
+297,TN,6,2008_6,Tennessee
+298,TX,12,2008_6,Texas
+299,UT,20,2008_6,Utah
+300,VA,2,2008_6,Virginia
+301,WA,18,2008_6,Washington
+303,WV,12,2008_6,West Virginia
+302,WI,0,2008_6,Wisconsin
+304,WY,82,2008_6,Wyoming
+0,VT,0,2008_6,Vermont
+306,AL,8,2008_7,Alabama
+305,AK,32,2008_7,Alaska
+308,AZ,18,2008_7,Arizona
+307,AR,5,2008_7,Arkansas
+309,CA,0,2008_7,California
+310,CO,9,2008_7,Colorado
+311,CT,4,2008_7,Connecticut
+313,DE,8,2008_7,Delaware
+312,DC,0,2008_7,District of Columbia
+314,FL,4,2008_7,Florida
+315,GA,16,2008_7,Georgia
+316,HI,19,2008_7,Hawaii
+318,ID,18,2008_7,Idaho
+319,IL,5,2008_7,Illinois
+320,IN,12,2008_7,Indiana
+317,IA,8,2008_7,Iowa
+321,KS,21,2008_7,Kansas
+322,KY,18,2008_7,Kentucky
+323,LA,13,2008_7,Louisiana
+326,ME,33,2008_7,Maine
+325,MD,0,2008_7,Maryland
+324,MA,9,2008_7,Massachusetts
+327,MI,5,2008_7,Michigan
+328,MN,12,2008_7,Minnesota
+330,MS,5,2008_7,Mississippi
+329,MO,27,2008_7,Missouri
+331,MT,0,2008_7,Montana
+334,NE,11,2008_7,Nebraska
+338,NV,0,2008_7,Nevada
+335,NH,29,2008_7,New Hampshire
+336,NJ,20,2008_7,New Jersey
+337,NM,36,2008_7,New Mexico
+339,NY,22,2008_7,New York
+332,NC,8,2008_7,North Carolina
+333,ND,0,2008_7,North Dakota
+340,OH,8,2008_7,Ohio
+341,OK,8,2008_7,Oklahoma
+342,OR,28,2008_7,Oregon
+343,PA,20,2008_7,Pennsylvania
+344,RI,24,2008_7,Rhode Island
+345,SC,17,2008_7,South Carolina
+346,SD,23,2008_7,South Dakota
+347,TN,2,2008_7,Tennessee
+348,TX,12,2008_7,Texas
+349,UT,11,2008_7,Utah
+350,VA,0,2008_7,Virginia
+351,WA,18,2008_7,Washington
+353,WV,12,2008_7,West Virginia
+352,WI,2,2008_7,Wisconsin
+354,WY,2,2008_7,Wyoming
+0,VT,0,2008_7,Vermont
+356,AL,14,2008_8,Alabama
+355,AK,69,2008_8,Alaska
+358,AZ,13,2008_8,Arizona
+357,AR,6,2008_8,Arkansas
+359,CA,0,2008_8,California
+360,CO,18,2008_8,Colorado
+361,CT,4,2008_8,Connecticut
+363,DE,27,2008_8,Delaware
+362,DC,0,2008_8,District of Columbia
+364,FL,12,2008_8,Florida
+365,GA,11,2008_8,Georgia
+366,HI,29,2008_8,Hawaii
+368,ID,24,2008_8,Idaho
+369,IL,6,2008_8,Illinois
+370,IN,34,2008_8,Indiana
+367,IA,6,2008_8,Iowa
+371,KS,10,2008_8,Kansas
+372,KY,12,2008_8,Kentucky
+373,LA,26,2008_8,Louisiana
+376,ME,42,2008_8,Maine
+375,MD,0,2008_8,Maryland
+374,MA,14,2008_8,Massachusetts
+377,MI,15,2008_8,Michigan
+378,MN,16,2008_8,Minnesota
+380,MS,31,2008_8,Mississippi
+379,MO,10,2008_8,Missouri
+381,MT,7,2008_8,Montana
+384,NE,0,2008_8,Nebraska
+388,NV,28,2008_8,Nevada
+385,NH,27,2008_8,New Hampshire
+386,NJ,20,2008_8,New Jersey
+387,NM,27,2008_8,New Mexico
+389,NY,18,2008_8,New York
+382,NC,12,2008_8,North Carolina
+383,ND,10,2008_8,North Dakota
+390,OH,6,2008_8,Ohio
+391,OK,2,2008_8,Oklahoma
+392,OR,17,2008_8,Oregon
+393,PA,23,2008_8,Pennsylvania
+394,RI,11,2008_8,Rhode Island
+395,SC,6,2008_8,South Carolina
+396,SD,20,2008_8,South Dakota
+397,TN,0,2008_8,Tennessee
+398,TX,12,2008_8,Texas
+399,UT,0,2008_8,Utah
+401,VT,17,2008_8,Vermont
+400,VA,3,2008_8,Virginia
+402,WA,18,2008_8,Washington
+404,WV,12,2008_8,West Virginia
+403,WI,0,2008_8,Wisconsin
+405,WY,29,2008_8,Wyoming
+407,AL,17,2008_9,Alabama
+406,AK,42,2008_9,Alaska
+409,AZ,10,2008_9,Arizona
+408,AR,13,2008_9,Arkansas
+410,CA,0,2008_9,California
+411,CO,10,2008_9,Colorado
+412,CT,2,2008_9,Connecticut
+414,DE,14,2008_9,Delaware
+413,DC,14,2008_9,District of Columbia
+415,FL,6,2008_9,Florida
+416,GA,12,2008_9,Georgia
+417,HI,17,2008_9,Hawaii
+419,ID,28,2008_9,Idaho
+420,IL,8,2008_9,Illinois
+421,IN,10,2008_9,Indiana
+418,IA,5,2008_9,Iowa
+422,KS,6,2008_9,Kansas
+423,KY,12,2008_9,Kentucky
+424,LA,21,2008_9,Louisiana
+427,ME,30,2008_9,Maine
+426,MD,3,2008_9,Maryland
+425,MA,20,2008_9,Massachusetts
+428,MI,0,2008_9,Michigan
+429,MN,4,2008_9,Minnesota
+431,MS,12,2008_9,Mississippi
+430,MO,13,2008_9,Missouri
+432,MT,0,2008_9,Montana
+435,NE,0,2008_9,Nebraska
+439,NV,24,2008_9,Nevada
+436,NH,7,2008_9,New Hampshire
+437,NJ,14,2008_9,New Jersey
+438,NM,0,2008_9,New Mexico
+440,NY,6,2008_9,New York
+433,NC,12,2008_9,North Carolina
+434,ND,8,2008_9,North Dakota
+441,OH,4,2008_9,Ohio
+442,OK,6,2008_9,Oklahoma
+443,OR,4,2008_9,Oregon
+444,PA,13,2008_9,Pennsylvania
+445,RI,16,2008_9,Rhode Island
+446,SC,17,2008_9,South Carolina
+447,SD,15,2008_9,South Dakota
+448,TN,3,2008_9,Tennessee
+449,TX,8,2008_9,Texas
+450,UT,1,2008_9,Utah
+452,VT,54,2008_9,Vermont
+451,VA,6,2008_9,Virginia
+453,WA,17,2008_9,Washington
+455,WV,27,2008_9,West Virginia
+454,WI,0,2008_9,Wisconsin
+456,WY,6,2008_9,Wyoming
+611,AL,0,2009_1,Alabama
+610,AK,8,2009_1,Alaska
+613,AZ,0,2009_1,Arizona
+612,AR,0,2009_1,Arkansas
+614,CA,0,2009_1,California
+615,CO,5,2009_1,Colorado
+616,CT,2,2009_1,Connecticut
+618,DE,2,2009_1,Delaware
+617,DC,0,2009_1,District of Columbia
+619,FL,0,2009_1,Florida
+620,GA,0,2009_1,Georgia
+621,HI,0,2009_1,Hawaii
+623,ID,21,2009_1,Idaho
+624,IL,0,2009_1,Illinois
+625,IN,0,2009_1,Indiana
+622,IA,0,2009_1,Iowa
+626,KS,0,2009_1,Kansas
+627,KY,0,2009_1,Kentucky
+628,LA,3,2009_1,Louisiana
+631,ME,0,2009_1,Maine
+630,MD,2,2009_1,Maryland
+629,MA,10,2009_1,Massachusetts
+632,MI,0,2009_1,Michigan
+633,MN,2,2009_1,Minnesota
+635,MS,17,2009_1,Mississippi
+634,MO,9,2009_1,Missouri
+636,MT,21,2009_1,Montana
+639,NE,0,2009_1,Nebraska
+643,NV,0,2009_1,Nevada
+640,NH,0,2009_1,New Hampshire
+641,NJ,4,2009_1,New Jersey
+642,NM,10,2009_1,New Mexico
+644,NY,0,2009_1,New York
+637,NC,0,2009_1,North Carolina
+638,ND,25,2009_1,North Dakota
+645,OH,0,2009_1,Ohio
+646,OK,0,2009_1,Oklahoma
+647,OR,0,2009_1,Oregon
+648,PA,10,2009_1,Pennsylvania
+649,RI,12,2009_1,Rhode Island
+650,SC,8,2009_1,South Carolina
+651,SD,2,2009_1,South Dakota
+652,TN,8,2009_1,Tennessee
+653,TX,2,2009_1,Texas
+654,UT,13,2009_1,Utah
+656,VT,0,2009_1,Vermont
+655,VA,0,2009_1,Virginia
+657,WA,4,2009_1,Washington
+659,WV,13,2009_1,West Virginia
+658,WI,0,2009_1,Wisconsin
+660,WY,36,2009_1,Wyoming
+1068,AL,33,2009_10,Alabama
+1067,AK,24,2009_10,Alaska
+1070,AZ,14,2009_10,Arizona
+1069,AR,8,2009_10,Arkansas
+1071,CA,10,2009_10,California
+1072,CO,12,2009_10,Colorado
+1073,CT,18,2009_10,Connecticut
+1075,DE,18,2009_10,Delaware
+1074,DC,0,2009_10,District of Columbia
+1076,FL,18,2009_10,Florida
+1077,GA,8,2009_10,Georgia
+1078,HI,2,2009_10,Hawaii
+1080,ID,11,2009_10,Idaho
+1081,IL,6,2009_10,Illinois
+1082,IN,19,2009_10,Indiana
+1079,IA,0,2009_10,Iowa
+1083,KS,55,2009_10,Kansas
+1084,KY,15,2009_10,Kentucky
+1085,LA,28,2009_10,Louisiana
+1088,ME,64,2009_10,Maine
+1087,MD,27,2009_10,Maryland
+1086,MA,35,2009_10,Massachusetts
+1089,MI,37,2009_10,Michigan
+1090,MN,11,2009_10,Minnesota
+1092,MS,49,2009_10,Mississippi
+1091,MO,16,2009_10,Missouri
+1093,MT,45,2009_10,Montana
+1096,NE,22,2009_10,Nebraska
+1100,NV,24,2009_10,Nevada
+1097,NH,39,2009_10,New Hampshire
+1098,NJ,37,2009_10,New Jersey
+1099,NM,20,2009_10,New Mexico
+1101,NY,0,2009_10,New York
+1094,NC,13,2009_10,North Carolina
+1095,ND,10,2009_10,North Dakota
+1102,OH,4,2009_10,Ohio
+1103,OK,12,2009_10,Oklahoma
+1104,OR,18,2009_10,Oregon
+1105,PA,20,2009_10,Pennsylvania
+1106,RI,38,2009_10,Rhode Island
+1107,SC,9,2009_10,South Carolina
+1108,SD,34,2009_10,South Dakota
+1109,TN,14,2009_10,Tennessee
+1110,TX,13,2009_10,Texas
+1111,UT,17,2009_10,Utah
+1113,VT,0,2009_10,Vermont
+1112,VA,18,2009_10,Virginia
+1114,WA,27,2009_10,Washington
+1116,WV,85,2009_10,West Virginia
+1115,WI,0,2009_10,Wisconsin
+1117,WY,36,2009_10,Wyoming
+1119,AL,2,2009_11,Alabama
+1118,AK,6,2009_11,Alaska
+1121,AZ,19,2009_11,Arizona
+1120,AR,18,2009_11,Arkansas
+1122,CA,8,2009_11,California
+1123,CO,22,2009_11,Colorado
+1124,CT,36,2009_11,Connecticut
+1126,DE,34,2009_11,Delaware
+1125,DC,0,2009_11,District of Columbia
+1127,FL,26,2009_11,Florida
+1128,GA,33,2009_11,Georgia
+1129,HI,0,2009_11,Hawaii
+1131,ID,57,2009_11,Idaho
+1132,IL,10,2009_11,Illinois
+1133,IN,32,2009_11,Indiana
+1130,IA,0,2009_11,Iowa
+1134,KS,22,2009_11,Kansas
+1135,KY,28,2009_11,Kentucky
+1136,LA,23,2009_11,Louisiana
+1139,ME,0,2009_11,Maine
+1138,MD,36,2009_11,Maryland
+1137,MA,34,2009_11,Massachusetts
+1140,MI,51,2009_11,Michigan
+1141,MN,10,2009_11,Minnesota
+1143,MS,34,2009_11,Mississippi
+1142,MO,24,2009_11,Missouri
+1144,MT,429,2009_11,Montana
+1147,NE,19,2009_11,Nebraska
+1151,NV,29,2009_11,Nevada
+1148,NH,45,2009_11,New Hampshire
+1149,NJ,36,2009_11,New Jersey
+1150,NM,68,2009_11,New Mexico
+1152,NY,0,2009_11,New York
+1145,NC,20,2009_11,North Carolina
+1146,ND,43,2009_11,North Dakota
+1153,OH,0,2009_11,Ohio
+1154,OK,40,2009_11,Oklahoma
+1155,OR,35,2009_11,Oregon
+1156,PA,28,2009_11,Pennsylvania
+1157,RI,12,2009_11,Rhode Island
+1158,SC,0,2009_11,South Carolina
+1159,SD,16,2009_11,South Dakota
+1160,TN,20,2009_11,Tennessee
+1161,TX,16,2009_11,Texas
+1162,UT,11,2009_11,Utah
+1164,VT,0,2009_11,Vermont
+1163,VA,0,2009_11,Virginia
+1165,WA,14,2009_11,Washington
+1167,WV,26,2009_11,West Virginia
+1166,WI,11,2009_11,Wisconsin
+1168,WY,53,2009_11,Wyoming
+1170,AL,0,2009_12,Alabama
+1169,AK,102,2009_12,Alaska
+1172,AZ,1,2009_12,Arizona
+1171,AR,4,2009_12,Arkansas
+1173,CA,2,2009_12,California
+1174,CO,24,2009_12,Colorado
+1175,CT,18,2009_12,Connecticut
+1177,DE,6,2009_12,Delaware
+1176,DC,0,2009_12,District of Columbia
+1178,FL,28,2009_12,Florida
+1179,GA,34,2009_12,Georgia
+1180,HI,0,2009_12,Hawaii
+1182,ID,29,2009_12,Idaho
+1183,IL,12,2009_12,Illinois
+1184,IN,3,2009_12,Indiana
+1181,IA,0,2009_12,Iowa
+1185,KS,28,2009_12,Kansas
+1186,KY,26,2009_12,Kentucky
+1187,LA,45,2009_12,Louisiana
+1190,ME,124,2009_12,Maine
+1189,MD,0,2009_12,Maryland
+1188,MA,30,2009_12,Massachusetts
+1191,MI,25,2009_12,Michigan
+1192,MN,4,2009_12,Minnesota
+1194,MS,57,2009_12,Mississippi
+1193,MO,37,2009_12,Missouri
+1195,MT,47,2009_12,Montana
+1198,NE,27,2009_12,Nebraska
+1202,NV,31,2009_12,Nevada
+1199,NH,0,2009_12,New Hampshire
+1200,NJ,21,2009_12,New Jersey
+1201,NM,22,2009_12,New Mexico
+1203,NY,1,2009_12,New York
+1196,NC,26,2009_12,North Carolina
+1197,ND,10,2009_12,North Dakota
+1204,OH,0,2009_12,Ohio
+1205,OK,22,2009_12,Oklahoma
+1206,OR,25,2009_12,Oregon
+1207,PA,20,2009_12,Pennsylvania
+1208,RI,32,2009_12,Rhode Island
+1209,SC,0,2009_12,South Carolina
+1210,SD,26,2009_12,South Dakota
+1211,TN,29,2009_12,Tennessee
+1212,TX,16,2009_12,Texas
+1213,UT,28,2009_12,Utah
+1215,VT,0,2009_12,Vermont
+1214,VA,0,2009_12,Virginia
+1216,WA,6,2009_12,Washington
+1218,WV,49,2009_12,West Virginia
+1217,WI,57,2009_12,Wisconsin
+1219,WY,10,2009_12,Wyoming
+662,AL,0,2009_2,Alabama
+661,AK,5,2009_2,Alaska
+664,AZ,6,2009_2,Arizona
+663,AR,7,2009_2,Arkansas
+665,CA,0,2009_2,California
+666,CO,6,2009_2,Colorado
+667,CT,4,2009_2,Connecticut
+669,DE,12,2009_2,Delaware
+668,DC,2,2009_2,District of Columbia
+670,FL,4,2009_2,Florida
+671,GA,6,2009_2,Georgia
+672,HI,0,2009_2,Hawaii
+674,ID,18,2009_2,Idaho
+675,IL,0,2009_2,Illinois
+676,IN,8,2009_2,Indiana
+673,IA,1,2009_2,Iowa
+677,KS,0,2009_2,Kansas
+678,KY,9,2009_2,Kentucky
+679,LA,0,2009_2,Louisiana
+682,ME,0,2009_2,Maine
+681,MD,8,2009_2,Maryland
+680,MA,6,2009_2,Massachusetts
+683,MI,10,2009_2,Michigan
+684,MN,6,2009_2,Minnesota
+686,MS,12,2009_2,Mississippi
+685,MO,2,2009_2,Missouri
+689,NE,14,2009_2,Nebraska
+693,NV,6,2009_2,Nevada
+690,NH,0,2009_2,New Hampshire
+691,NJ,8,2009_2,New Jersey
+692,NM,5,2009_2,New Mexico
+694,NY,2,2009_2,New York
+687,NC,2,2009_2,North Carolina
+688,ND,12,2009_2,North Dakota
+695,OH,2,2009_2,Ohio
+696,OK,0,2009_2,Oklahoma
+697,OR,2,2009_2,Oregon
+698,PA,8,2009_2,Pennsylvania
+699,RI,4,2009_2,Rhode Island
+700,SC,8,2009_2,South Carolina
+701,SD,3,2009_2,South Dakota
+702,TN,6,2009_2,Tennessee
+703,TX,9,2009_2,Texas
+704,UT,8,2009_2,Utah
+706,VT,0,2009_2,Vermont
+705,VA,4,2009_2,Virginia
+707,WA,4,2009_2,Washington
+709,WV,14,2009_2,West Virginia
+708,WI,4,2009_2,Wisconsin
+710,WY,9,2009_2,Wyoming
+0,MT,0,2009_2,Montana
+712,AL,12,2009_3,Alabama
+711,AK,24,2009_3,Alaska
+714,AZ,22,2009_3,Arizona
+713,AR,13,2009_3,Arkansas
+715,CA,8,2009_3,California
+716,CO,16,2009_3,Colorado
+717,CT,17,2009_3,Connecticut
+719,DE,8,2009_3,Delaware
+718,DC,4,2009_3,District of Columbia
+720,FL,10,2009_3,Florida
+721,GA,10,2009_3,Georgia
+722,HI,5,2009_3,Hawaii
+724,ID,25,2009_3,Idaho
+725,IL,15,2009_3,Illinois
+726,IN,21,2009_3,Indiana
+723,IA,34,2009_3,Iowa
+727,KS,0,2009_3,Kansas
+728,KY,15,2009_3,Kentucky
+729,LA,23,2009_3,Louisiana
+732,ME,0,2009_3,Maine
+731,MD,25,2009_3,Maryland
+730,MA,15,2009_3,Massachusetts
+733,MI,17,2009_3,Michigan
+734,MN,13,2009_3,Minnesota
+736,MS,32,2009_3,Mississippi
+735,MO,18,2009_3,Missouri
+737,MT,23,2009_3,Montana
+740,NE,4,2009_3,Nebraska
+744,NV,19,2009_3,Nevada
+741,NH,0,2009_3,New Hampshire
+742,NJ,26,2009_3,New Jersey
+743,NM,10,2009_3,New Mexico
+745,NY,16,2009_3,New York
+738,NC,9,2009_3,North Carolina
+739,ND,26,2009_3,North Dakota
+746,OH,12,2009_3,Ohio
+747,OK,0,2009_3,Oklahoma
+748,OR,17,2009_3,Oregon
+749,PA,23,2009_3,Pennsylvania
+750,RI,9,2009_3,Rhode Island
+751,SC,2,2009_3,South Carolina
+752,SD,8,2009_3,South Dakota
+753,TN,18,2009_3,Tennessee
+754,TX,17,2009_3,Texas
+755,UT,27,2009_3,Utah
+757,VT,0,2009_3,Vermont
+756,VA,8,2009_3,Virginia
+758,WA,10,2009_3,Washington
+760,WV,13,2009_3,West Virginia
+759,WI,25,2009_3,Wisconsin
+761,WY,12,2009_3,Wyoming
+763,AL,22,2009_4,Alabama
+762,AK,13,2009_4,Alaska
+765,AZ,15,2009_4,Arizona
+764,AR,11,2009_4,Arkansas
+766,CA,2,2009_4,California
+767,CO,17,2009_4,Colorado
+768,CT,13,2009_4,Connecticut
+770,DE,14,2009_4,Delaware
+769,DC,7,2009_4,District of Columbia
+771,FL,6,2009_4,Florida
+772,GA,9,2009_4,Georgia
+773,HI,13,2009_4,Hawaii
+775,ID,15,2009_4,Idaho
+776,IL,6,2009_4,Illinois
+777,IN,12,2009_4,Indiana
+774,IA,30,2009_4,Iowa
+778,KS,0,2009_4,Kansas
+779,KY,21,2009_4,Kentucky
+780,LA,22,2009_4,Louisiana
+783,ME,0,2009_4,Maine
+782,MD,13,2009_4,Maryland
+781,MA,8,2009_4,Massachusetts
+784,MI,13,2009_4,Michigan
+785,MN,19,2009_4,Minnesota
+787,MS,13,2009_4,Mississippi
+786,MO,13,2009_4,Missouri
+788,MT,13,2009_4,Montana
+791,NE,7,2009_4,Nebraska
+795,NV,33,2009_4,Nevada
+792,NH,0,2009_4,New Hampshire
+793,NJ,27,2009_4,New Jersey
+794,NM,12,2009_4,New Mexico
+796,NY,19,2009_4,New York
+789,NC,12,2009_4,North Carolina
+790,ND,7,2009_4,North Dakota
+797,OH,4,2009_4,Ohio
+798,OK,0,2009_4,Oklahoma
+799,OR,8,2009_4,Oregon
+800,PA,18,2009_4,Pennsylvania
+801,RI,13,2009_4,Rhode Island
+802,SC,8,2009_4,South Carolina
+803,SD,4,2009_4,South Dakota
+804,TN,16,2009_4,Tennessee
+805,TX,12,2009_4,Texas
+806,UT,19,2009_4,Utah
+808,VT,13,2009_4,Vermont
+807,VA,9,2009_4,Virginia
+809,WA,6,2009_4,Washington
+811,WV,13,2009_4,West Virginia
+810,WI,32,2009_4,Wisconsin
+812,WY,16,2009_4,Wyoming
+814,AL,15,2009_5,Alabama
+813,AK,21,2009_5,Alaska
+816,AZ,13,2009_5,Arizona
+815,AR,9,2009_5,Arkansas
+817,CA,4,2009_5,California
+818,CO,11,2009_5,Colorado
+819,CT,16,2009_5,Connecticut
+821,DE,10,2009_5,Delaware
+820,DC,0,2009_5,District of Columbia
+822,FL,13,2009_5,Florida
+823,GA,22,2009_5,Georgia
+824,HI,0,2009_5,Hawaii
+826,ID,23,2009_5,Idaho
+827,IL,13,2009_5,Illinois
+828,IN,17,2009_5,Indiana
+825,IA,26,2009_5,Iowa
+829,KS,9,2009_5,Kansas
+830,KY,22,2009_5,Kentucky
+831,LA,19,2009_5,Louisiana
+834,ME,0,2009_5,Maine
+833,MD,20,2009_5,Maryland
+832,MA,6,2009_5,Massachusetts
+835,MI,24,2009_5,Michigan
+836,MN,8,2009_5,Minnesota
+838,MS,31,2009_5,Mississippi
+837,MO,27,2009_5,Missouri
+839,MT,15,2009_5,Montana
+842,NE,24,2009_5,Nebraska
+846,NV,22,2009_5,Nevada
+843,NH,0,2009_5,New Hampshire
+844,NJ,20,2009_5,New Jersey
+845,NM,6,2009_5,New Mexico
+847,NY,21,2009_5,New York
+840,NC,16,2009_5,North Carolina
+841,ND,10,2009_5,North Dakota
+848,OH,7,2009_5,Ohio
+849,OK,17,2009_5,Oklahoma
+850,OR,17,2009_5,Oregon
+851,PA,17,2009_5,Pennsylvania
+852,RI,45,2009_5,Rhode Island
+853,SC,21,2009_5,South Carolina
+854,SD,27,2009_5,South Dakota
+855,TN,8,2009_5,Tennessee
+856,TX,13,2009_5,Texas
+857,UT,26,2009_5,Utah
+859,VT,0,2009_5,Vermont
+858,VA,2,2009_5,Virginia
+860,WA,19,2009_5,Washington
+862,WV,42,2009_5,West Virginia
+861,WI,32,2009_5,Wisconsin
+0,WY,0,2009_5,Wyoming
+864,AL,9,2009_6,Alabama
+863,AK,24,2009_6,Alaska
+866,AZ,13,2009_6,Arizona
+865,AR,16,2009_6,Arkansas
+867,CA,4,2009_6,California
+868,CO,12,2009_6,Colorado
+869,CT,24,2009_6,Connecticut
+871,DE,10,2009_6,Delaware
+870,DC,7,2009_6,District of Columbia
+872,FL,12,2009_6,Florida
+873,GA,19,2009_6,Georgia
+874,HI,27,2009_6,Hawaii
+876,ID,13,2009_6,Idaho
+877,IL,7,2009_6,Illinois
+878,IN,13,2009_6,Indiana
+875,IA,8,2009_6,Iowa
+879,KS,15,2009_6,Kansas
+880,KY,15,2009_6,Kentucky
+881,LA,22,2009_6,Louisiana
+884,ME,26,2009_6,Maine
+883,MD,22,2009_6,Maryland
+882,MA,8,2009_6,Massachusetts
+885,MI,12,2009_6,Michigan
+886,MN,10,2009_6,Minnesota
+888,MS,22,2009_6,Mississippi
+887,MO,19,2009_6,Missouri
+889,MT,4,2009_6,Montana
+892,NE,21,2009_6,Nebraska
+896,NV,18,2009_6,Nevada
+893,NH,13,2009_6,New Hampshire
+894,NJ,16,2009_6,New Jersey
+895,NM,2,2009_6,New Mexico
+897,NY,16,2009_6,New York
+890,NC,15,2009_6,North Carolina
+891,ND,16,2009_6,North Dakota
+898,OH,13,2009_6,Ohio
+899,OK,33,2009_6,Oklahoma
+900,OR,26,2009_6,Oregon
+901,PA,17,2009_6,Pennsylvania
+902,RI,15,2009_6,Rhode Island
+903,SC,24,2009_6,South Carolina
+904,SD,5,2009_6,South Dakota
+905,TN,26,2009_6,Tennessee
+906,TX,14,2009_6,Texas
+907,UT,22,2009_6,Utah
+909,VT,0,2009_6,Vermont
+908,VA,0,2009_6,Virginia
+910,WA,15,2009_6,Washington
+912,WV,15,2009_6,West Virginia
+911,WI,24,2009_6,Wisconsin
+913,WY,12,2009_6,Wyoming
+915,AL,26,2009_7,Alabama
+914,AK,6,2009_7,Alaska
+917,AZ,17,2009_7,Arizona
+916,AR,8,2009_7,Arkansas
+918,CA,2,2009_7,California
+919,CO,16,2009_7,Colorado
+920,CT,8,2009_7,Connecticut
+922,DE,12,2009_7,Delaware
+921,DC,21,2009_7,District of Columbia
+923,FL,15,2009_7,Florida
+924,GA,14,2009_7,Georgia
+925,HI,30,2009_7,Hawaii
+927,ID,43,2009_7,Idaho
+928,IL,16,2009_7,Illinois
+929,IN,21,2009_7,Indiana
+926,IA,14,2009_7,Iowa
+930,KS,25,2009_7,Kansas
+931,KY,26,2009_7,Kentucky
+932,LA,28,2009_7,Louisiana
+935,ME,15,2009_7,Maine
+934,MD,24,2009_7,Maryland
+933,MA,12,2009_7,Massachusetts
+936,MI,28,2009_7,Michigan
+937,MN,2,2009_7,Minnesota
+939,MS,24,2009_7,Mississippi
+938,MO,26,2009_7,Missouri
+940,MT,18,2009_7,Montana
+943,NE,32,2009_7,Nebraska
+947,NV,24,2009_7,Nevada
+944,NH,12,2009_7,New Hampshire
+945,NJ,24,2009_7,New Jersey
+946,NM,22,2009_7,New Mexico
+948,NY,28,2009_7,New York
+941,NC,18,2009_7,North Carolina
+942,ND,18,2009_7,North Dakota
+949,OH,9,2009_7,Ohio
+950,OK,0,2009_7,Oklahoma
+951,OR,24,2009_7,Oregon
+952,PA,10,2009_7,Pennsylvania
+953,RI,44,2009_7,Rhode Island
+954,SC,19,2009_7,South Carolina
+955,SD,9,2009_7,South Dakota
+956,TN,33,2009_7,Tennessee
+957,TX,12,2009_7,Texas
+958,UT,19,2009_7,Utah
+960,VT,11,2009_7,Vermont
+959,VA,0,2009_7,Virginia
+961,WA,17,2009_7,Washington
+963,WV,34,2009_7,West Virginia
+962,WI,24,2009_7,Wisconsin
+964,WY,43,2009_7,Wyoming
+966,AL,20,2009_8,Alabama
+965,AK,28,2009_8,Alaska
+968,AZ,15,2009_8,Arizona
+967,AR,5,2009_8,Arkansas
+969,CA,0,2009_8,California
+970,CO,14,2009_8,Colorado
+971,CT,6,2009_8,Connecticut
+973,DE,12,2009_8,Delaware
+972,DC,12,2009_8,District of Columbia
+974,FL,16,2009_8,Florida
+975,GA,10,2009_8,Georgia
+976,HI,12,2009_8,Hawaii
+978,ID,32,2009_8,Idaho
+979,IL,19,2009_8,Illinois
+980,IN,24,2009_8,Indiana
+977,IA,34,2009_8,Iowa
+981,KS,30,2009_8,Kansas
+982,KY,42,2009_8,Kentucky
+983,LA,18,2009_8,Louisiana
+986,ME,0,2009_8,Maine
+985,MD,18,2009_8,Maryland
+984,MA,32,2009_8,Massachusetts
+987,MI,20,2009_8,Michigan
+988,MN,6,2009_8,Minnesota
+990,MS,25,2009_8,Mississippi
+989,MO,14,2009_8,Missouri
+991,MT,80,2009_8,Montana
+994,NE,24,2009_8,Nebraska
+998,NV,16,2009_8,Nevada
+995,NH,32,2009_8,New Hampshire
+996,NJ,30,2009_8,New Jersey
+997,NM,6,2009_8,New Mexico
+999,NY,25,2009_8,New York
+992,NC,12,2009_8,North Carolina
+993,ND,171,2009_8,North Dakota
+1000,OH,10,2009_8,Ohio
+1001,OK,8,2009_8,Oklahoma
+1002,OR,14,2009_8,Oregon
+1003,PA,9,2009_8,Pennsylvania
+1004,RI,28,2009_8,Rhode Island
+1005,SC,29,2009_8,South Carolina
+1006,SD,11,2009_8,South Dakota
+1007,TN,11,2009_8,Tennessee
+1008,TX,16,2009_8,Texas
+1009,UT,10,2009_8,Utah
+1011,VT,0,2009_8,Vermont
+1010,VA,0,2009_8,Virginia
+1012,WA,19,2009_8,Washington
+1014,WV,68,2009_8,West Virginia
+1013,WI,11,2009_8,Wisconsin
+1015,WY,66,2009_8,Wyoming
+1017,AL,39,2009_9,Alabama
+1016,AK,21,2009_9,Alaska
+1019,AZ,12,2009_9,Arizona
+1018,AR,14,2009_9,Arkansas
+1020,CA,0,2009_9,California
+1021,CO,12,2009_9,Colorado
+1022,CT,25,2009_9,Connecticut
+1024,DE,17,2009_9,Delaware
+1023,DC,0,2009_9,District of Columbia
+1025,FL,14,2009_9,Florida
+1026,GA,13,2009_9,Georgia
+1027,HI,8,2009_9,Hawaii
+1029,ID,18,2009_9,Idaho
+1030,IL,23,2009_9,Illinois
+1031,IN,16,2009_9,Indiana
+1028,IA,26,2009_9,Iowa
+1032,KS,64,2009_9,Kansas
+1033,KY,21,2009_9,Kentucky
+1034,LA,14,2009_9,Louisiana
+1037,ME,0,2009_9,Maine
+1036,MD,31,2009_9,Maryland
+1035,MA,32,2009_9,Massachusetts
+1038,MI,53,2009_9,Michigan
+1039,MN,6,2009_9,Minnesota
+1041,MS,42,2009_9,Mississippi
+1040,MO,12,2009_9,Missouri
+1042,MT,45,2009_9,Montana
+1045,NE,4,2009_9,Nebraska
+1049,NV,31,2009_9,Nevada
+1046,NH,20,2009_9,New Hampshire
+1047,NJ,38,2009_9,New Jersey
+1048,NM,34,2009_9,New Mexico
+1050,NY,22,2009_9,New York
+1043,NC,43,2009_9,North Carolina
+1044,ND,249,2009_9,North Dakota
+1051,OH,7,2009_9,Ohio
+1052,OK,26,2009_9,Oklahoma
+1053,OR,34,2009_9,Oregon
+1054,PA,28,2009_9,Pennsylvania
+1055,RI,24,2009_9,Rhode Island
+1056,SC,56,2009_9,South Carolina
+1057,SD,38,2009_9,South Dakota
+1058,TN,22,2009_9,Tennessee
+1059,TX,18,2009_9,Texas
+1060,UT,34,2009_9,Utah
+1062,VT,0,2009_9,Vermont
+1061,VA,8,2009_9,Virginia
+1063,WA,17,2009_9,Washington
+1065,WV,68,2009_9,West Virginia
+1064,WI,5,2009_9,Wisconsin
+1066,WY,32,2009_9,Wyoming
+1221,AL,11,2010_1,Alabama
+1220,AK,37,2010_1,Alaska
+1223,AZ,16,2010_1,Arizona
+1222,AR,10,2010_1,Arkansas
+1224,CA,6,2010_1,California
+1225,CO,21,2010_1,Colorado
+1226,CT,24,2010_1,Connecticut
+1228,DE,38,2010_1,Delaware
+1227,DC,13,2010_1,District of Columbia
+1229,FL,31,2010_1,Florida
+1230,GA,30,2010_1,Georgia
+1231,HI,0,2010_1,Hawaii
+1233,ID,10,2010_1,Idaho
+1234,IL,18,2010_1,Illinois
+1235,IN,46,2010_1,Indiana
+1232,IA,0,2010_1,Iowa
+1236,KS,22,2010_1,Kansas
+1237,KY,15,2010_1,Kentucky
+1238,LA,27,2010_1,Louisiana
+1241,ME,136,2010_1,Maine
+1240,MD,2,2010_1,Maryland
+1239,MA,28,2010_1,Massachusetts
+1242,MI,20,2010_1,Michigan
+1243,MN,6,2010_1,Minnesota
+1245,MS,255,2010_1,Mississippi
+1244,MO,28,2010_1,Missouri
+1246,MT,93,2010_1,Montana
+1249,NE,22,2010_1,Nebraska
+1253,NV,22,2010_1,Nevada
+1250,NH,10,2010_1,New Hampshire
+1251,NJ,61,2010_1,New Jersey
+1252,NM,60,2010_1,New Mexico
+1254,NY,10,2010_1,New York
+1247,NC,28,2010_1,North Carolina
+1248,ND,20,2010_1,North Dakota
+1255,OH,0,2010_1,Ohio
+1256,OK,32,2010_1,Oklahoma
+1257,OR,15,2010_1,Oregon
+1258,PA,25,2010_1,Pennsylvania
+1259,RI,30,2010_1,Rhode Island
+1260,SC,22,2010_1,South Carolina
+1261,SD,12,2010_1,South Dakota
+1262,TN,18,2010_1,Tennessee
+1263,TX,20,2010_1,Texas
+1264,UT,9,2010_1,Utah
+1266,VT,0,2010_1,Vermont
+1265,VA,17,2010_1,Virginia
+1267,WA,10,2010_1,Washington
+1269,WV,126,2010_1,West Virginia
+1268,WI,61,2010_1,Wisconsin
+1270,WY,19,2010_1,Wyoming
+1679,AL,4,2010_10,Alabama
+1678,AK,33,2010_10,Alaska
+1681,AZ,26,2010_10,Arizona
+1680,AR,28,2010_10,Arkansas
+1682,CA,27,2010_10,California
+1683,CO,24,2010_10,Colorado
+1684,CT,26,2010_10,Connecticut
+1686,DE,20,2010_10,Delaware
+1685,DC,27,2010_10,District of Columbia
+1687,FL,26,2010_10,Florida
+1688,GA,26,2010_10,Georgia
+1689,HI,34,2010_10,Hawaii
+1691,ID,39,2010_10,Idaho
+1692,IL,27,2010_10,Illinois
+1693,IN,26,2010_10,Indiana
+1690,IA,18,2010_10,Iowa
+1694,KS,23,2010_10,Kansas
+1695,KY,12,2010_10,Kentucky
+1696,LA,24,2010_10,Louisiana
+1699,ME,20,2010_10,Maine
+1698,MD,19,2010_10,Maryland
+1697,MA,26,2010_10,Massachusetts
+1700,MI,27,2010_10,Michigan
+1701,MN,23,2010_10,Minnesota
+1703,MS,19,2010_10,Mississippi
+1702,MO,18,2010_10,Missouri
+1704,MT,23,2010_10,Montana
+1707,NE,22,2010_10,Nebraska
+1711,NV,28,2010_10,Nevada
+1708,NH,4,2010_10,New Hampshire
+1709,NJ,26,2010_10,New Jersey
+1710,NM,18,2010_10,New Mexico
+1712,NY,26,2010_10,New York
+1705,NC,23,2010_10,North Carolina
+1706,ND,40,2010_10,North Dakota
+1713,OH,26,2010_10,Ohio
+1714,OK,18,2010_10,Oklahoma
+1715,OR,26,2010_10,Oregon
+1716,PA,28,2010_10,Pennsylvania
+1717,RI,29,2010_10,Rhode Island
+1718,SC,9,2010_10,South Carolina
+1719,SD,26,2010_10,South Dakota
+1720,TN,20,2010_10,Tennessee
+1721,TX,24,2010_10,Texas
+1722,UT,21,2010_10,Utah
+1724,VT,4,2010_10,Vermont
+1723,VA,12,2010_10,Virginia
+1725,WA,31,2010_10,Washington
+1727,WV,28,2010_10,West Virginia
+1726,WI,34,2010_10,Wisconsin
+1728,WY,44,2010_10,Wyoming
+1730,AL,12,2010_11,Alabama
+1729,AK,35,2010_11,Alaska
+1732,AZ,26,2010_11,Arizona
+1731,AR,30,2010_11,Arkansas
+1733,CA,35,2010_11,California
+1734,CO,24,2010_11,Colorado
+1735,CT,31,2010_11,Connecticut
+1737,DE,26,2010_11,Delaware
+1736,DC,20,2010_11,District of Columbia
+1738,FL,32,2010_11,Florida
+1739,GA,29,2010_11,Georgia
+1740,HI,27,2010_11,Hawaii
+1742,ID,22,2010_11,Idaho
+1743,IL,30,2010_11,Illinois
+1744,IN,27,2010_11,Indiana
+1741,IA,31,2010_11,Iowa
+1745,KS,28,2010_11,Kansas
+1746,KY,36,2010_11,Kentucky
+1747,LA,11,2010_11,Louisiana
+1750,ME,28,2010_11,Maine
+1749,MD,40,2010_11,Maryland
+1748,MA,32,2010_11,Massachusetts
+1751,MI,41,2010_11,Michigan
+1752,MN,30,2010_11,Minnesota
+1754,MS,26,2010_11,Mississippi
+1753,MO,26,2010_11,Missouri
+1755,MT,18,2010_11,Montana
+1758,NE,16,2010_11,Nebraska
+1762,NV,22,2010_11,Nevada
+1759,NH,34,2010_11,New Hampshire
+1760,NJ,33,2010_11,New Jersey
+1761,NM,28,2010_11,New Mexico
+1763,NY,30,2010_11,New York
+1756,NC,26,2010_11,North Carolina
+1757,ND,16,2010_11,North Dakota
+1764,OH,34,2010_11,Ohio
+1765,OK,27,2010_11,Oklahoma
+1766,OR,20,2010_11,Oregon
+1767,PA,30,2010_11,Pennsylvania
+1768,RI,26,2010_11,Rhode Island
+1769,SC,17,2010_11,South Carolina
+1770,SD,27,2010_11,South Dakota
+1771,TN,28,2010_11,Tennessee
+1772,TX,32,2010_11,Texas
+1773,UT,40,2010_11,Utah
+1775,VT,44,2010_11,Vermont
+1774,VA,16,2010_11,Virginia
+1776,WA,35,2010_11,Washington
+1778,WV,60,2010_11,West Virginia
+1777,WI,40,2010_11,Wisconsin
+1779,WY,16,2010_11,Wyoming
+1781,AL,16,2010_12,Alabama
+1780,AK,24,2010_12,Alaska
+1783,AZ,19,2010_12,Arizona
+1782,AR,20,2010_12,Arkansas
+1784,CA,33,2010_12,California
+1785,CO,20,2010_12,Colorado
+1786,CT,40,2010_12,Connecticut
+1788,DE,30,2010_12,Delaware
+1787,DC,23,2010_12,District of Columbia
+1789,FL,26,2010_12,Florida
+1790,GA,39,2010_12,Georgia
+1791,HI,42,2010_12,Hawaii
+1793,ID,31,2010_12,Idaho
+1794,IL,29,2010_12,Illinois
+1795,IN,33,2010_12,Indiana
+1792,IA,21,2010_12,Iowa
+1796,KS,21,2010_12,Kansas
+1797,KY,32,2010_12,Kentucky
+1798,LA,26,2010_12,Louisiana
+1801,ME,12,2010_12,Maine
+1800,MD,31,2010_12,Maryland
+1799,MA,36,2010_12,Massachusetts
+1802,MI,28,2010_12,Michigan
+1803,MN,25,2010_12,Minnesota
+1805,MS,33,2010_12,Mississippi
+1804,MO,28,2010_12,Missouri
+1806,MT,22,2010_12,Montana
+1809,NE,24,2010_12,Nebraska
+1813,NV,33,2010_12,Nevada
+1810,NH,34,2010_12,New Hampshire
+1811,NJ,38,2010_12,New Jersey
+1812,NM,29,2010_12,New Mexico
+1814,NY,30,2010_12,New York
+1807,NC,24,2010_12,North Carolina
+1808,ND,26,2010_12,North Dakota
+1815,OH,29,2010_12,Ohio
+1816,OK,39,2010_12,Oklahoma
+1817,OR,25,2010_12,Oregon
+1818,PA,35,2010_12,Pennsylvania
+1819,RI,46,2010_12,Rhode Island
+1820,SC,23,2010_12,South Carolina
+1821,SD,49,2010_12,South Dakota
+1822,TN,27,2010_12,Tennessee
+1823,TX,30,2010_12,Texas
+1824,UT,27,2010_12,Utah
+1826,VT,48,2010_12,Vermont
+1825,VA,8,2010_12,Virginia
+1827,WA,33,2010_12,Washington
+1829,WV,18,2010_12,West Virginia
+1828,WI,47,2010_12,Wisconsin
+1830,WY,34,2010_12,Wyoming
+1272,AL,22,2010_2,Alabama
+1271,AK,16,2010_2,Alaska
+1274,AZ,10,2010_2,Arizona
+1273,AR,12,2010_2,Arkansas
+1275,CA,18,2010_2,California
+1276,CO,15,2010_2,Colorado
+1277,CT,10,2010_2,Connecticut
+1279,DE,19,2010_2,Delaware
+1278,DC,110,2010_2,District of Columbia
+1280,FL,24,2010_2,Florida
+1281,GA,35,2010_2,Georgia
+1282,HI,40,2010_2,Hawaii
+1284,ID,12,2010_2,Idaho
+1285,IL,34,2010_2,Illinois
+1286,IN,26,2010_2,Indiana
+1283,IA,1,2010_2,Iowa
+1287,KS,13,2010_2,Kansas
+1288,KY,33,2010_2,Kentucky
+1289,LA,45,2010_2,Louisiana
+1291,MD,11,2010_2,Maryland
+1290,MA,46,2010_2,Massachusetts
+1292,MI,22,2010_2,Michigan
+1293,MN,12,2010_2,Minnesota
+1295,MS,0,2010_2,Mississippi
+1294,MO,18,2010_2,Missouri
+1296,MT,133,2010_2,Montana
+1299,NE,7,2010_2,Nebraska
+1303,NV,16,2010_2,Nevada
+1300,NH,60,2010_2,New Hampshire
+1301,NJ,43,2010_2,New Jersey
+1302,NM,245,2010_2,New Mexico
+1304,NY,41,2010_2,New York
+1297,NC,28,2010_2,North Carolina
+1298,ND,22,2010_2,North Dakota
+1305,OH,18,2010_2,Ohio
+1306,OK,21,2010_2,Oklahoma
+1307,OR,33,2010_2,Oregon
+1308,PA,36,2010_2,Pennsylvania
+1309,RI,38,2010_2,Rhode Island
+1310,SC,11,2010_2,South Carolina
+1311,SD,32,2010_2,South Dakota
+1312,TN,8,2010_2,Tennessee
+1313,TX,28,2010_2,Texas
+1314,UT,18,2010_2,Utah
+1316,VT,5,2010_2,Vermont
+1315,VA,12,2010_2,Virginia
+1317,WA,19,2010_2,Washington
+1319,WV,46,2010_2,West Virginia
+1318,WI,34,2010_2,Wisconsin
+1320,WY,18,2010_2,Wyoming
+0,ME,0,2010_2,Maine
+1322,AL,13,2010_3,Alabama
+1321,AK,25,2010_3,Alaska
+1324,AZ,18,2010_3,Arizona
+1323,AR,6,2010_3,Arkansas
+1325,CA,12,2010_3,California
+1326,CO,17,2010_3,Colorado
+1327,CT,37,2010_3,Connecticut
+1329,DE,29,2010_3,Delaware
+1328,DC,22,2010_3,District of Columbia
+1330,FL,32,2010_3,Florida
+1331,GA,33,2010_3,Georgia
+1332,HI,237,2010_3,Hawaii
+1334,ID,12,2010_3,Idaho
+1335,IL,51,2010_3,Illinois
+1336,IN,31,2010_3,Indiana
+1333,IA,4,2010_3,Iowa
+1337,KS,17,2010_3,Kansas
+1338,KY,46,2010_3,Kentucky
+1339,LA,23,2010_3,Louisiana
+1342,ME,44,2010_3,Maine
+1341,MD,62,2010_3,Maryland
+1340,MA,46,2010_3,Massachusetts
+1343,MI,31,2010_3,Michigan
+1344,MN,22,2010_3,Minnesota
+1346,MS,40,2010_3,Mississippi
+1345,MO,42,2010_3,Missouri
+1347,MT,110,2010_3,Montana
+1350,NE,10,2010_3,Nebraska
+1354,NV,19,2010_3,Nevada
+1351,NH,30,2010_3,New Hampshire
+1352,NJ,41,2010_3,New Jersey
+1353,NM,94,2010_3,New Mexico
+1355,NY,49,2010_3,New York
+1348,NC,26,2010_3,North Carolina
+1349,ND,48,2010_3,North Dakota
+1356,OH,8,2010_3,Ohio
+1357,OK,34,2010_3,Oklahoma
+1358,OR,28,2010_3,Oregon
+1359,PA,47,2010_3,Pennsylvania
+1360,RI,18,2010_3,Rhode Island
+1361,SC,18,2010_3,South Carolina
+1362,SD,23,2010_3,South Dakota
+1363,TN,24,2010_3,Tennessee
+1364,TX,28,2010_3,Texas
+1365,UT,18,2010_3,Utah
+1367,VT,2,2010_3,Vermont
+1366,VA,14,2010_3,Virginia
+1368,WA,26,2010_3,Washington
+1370,WV,96,2010_3,West Virginia
+1369,WI,38,2010_3,Wisconsin
+1371,WY,12,2010_3,Wyoming
+1373,AL,105,2010_4,Alabama
+1372,AK,53,2010_4,Alaska
+1375,AZ,14,2010_4,Arizona
+1374,AR,58,2010_4,Arkansas
+1376,CA,15,2010_4,California
+1377,CO,19,2010_4,Colorado
+1378,CT,29,2010_4,Connecticut
+1380,DE,16,2010_4,Delaware
+1379,DC,74,2010_4,District of Columbia
+1381,FL,48,2010_4,Florida
+1382,GA,52,2010_4,Georgia
+1383,HI,68,2010_4,Hawaii
+1385,ID,14,2010_4,Idaho
+1386,IL,30,2010_4,Illinois
+1387,IN,38,2010_4,Indiana
+1384,IA,26,2010_4,Iowa
+1388,KS,12,2010_4,Kansas
+1389,KY,39,2010_4,Kentucky
+1390,LA,34,2010_4,Louisiana
+1393,ME,9,2010_4,Maine
+1392,MD,58,2010_4,Maryland
+1391,MA,41,2010_4,Massachusetts
+1394,MI,22,2010_4,Michigan
+1395,MN,30,2010_4,Minnesota
+1397,MS,41,2010_4,Mississippi
+1396,MO,30,2010_4,Missouri
+1398,MT,43,2010_4,Montana
+1401,NE,46,2010_4,Nebraska
+1405,NV,57,2010_4,Nevada
+1402,NH,25,2010_4,New Hampshire
+1403,NJ,68,2010_4,New Jersey
+1404,NM,80,2010_4,New Mexico
+1406,NY,52,2010_4,New York
+1399,NC,40,2010_4,North Carolina
+1400,ND,40,2010_4,North Dakota
+1407,OH,8,2010_4,Ohio
+1408,OK,42,2010_4,Oklahoma
+1409,OR,18,2010_4,Oregon
+1410,PA,32,2010_4,Pennsylvania
+1411,RI,42,2010_4,Rhode Island
+1412,SC,10,2010_4,South Carolina
+1413,SD,24,2010_4,South Dakota
+1414,TN,9,2010_4,Tennessee
+1415,TX,32,2010_4,Texas
+1416,UT,24,2010_4,Utah
+1418,VT,15,2010_4,Vermont
+1417,VA,27,2010_4,Virginia
+1419,WA,34,2010_4,Washington
+1421,WV,20,2010_4,West Virginia
+1420,WI,61,2010_4,Wisconsin
+1422,WY,24,2010_4,Wyoming
+1424,AL,26,2010_5,Alabama
+1423,AK,16,2010_5,Alaska
+1426,AZ,13,2010_5,Arizona
+1425,AR,36,2010_5,Arkansas
+1427,CA,4,2010_5,California
+1428,CO,20,2010_5,Colorado
+1429,CT,19,2010_5,Connecticut
+1431,DE,17,2010_5,Delaware
+1430,DC,20,2010_5,District of Columbia
+1432,FL,28,2010_5,Florida
+1433,GA,30,2010_5,Georgia
+1434,HI,28,2010_5,Hawaii
+1436,ID,16,2010_5,Idaho
+1437,IL,16,2010_5,Illinois
+1438,IN,18,2010_5,Indiana
+1435,IA,24,2010_5,Iowa
+1439,KS,8,2010_5,Kansas
+1440,KY,12,2010_5,Kentucky
+1441,LA,12,2010_5,Louisiana
+1444,ME,0,2010_5,Maine
+1443,MD,33,2010_5,Maryland
+1442,MA,24,2010_5,Massachusetts
+1445,MI,12,2010_5,Michigan
+1446,MN,26,2010_5,Minnesota
+1448,MS,42,2010_5,Mississippi
+1447,MO,26,2010_5,Missouri
+1449,MT,0,2010_5,Montana
+1452,NE,27,2010_5,Nebraska
+1456,NV,25,2010_5,Nevada
+1453,NH,13,2010_5,New Hampshire
+1454,NJ,27,2010_5,New Jersey
+1455,NM,36,2010_5,New Mexico
+1457,NY,22,2010_5,New York
+1450,NC,25,2010_5,North Carolina
+1451,ND,30,2010_5,North Dakota
+1458,OH,0,2010_5,Ohio
+1459,OK,14,2010_5,Oklahoma
+1460,OR,6,2010_5,Oregon
+1461,PA,19,2010_5,Pennsylvania
+1462,RI,2,2010_5,Rhode Island
+1463,SC,8,2010_5,South Carolina
+1464,SD,57,2010_5,South Dakota
+1465,TN,10,2010_5,Tennessee
+1466,TX,21,2010_5,Texas
+1467,UT,14,2010_5,Utah
+1469,VT,25,2010_5,Vermont
+1468,VA,18,2010_5,Virginia
+1470,WA,32,2010_5,Washington
+1472,WV,70,2010_5,West Virginia
+1471,WI,17,2010_5,Wisconsin
+1473,WY,22,2010_5,Wyoming
+1475,AL,1,2010_6,Alabama
+1474,AK,1,2010_6,Alaska
+1477,AZ,1,2010_6,Arizona
+1476,AR,1,2010_6,Arkansas
+1478,CA,1,2010_6,California
+1479,CO,1,2010_6,Colorado
+1480,CT,1,2010_6,Connecticut
+1482,DE,1,2010_6,Delaware
+1481,DC,1,2010_6,District of Columbia
+1483,FL,1,2010_6,Florida
+1484,GA,1,2010_6,Georgia
+1485,HI,1,2010_6,Hawaii
+1487,ID,30,2010_6,Idaho
+1488,IL,1,2010_6,Illinois
+1489,IN,1,2010_6,Indiana
+1486,IA,1,2010_6,Iowa
+1490,KS,1,2010_6,Kansas
+1491,KY,1,2010_6,Kentucky
+1492,LA,1,2010_6,Louisiana
+1495,ME,1,2010_6,Maine
+1494,MD,1,2010_6,Maryland
+1493,MA,1,2010_6,Massachusetts
+1496,MI,1,2010_6,Michigan
+1497,MN,4,2010_6,Minnesota
+1499,MS,1,2010_6,Mississippi
+1498,MO,1,2010_6,Missouri
+1500,MT,6,2010_6,Montana
+1503,NE,1,2010_6,Nebraska
+1507,NV,1,2010_6,Nevada
+1504,NH,1,2010_6,New Hampshire
+1505,NJ,1,2010_6,New Jersey
+1506,NM,1,2010_6,New Mexico
+1508,NY,2,2010_6,New York
+1501,NC,1,2010_6,North Carolina
+1502,ND,39,2010_6,North Dakota
+1509,OH,1,2010_6,Ohio
+1510,OK,1,2010_6,Oklahoma
+1511,OR,1,2010_6,Oregon
+1512,PA,1,2010_6,Pennsylvania
+1513,RI,1,2010_6,Rhode Island
+1514,SC,1,2010_6,South Carolina
+1515,SD,1,2010_6,South Dakota
+1516,TN,1,2010_6,Tennessee
+1517,TX,1,2010_6,Texas
+1518,UT,1,2010_6,Utah
+1520,VT,1,2010_6,Vermont
+1519,VA,1,2010_6,Virginia
+1521,WA,1,2010_6,Washington
+1523,WV,1,2010_6,West Virginia
+1522,WI,1,2010_6,Wisconsin
+1524,WY,1,2010_6,Wyoming
+1526,AL,5,2010_7,Alabama
+1525,AK,14,2010_7,Alaska
+1528,AZ,6,2010_7,Arizona
+1527,AR,6,2010_7,Arkansas
+1529,CA,3,2010_7,California
+1530,CO,11,2010_7,Colorado
+1531,CT,2,2010_7,Connecticut
+1533,DE,7,2010_7,Delaware
+1532,DC,4,2010_7,District of Columbia
+1534,FL,6,2010_7,Florida
+1535,GA,5,2010_7,Georgia
+1536,HI,59,2010_7,Hawaii
+1538,ID,27,2010_7,Idaho
+1539,IL,6,2010_7,Illinois
+1540,IN,6,2010_7,Indiana
+1537,IA,8,2010_7,Iowa
+1541,KS,6,2010_7,Kansas
+1542,KY,0,2010_7,Kentucky
+1543,LA,7,2010_7,Louisiana
+1546,ME,10,2010_7,Maine
+1545,MD,12,2010_7,Maryland
+1544,MA,4,2010_7,Massachusetts
+1547,MI,6,2010_7,Michigan
+1548,MN,16,2010_7,Minnesota
+1550,MS,4,2010_7,Mississippi
+1549,MO,6,2010_7,Missouri
+1551,MT,0,2010_7,Montana
+1554,NE,12,2010_7,Nebraska
+1558,NV,23,2010_7,Nevada
+1555,NH,4,2010_7,New Hampshire
+1556,NJ,6,2010_7,New Jersey
+1557,NM,35,2010_7,New Mexico
+1559,NY,6,2010_7,New York
+1552,NC,14,2010_7,North Carolina
+1553,ND,17,2010_7,North Dakota
+1560,OH,12,2010_7,Ohio
+1561,OK,4,2010_7,Oklahoma
+1562,OR,16,2010_7,Oregon
+1563,PA,6,2010_7,Pennsylvania
+1564,RI,3,2010_7,Rhode Island
+1565,SC,4,2010_7,South Carolina
+1566,SD,18,2010_7,South Dakota
+1567,TN,5,2010_7,Tennessee
+1568,TX,8,2010_7,Texas
+1569,UT,8,2010_7,Utah
+1571,VT,6,2010_7,Vermont
+1570,VA,4,2010_7,Virginia
+1572,WA,6,2010_7,Washington
+1574,WV,39,2010_7,West Virginia
+1573,WI,2,2010_7,Wisconsin
+1575,WY,18,2010_7,Wyoming
+1577,AL,17,2010_8,Alabama
+1576,AK,39,2010_8,Alaska
+1579,AZ,18,2010_8,Arizona
+1578,AR,9,2010_8,Arkansas
+1580,CA,5,2010_8,California
+1581,CO,13,2010_8,Colorado
+1582,CT,13,2010_8,Connecticut
+1584,DE,27,2010_8,Delaware
+1583,DC,0,2010_8,District of Columbia
+1585,FL,22,2010_8,Florida
+1586,GA,17,2010_8,Georgia
+1587,HI,41,2010_8,Hawaii
+1589,ID,38,2010_8,Idaho
+1590,IL,36,2010_8,Illinois
+1591,IN,34,2010_8,Indiana
+1588,IA,15,2010_8,Iowa
+1592,KS,15,2010_8,Kansas
+1593,KY,25,2010_8,Kentucky
+1594,LA,6,2010_8,Louisiana
+1597,ME,40,2010_8,Maine
+1596,MD,21,2010_8,Maryland
+1595,MA,27,2010_8,Massachusetts
+1598,MI,33,2010_8,Michigan
+1599,MN,29,2010_8,Minnesota
+1601,MS,20,2010_8,Mississippi
+1600,MO,12,2010_8,Missouri
+1602,MT,12,2010_8,Montana
+1605,NE,13,2010_8,Nebraska
+1609,NV,32,2010_8,Nevada
+1606,NH,20,2010_8,New Hampshire
+1607,NJ,29,2010_8,New Jersey
+1608,NM,28,2010_8,New Mexico
+1610,NY,23,2010_8,New York
+1603,NC,22,2010_8,North Carolina
+1604,ND,25,2010_8,North Dakota
+1611,OH,28,2010_8,Ohio
+1612,OK,11,2010_8,Oklahoma
+1613,OR,0,2010_8,Oregon
+1614,PA,28,2010_8,Pennsylvania
+1615,RI,32,2010_8,Rhode Island
+1616,SC,12,2010_8,South Carolina
+1617,SD,39,2010_8,South Dakota
+1618,TN,17,2010_8,Tennessee
+1619,TX,17,2010_8,Texas
+1620,UT,4,2010_8,Utah
+1622,VT,23,2010_8,Vermont
+1621,VA,10,2010_8,Virginia
+1623,WA,24,2010_8,Washington
+1625,WV,26,2010_8,West Virginia
+1624,WI,10,2010_8,Wisconsin
+1626,WY,11,2010_8,Wyoming
+1628,AL,16,2010_9,Alabama
+1627,AK,26,2010_9,Alaska
+1630,AZ,25,2010_9,Arizona
+1629,AR,14,2010_9,Arkansas
+1631,CA,21,2010_9,California
+1632,CO,22,2010_9,Colorado
+1633,CT,44,2010_9,Connecticut
+1635,DE,25,2010_9,Delaware
+1634,DC,16,2010_9,District of Columbia
+1636,FL,19,2010_9,Florida
+1637,GA,22,2010_9,Georgia
+1638,HI,52,2010_9,Hawaii
+1640,ID,12,2010_9,Idaho
+1641,IL,33,2010_9,Illinois
+1642,IN,32,2010_9,Indiana
+1639,IA,24,2010_9,Iowa
+1643,KS,28,2010_9,Kansas
+1644,KY,28,2010_9,Kentucky
+1645,LA,22,2010_9,Louisiana
+1648,ME,33,2010_9,Maine
+1647,MD,20,2010_9,Maryland
+1646,MA,36,2010_9,Massachusetts
+1649,MI,30,2010_9,Michigan
+1650,MN,27,2010_9,Minnesota
+1652,MS,30,2010_9,Mississippi
+1651,MO,19,2010_9,Missouri
+1653,MT,14,2010_9,Montana
+1656,NE,12,2010_9,Nebraska
+1660,NV,27,2010_9,Nevada
+1657,NH,46,2010_9,New Hampshire
+1658,NJ,39,2010_9,New Jersey
+1659,NM,12,2010_9,New Mexico
+1661,NY,28,2010_9,New York
+1654,NC,24,2010_9,North Carolina
+1655,ND,11,2010_9,North Dakota
+1662,OH,30,2010_9,Ohio
+1663,OK,14,2010_9,Oklahoma
+1664,OR,19,2010_9,Oregon
+1665,PA,34,2010_9,Pennsylvania
+1666,RI,49,2010_9,Rhode Island
+1667,SC,8,2010_9,South Carolina
+1668,SD,12,2010_9,South Dakota
+1669,TN,15,2010_9,Tennessee
+1670,TX,24,2010_9,Texas
+1671,UT,28,2010_9,Utah
+1673,VT,49,2010_9,Vermont
+1672,VA,16,2010_9,Virginia
+1674,WA,30,2010_9,Washington
+1676,WV,28,2010_9,West Virginia
+1675,WI,30,2010_9,Wisconsin
+1677,WY,27,2010_9,Wyoming
+1832,AL,21,2011_1,Alabama
+1831,AK,30,2011_1,Alaska
+1834,AZ,22,2011_1,Arizona
+1833,AR,16,2011_1,Arkansas
+1835,CA,32,2011_1,California
+1836,CO,25,2011_1,Colorado
+1837,CT,31,2011_1,Connecticut
+1839,DE,28,2011_1,Delaware
+1838,DC,14,2011_1,District of Columbia
+1840,FL,25,2011_1,Florida
+1841,GA,26,2011_1,Georgia
+1842,HI,28,2011_1,Hawaii
+1844,ID,21,2011_1,Idaho
+1845,IL,30,2011_1,Illinois
+1846,IN,16,2011_1,Indiana
+1843,IA,28,2011_1,Iowa
+1847,KS,21,2011_1,Kansas
+1848,KY,16,2011_1,Kentucky
+1849,LA,25,2011_1,Louisiana
+1852,ME,57,2011_1,Maine
+1851,MD,24,2011_1,Maryland
+1850,MA,31,2011_1,Massachusetts
+1853,MI,27,2011_1,Michigan
+1854,MN,18,2011_1,Minnesota
+1856,MS,12,2011_1,Mississippi
+1855,MO,20,2011_1,Missouri
+1857,MT,22,2011_1,Montana
+1860,NE,16,2011_1,Nebraska
+1864,NV,22,2011_1,Nevada
+1861,NH,20,2011_1,New Hampshire
+1862,NJ,28,2011_1,New Jersey
+1863,NM,14,2011_1,New Mexico
+1865,NY,30,2011_1,New York
+1858,NC,16,2011_1,North Carolina
+1859,ND,26,2011_1,North Dakota
+1866,OH,21,2011_1,Ohio
+1867,OK,25,2011_1,Oklahoma
+1868,OR,47,2011_1,Oregon
+1869,PA,27,2011_1,Pennsylvania
+1870,RI,27,2011_1,Rhode Island
+1871,SC,16,2011_1,South Carolina
+1872,SD,30,2011_1,South Dakota
+1873,TN,24,2011_1,Tennessee
+1874,TX,26,2011_1,Texas
+1875,UT,33,2011_1,Utah
+1877,VT,22,2011_1,Vermont
+1876,VA,12,2011_1,Virginia
+1878,WA,32,2011_1,Washington
+1880,WV,15,2011_1,West Virginia
+1879,WI,29,2011_1,Wisconsin
+1881,WY,23,2011_1,Wyoming
+2291,AL,30,2011_10,Alabama
+2290,AK,23,2011_10,Alaska
+2293,AZ,24,2011_10,Arizona
+2292,AR,19,2011_10,Arkansas
+2294,CA,29,2011_10,California
+2295,CO,23,2011_10,Colorado
+2296,CT,39,2011_10,Connecticut
+2298,DE,34,2011_10,Delaware
+2297,DC,19,2011_10,District of Columbia
+2299,FL,28,2011_10,Florida
+2300,GA,34,2011_10,Georgia
+2301,HI,44,2011_10,Hawaii
+2303,ID,29,2011_10,Idaho
+2304,IL,36,2011_10,Illinois
+2305,IN,39,2011_10,Indiana
+2302,IA,20,2011_10,Iowa
+2306,KS,28,2011_10,Kansas
+2307,KY,35,2011_10,Kentucky
+2308,LA,26,2011_10,Louisiana
+2311,ME,65,2011_10,Maine
+2310,MD,26,2011_10,Maryland
+2309,MA,39,2011_10,Massachusetts
+2312,MI,26,2011_10,Michigan
+2313,MN,13,2011_10,Minnesota
+2315,MS,15,2011_10,Mississippi
+2314,MO,27,2011_10,Missouri
+2316,MT,8,2011_10,Montana
+2319,NE,20,2011_10,Nebraska
+2323,NV,22,2011_10,Nevada
+2320,NH,91,2011_10,New Hampshire
+2321,NJ,41,2011_10,New Jersey
+2322,NM,18,2011_10,New Mexico
+2324,NY,39,2011_10,New York
+2317,NC,26,2011_10,North Carolina
+2318,ND,11,2011_10,North Dakota
+2325,OH,31,2011_10,Ohio
+2326,OK,18,2011_10,Oklahoma
+2327,OR,18,2011_10,Oregon
+2328,PA,39,2011_10,Pennsylvania
+2329,RI,29,2011_10,Rhode Island
+2330,SC,29,2011_10,South Carolina
+2331,SD,26,2011_10,South Dakota
+2332,TN,30,2011_10,Tennessee
+2333,TX,26,2011_10,Texas
+2334,UT,29,2011_10,Utah
+2336,VT,105,2011_10,Vermont
+2335,VA,32,2011_10,Virginia
+2337,WA,28,2011_10,Washington
+2339,WV,27,2011_10,West Virginia
+2338,WI,27,2011_10,Wisconsin
+2340,WY,80,2011_10,Wyoming
+2342,AL,22,2011_11,Alabama
+2341,AK,12,2011_11,Alaska
+2344,AZ,28,2011_11,Arizona
+2343,AR,25,2011_11,Arkansas
+2345,CA,33,2011_11,California
+2346,CO,32,2011_11,Colorado
+2347,CT,30,2011_11,Connecticut
+2349,DE,29,2011_11,Delaware
+2348,DC,25,2011_11,District of Columbia
+2350,FL,32,2011_11,Florida
+2351,GA,33,2011_11,Georgia
+2352,HI,45,2011_11,Hawaii
+2354,ID,31,2011_11,Idaho
+2355,IL,33,2011_11,Illinois
+2356,IN,33,2011_11,Indiana
+2353,IA,28,2011_11,Iowa
+2357,KS,17,2011_11,Kansas
+2358,KY,27,2011_11,Kentucky
+2359,LA,25,2011_11,Louisiana
+2362,ME,31,2011_11,Maine
+2361,MD,33,2011_11,Maryland
+2360,MA,39,2011_11,Massachusetts
+2363,MI,24,2011_11,Michigan
+2364,MN,5,2011_11,Minnesota
+2366,MS,60,2011_11,Mississippi
+2365,MO,25,2011_11,Missouri
+2367,MT,39,2011_11,Montana
+2370,NE,28,2011_11,Nebraska
+2374,NV,36,2011_11,Nevada
+2371,NH,31,2011_11,New Hampshire
+2372,NJ,41,2011_11,New Jersey
+2373,NM,16,2011_11,New Mexico
+2375,NY,43,2011_11,New York
+2368,NC,22,2011_11,North Carolina
+2369,ND,20,2011_11,North Dakota
+2376,OH,27,2011_11,Ohio
+2377,OK,16,2011_11,Oklahoma
+2378,OR,58,2011_11,Oregon
+2379,PA,34,2011_11,Pennsylvania
+2380,RI,29,2011_11,Rhode Island
+2381,SC,24,2011_11,South Carolina
+2382,SD,16,2011_11,South Dakota
+2383,TN,31,2011_11,Tennessee
+2384,TX,32,2011_11,Texas
+2385,UT,26,2011_11,Utah
+2387,VT,29,2011_11,Vermont
+2386,VA,28,2011_11,Virginia
+2388,WA,32,2011_11,Washington
+2390,WV,30,2011_11,West Virginia
+2389,WI,12,2011_11,Wisconsin
+2391,WY,19,2011_11,Wyoming
+2393,AL,26,2011_12,Alabama
+2392,AK,28,2011_12,Alaska
+2395,AZ,27,2011_12,Arizona
+2394,AR,26,2011_12,Arkansas
+2396,CA,33,2011_12,California
+2397,CO,24,2011_12,Colorado
+2398,CT,28,2011_12,Connecticut
+2400,DE,35,2011_12,Delaware
+2399,DC,25,2011_12,District of Columbia
+2401,FL,32,2011_12,Florida
+2402,GA,33,2011_12,Georgia
+2403,HI,43,2011_12,Hawaii
+2405,ID,14,2011_12,Idaho
+2406,IL,33,2011_12,Illinois
+2407,IN,27,2011_12,Indiana
+2404,IA,30,2011_12,Iowa
+2408,KS,24,2011_12,Kansas
+2409,KY,21,2011_12,Kentucky
+2410,LA,23,2011_12,Louisiana
+2413,ME,27,2011_12,Maine
+2412,MD,26,2011_12,Maryland
+2411,MA,34,2011_12,Massachusetts
+2414,MI,35,2011_12,Michigan
+2415,MN,9,2011_12,Minnesota
+2417,MS,20,2011_12,Mississippi
+2416,MO,27,2011_12,Missouri
+2418,MT,32,2011_12,Montana
+2421,NE,28,2011_12,Nebraska
+2425,NV,26,2011_12,Nevada
+2422,NH,32,2011_12,New Hampshire
+2423,NJ,40,2011_12,New Jersey
+2424,NM,18,2011_12,New Mexico
+2426,NY,39,2011_12,New York
+2419,NC,26,2011_12,North Carolina
+2420,ND,26,2011_12,North Dakota
+2427,OH,29,2011_12,Ohio
+2428,OK,20,2011_12,Oklahoma
+2429,OR,17,2011_12,Oregon
+2430,PA,33,2011_12,Pennsylvania
+2431,RI,54,2011_12,Rhode Island
+2432,SC,27,2011_12,South Carolina
+2433,SD,20,2011_12,South Dakota
+2434,TN,25,2011_12,Tennessee
+2435,TX,28,2011_12,Texas
+2436,UT,26,2011_12,Utah
+2438,VT,32,2011_12,Vermont
+2437,VA,36,2011_12,Virginia
+2439,WA,31,2011_12,Washington
+2441,WV,34,2011_12,West Virginia
+2440,WI,25,2011_12,Wisconsin
+2442,WY,21,2011_12,Wyoming
+1883,AL,6,2011_2,Alabama
+1882,AK,19,2011_2,Alaska
+1885,AZ,26,2011_2,Arizona
+1884,AR,20,2011_2,Arkansas
+1886,CA,25,2011_2,California
+1887,CO,20,2011_2,Colorado
+1888,CT,30,2011_2,Connecticut
+1890,DE,23,2011_2,Delaware
+1889,DC,17,2011_2,District of Columbia
+1891,FL,28,2011_2,Florida
+1892,GA,24,2011_2,Georgia
+1893,HI,29,2011_2,Hawaii
+1895,ID,24,2011_2,Idaho
+1896,IL,25,2011_2,Illinois
+1897,IN,27,2011_2,Indiana
+1894,IA,17,2011_2,Iowa
+1898,KS,34,2011_2,Kansas
+1899,KY,27,2011_2,Kentucky
+1900,LA,19,2011_2,Louisiana
+1903,ME,24,2011_2,Maine
+1902,MD,24,2011_2,Maryland
+1901,MA,29,2011_2,Massachusetts
+1904,MI,18,2011_2,Michigan
+1905,MN,8,2011_2,Minnesota
+1907,MS,18,2011_2,Mississippi
+1906,MO,21,2011_2,Missouri
+1908,MT,36,2011_2,Montana
+1911,NE,20,2011_2,Nebraska
+1915,NV,26,2011_2,Nevada
+1912,NH,42,2011_2,New Hampshire
+1913,NJ,28,2011_2,New Jersey
+1914,NM,15,2011_2,New Mexico
+1916,NY,30,2011_2,New York
+1909,NC,25,2011_2,North Carolina
+1910,ND,14,2011_2,North Dakota
+1917,OH,28,2011_2,Ohio
+1918,OK,26,2011_2,Oklahoma
+1919,OR,17,2011_2,Oregon
+1920,PA,28,2011_2,Pennsylvania
+1921,RI,26,2011_2,Rhode Island
+1922,SC,12,2011_2,South Carolina
+1923,SD,27,2011_2,South Dakota
+1924,TN,21,2011_2,Tennessee
+1925,TX,24,2011_2,Texas
+1926,UT,27,2011_2,Utah
+1928,VT,14,2011_2,Vermont
+1927,VA,10,2011_2,Virginia
+1929,WA,32,2011_2,Washington
+1931,WV,11,2011_2,West Virginia
+1930,WI,26,2011_2,Wisconsin
+1932,WY,19,2011_2,Wyoming
+1934,AL,13,2011_3,Alabama
+1933,AK,32,2011_3,Alaska
+1936,AZ,22,2011_3,Arizona
+1935,AR,30,2011_3,Arkansas
+1937,CA,24,2011_3,California
+1938,CO,24,2011_3,Colorado
+1939,CT,29,2011_3,Connecticut
+1941,DE,38,2011_3,Delaware
+1940,DC,12,2011_3,District of Columbia
+1942,FL,27,2011_3,Florida
+1943,GA,27,2011_3,Georgia
+1944,HI,14,2011_3,Hawaii
+1946,ID,24,2011_3,Idaho
+1947,IL,30,2011_3,Illinois
+1948,IN,27,2011_3,Indiana
+1945,IA,24,2011_3,Iowa
+1949,KS,17,2011_3,Kansas
+1950,KY,21,2011_3,Kentucky
+1951,LA,24,2011_3,Louisiana
+1954,ME,37,2011_3,Maine
+1953,MD,22,2011_3,Maryland
+1952,MA,34,2011_3,Massachusetts
+1955,MI,27,2011_3,Michigan
+1956,MN,10,2011_3,Minnesota
+1958,MS,27,2011_3,Mississippi
+1957,MO,22,2011_3,Missouri
+1959,MT,24,2011_3,Montana
+1962,NE,22,2011_3,Nebraska
+1966,NV,26,2011_3,Nevada
+1963,NH,20,2011_3,New Hampshire
+1964,NJ,32,2011_3,New Jersey
+1965,NM,24,2011_3,New Mexico
+1967,NY,29,2011_3,New York
+1960,NC,26,2011_3,North Carolina
+1961,ND,8,2011_3,North Dakota
+1968,OH,29,2011_3,Ohio
+1969,OK,15,2011_3,Oklahoma
+1970,OR,24,2011_3,Oregon
+1971,PA,30,2011_3,Pennsylvania
+1972,RI,13,2011_3,Rhode Island
+1973,SC,22,2011_3,South Carolina
+1974,SD,20,2011_3,South Dakota
+1975,TN,21,2011_3,Tennessee
+1976,TX,24,2011_3,Texas
+1977,UT,22,2011_3,Utah
+1979,VT,28,2011_3,Vermont
+1978,VA,19,2011_3,Virginia
+1980,WA,23,2011_3,Washington
+1982,WV,26,2011_3,West Virginia
+1981,WI,24,2011_3,Wisconsin
+1983,WY,32,2011_3,Wyoming
+1985,AL,20,2011_4,Alabama
+1984,AK,16,2011_4,Alaska
+1987,AZ,24,2011_4,Arizona
+1986,AR,16,2011_4,Arkansas
+1988,CA,29,2011_4,California
+1989,CO,24,2011_4,Colorado
+1990,CT,41,2011_4,Connecticut
+1992,DE,27,2011_4,Delaware
+1991,DC,12,2011_4,District of Columbia
+1993,FL,28,2011_4,Florida
+1994,GA,28,2011_4,Georgia
+1995,HI,74,2011_4,Hawaii
+1997,ID,49,2011_4,Idaho
+1998,IL,29,2011_4,Illinois
+1999,IN,25,2011_4,Indiana
+1996,IA,21,2011_4,Iowa
+2000,KS,19,2011_4,Kansas
+2001,KY,37,2011_4,Kentucky
+2002,LA,14,2011_4,Louisiana
+2005,ME,74,2011_4,Maine
+2004,MD,28,2011_4,Maryland
+2003,MA,47,2011_4,Massachusetts
+2006,MI,30,2011_4,Michigan
+2007,MN,6,2011_4,Minnesota
+2009,MS,14,2011_4,Mississippi
+2008,MO,32,2011_4,Missouri
+2010,MT,67,2011_4,Montana
+2013,NE,15,2011_4,Nebraska
+2017,NV,30,2011_4,Nevada
+2014,NH,53,2011_4,New Hampshire
+2015,NJ,33,2011_4,New Jersey
+2016,NM,17,2011_4,New Mexico
+2018,NY,36,2011_4,New York
+2011,NC,26,2011_4,North Carolina
+2012,ND,8,2011_4,North Dakota
+2019,OH,26,2011_4,Ohio
+2020,OK,19,2011_4,Oklahoma
+2021,OR,23,2011_4,Oregon
+2022,PA,32,2011_4,Pennsylvania
+2023,RI,22,2011_4,Rhode Island
+2024,SC,22,2011_4,South Carolina
+2025,SD,26,2011_4,South Dakota
+2026,TN,28,2011_4,Tennessee
+2027,TX,26,2011_4,Texas
+2028,UT,29,2011_4,Utah
+2030,VT,148,2011_4,Vermont
+2029,VA,21,2011_4,Virginia
+2031,WA,23,2011_4,Washington
+2033,WV,26,2011_4,West Virginia
+2032,WI,22,2011_4,Wisconsin
+2034,WY,18,2011_4,Wyoming
+2036,AL,28,2011_5,Alabama
+2035,AK,22,2011_5,Alaska
+2038,AZ,22,2011_5,Arizona
+2037,AR,15,2011_5,Arkansas
+2039,CA,28,2011_5,California
+2040,CO,24,2011_5,Colorado
+2041,CT,37,2011_5,Connecticut
+2043,DE,28,2011_5,Delaware
+2042,DC,13,2011_5,District of Columbia
+2044,FL,28,2011_5,Florida
+2045,GA,28,2011_5,Georgia
+2046,HI,32,2011_5,Hawaii
+2048,ID,28,2011_5,Idaho
+2049,IL,29,2011_5,Illinois
+2050,IN,26,2011_5,Indiana
+2047,IA,27,2011_5,Iowa
+2051,KS,27,2011_5,Kansas
+2052,KY,27,2011_5,Kentucky
+2053,LA,24,2011_5,Louisiana
+2056,ME,28,2011_5,Maine
+2055,MD,29,2011_5,Maryland
+2054,MA,28,2011_5,Massachusetts
+2057,MI,28,2011_5,Michigan
+2058,MN,18,2011_5,Minnesota
+2060,MS,16,2011_5,Mississippi
+2059,MO,28,2011_5,Missouri
+2061,MT,34,2011_5,Montana
+2064,NE,18,2011_5,Nebraska
+2068,NV,31,2011_5,Nevada
+2065,NH,29,2011_5,New Hampshire
+2066,NJ,36,2011_5,New Jersey
+2067,NM,20,2011_5,New Mexico
+2069,NY,34,2011_5,New York
+2062,NC,24,2011_5,North Carolina
+2063,ND,21,2011_5,North Dakota
+2070,OH,28,2011_5,Ohio
+2071,OK,18,2011_5,Oklahoma
+2072,OR,27,2011_5,Oregon
+2073,PA,33,2011_5,Pennsylvania
+2074,RI,4,2011_5,Rhode Island
+2075,SC,12,2011_5,South Carolina
+2076,SD,27,2011_5,South Dakota
+2077,TN,17,2011_5,Tennessee
+2078,TX,27,2011_5,Texas
+2079,UT,52,2011_5,Utah
+2081,VT,28,2011_5,Vermont
+2080,VA,20,2011_5,Virginia
+2082,WA,26,2011_5,Washington
+2084,WV,28,2011_5,West Virginia
+2083,WI,14,2011_5,Wisconsin
+2085,WY,20,2011_5,Wyoming
+2087,AL,26,2011_6,Alabama
+2086,AK,32,2011_6,Alaska
+2089,AZ,25,2011_6,Arizona
+2088,AR,20,2011_6,Arkansas
+2090,CA,28,2011_6,California
+2091,CO,26,2011_6,Colorado
+2092,CT,32,2011_6,Connecticut
+2094,DE,30,2011_6,Delaware
+2093,DC,10,2011_6,District of Columbia
+2095,FL,28,2011_6,Florida
+2096,GA,27,2011_6,Georgia
+2097,HI,27,2011_6,Hawaii
+2099,ID,27,2011_6,Idaho
+2100,IL,29,2011_6,Illinois
+2101,IN,28,2011_6,Indiana
+2098,IA,26,2011_6,Iowa
+2102,KS,25,2011_6,Kansas
+2103,KY,33,2011_6,Kentucky
+2104,LA,27,2011_6,Louisiana
+2107,ME,39,2011_6,Maine
+2106,MD,28,2011_6,Maryland
+2105,MA,34,2011_6,Massachusetts
+2108,MI,26,2011_6,Michigan
+2109,MN,17,2011_6,Minnesota
+2111,MS,15,2011_6,Mississippi
+2110,MO,29,2011_6,Missouri
+2112,MT,30,2011_6,Montana
+2115,NE,24,2011_6,Nebraska
+2119,NV,28,2011_6,Nevada
+2116,NH,29,2011_6,New Hampshire
+2117,NJ,40,2011_6,New Jersey
+2118,NM,23,2011_6,New Mexico
+2120,NY,38,2011_6,New York
+2113,NC,22,2011_6,North Carolina
+2114,ND,27,2011_6,North Dakota
+2121,OH,28,2011_6,Ohio
+2122,OK,24,2011_6,Oklahoma
+2123,OR,25,2011_6,Oregon
+2124,PA,31,2011_6,Pennsylvania
+2125,RI,30,2011_6,Rhode Island
+2126,SC,27,2011_6,South Carolina
+2127,SD,27,2011_6,South Dakota
+2128,TN,13,2011_6,Tennessee
+2129,TX,30,2011_6,Texas
+2130,UT,28,2011_6,Utah
+2132,VT,26,2011_6,Vermont
+2131,VA,27,2011_6,Virginia
+2133,WA,27,2011_6,Washington
+2135,WV,26,2011_6,West Virginia
+2134,WI,28,2011_6,Wisconsin
+2136,WY,26,2011_6,Wyoming
+2138,AL,27,2011_7,Alabama
+2137,AK,27,2011_7,Alaska
+2140,AZ,26,2011_7,Arizona
+2139,AR,18,2011_7,Arkansas
+2141,CA,27,2011_7,California
+2142,CO,27,2011_7,Colorado
+2143,CT,32,2011_7,Connecticut
+2145,DE,29,2011_7,Delaware
+2144,DC,20,2011_7,District of Columbia
+2146,FL,28,2011_7,Florida
+2147,GA,28,2011_7,Georgia
+2148,HI,26,2011_7,Hawaii
+2150,ID,26,2011_7,Idaho
+2151,IL,29,2011_7,Illinois
+2152,IN,28,2011_7,Indiana
+2149,IA,24,2011_7,Iowa
+2153,KS,27,2011_7,Kansas
+2154,KY,29,2011_7,Kentucky
+2155,LA,26,2011_7,Louisiana
+2158,ME,27,2011_7,Maine
+2157,MD,27,2011_7,Maryland
+2156,MA,30,2011_7,Massachusetts
+2159,MI,26,2011_7,Michigan
+2160,MN,17,2011_7,Minnesota
+2162,MS,18,2011_7,Mississippi
+2161,MO,29,2011_7,Missouri
+2163,MT,25,2011_7,Montana
+2166,NE,21,2011_7,Nebraska
+2170,NV,28,2011_7,Nevada
+2167,NH,27,2011_7,New Hampshire
+2168,NJ,33,2011_7,New Jersey
+2169,NM,27,2011_7,New Mexico
+2171,NY,38,2011_7,New York
+2164,NC,20,2011_7,North Carolina
+2165,ND,14,2011_7,North Dakota
+2172,OH,31,2011_7,Ohio
+2173,OK,28,2011_7,Oklahoma
+2174,OR,32,2011_7,Oregon
+2175,PA,30,2011_7,Pennsylvania
+2176,RI,27,2011_7,Rhode Island
+2177,SC,26,2011_7,South Carolina
+2178,SD,28,2011_7,South Dakota
+2179,TN,17,2011_7,Tennessee
+2180,TX,29,2011_7,Texas
+2181,UT,29,2011_7,Utah
+2183,VT,26,2011_7,Vermont
+2182,VA,28,2011_7,Virginia
+2184,WA,29,2011_7,Washington
+2186,WV,29,2011_7,West Virginia
+2185,WI,26,2011_7,Wisconsin
+2187,WY,27,2011_7,Wyoming
+2189,AL,24,2011_8,Alabama
+2188,AK,26,2011_8,Alaska
+2191,AZ,21,2011_8,Arizona
+2190,AR,20,2011_8,Arkansas
+2192,CA,31,2011_8,California
+2193,CO,28,2011_8,Colorado
+2194,CT,33,2011_8,Connecticut
+2196,DE,29,2011_8,Delaware
+2195,DC,25,2011_8,District of Columbia
+2197,FL,29,2011_8,Florida
+2198,GA,29,2011_8,Georgia
+2199,HI,46,2011_8,Hawaii
+2201,ID,26,2011_8,Idaho
+2202,IL,29,2011_8,Illinois
+2203,IN,28,2011_8,Indiana
+2200,IA,27,2011_8,Iowa
+2204,KS,28,2011_8,Kansas
+2205,KY,26,2011_8,Kentucky
+2206,LA,27,2011_8,Louisiana
+2209,ME,28,2011_8,Maine
+2208,MD,29,2011_8,Maryland
+2207,MA,29,2011_8,Massachusetts
+2210,MI,26,2011_8,Michigan
+2211,MN,8,2011_8,Minnesota
+2213,MS,22,2011_8,Mississippi
+2212,MO,26,2011_8,Missouri
+2214,MT,20,2011_8,Montana
+2217,NE,24,2011_8,Nebraska
+2221,NV,29,2011_8,Nevada
+2218,NH,30,2011_8,New Hampshire
+2219,NJ,32,2011_8,New Jersey
+2220,NM,26,2011_8,New Mexico
+2222,NY,35,2011_8,New York
+2215,NC,20,2011_8,North Carolina
+2216,ND,11,2011_8,North Dakota
+2223,OH,28,2011_8,Ohio
+2224,OK,27,2011_8,Oklahoma
+2225,OR,29,2011_8,Oregon
+2226,PA,28,2011_8,Pennsylvania
+2227,RI,40,2011_8,Rhode Island
+2228,SC,27,2011_8,South Carolina
+2229,SD,29,2011_8,South Dakota
+2230,TN,24,2011_8,Tennessee
+2231,TX,29,2011_8,Texas
+2232,UT,26,2011_8,Utah
+2234,VT,30,2011_8,Vermont
+2233,VA,33,2011_8,Virginia
+2235,WA,35,2011_8,Washington
+2237,WV,29,2011_8,West Virginia
+2236,WI,26,2011_8,Wisconsin
+2238,WY,26,2011_8,Wyoming
+2240,AL,18,2011_9,Alabama
+2239,AK,17,2011_9,Alaska
+2242,AZ,19,2011_9,Arizona
+2241,AR,16,2011_9,Arkansas
+2243,CA,28,2011_9,California
+2244,CO,22,2011_9,Colorado
+2245,CT,26,2011_9,Connecticut
+2247,DE,29,2011_9,Delaware
+2246,DC,18,2011_9,District of Columbia
+2248,FL,21,2011_9,Florida
+2249,GA,19,2011_9,Georgia
+2250,HI,30,2011_9,Hawaii
+2252,ID,12,2011_9,Idaho
+2253,IL,28,2011_9,Illinois
+2254,IN,28,2011_9,Indiana
+2251,IA,16,2011_9,Iowa
+2255,KS,17,2011_9,Kansas
+2256,KY,19,2011_9,Kentucky
+2257,LA,11,2011_9,Louisiana
+2260,ME,26,2011_9,Maine
+2259,MD,27,2011_9,Maryland
+2258,MA,27,2011_9,Massachusetts
+2261,MI,27,2011_9,Michigan
+2262,MN,4,2011_9,Minnesota
+2264,MS,12,2011_9,Mississippi
+2263,MO,24,2011_9,Missouri
+2265,MT,5,2011_9,Montana
+2268,NE,9,2011_9,Nebraska
+2272,NV,20,2011_9,Nevada
+2269,NH,25,2011_9,New Hampshire
+2270,NJ,31,2011_9,New Jersey
+2271,NM,10,2011_9,New Mexico
+2273,NY,27,2011_9,New York
+2266,NC,23,2011_9,North Carolina
+2267,ND,0,2011_9,North Dakota
+2274,OH,26,2011_9,Ohio
+2275,OK,14,2011_9,Oklahoma
+2276,OR,20,2011_9,Oregon
+2277,PA,27,2011_9,Pennsylvania
+2278,RI,24,2011_9,Rhode Island
+2279,SC,15,2011_9,South Carolina
+2280,SD,5,2011_9,South Dakota
+2281,TN,17,2011_9,Tennessee
+2282,TX,25,2011_9,Texas
+2283,UT,19,2011_9,Utah
+2285,VT,21,2011_9,Vermont
+2284,VA,26,2011_9,Virginia
+2286,WA,22,2011_9,Washington
+2288,WV,12,2011_9,West Virginia
+2287,WI,19,2011_9,Wisconsin
+2289,WY,5,2011_9,Wyoming
+2444,AL,207,2012_1,Alabama
+2443,AK,111,2012_1,Alaska
+2446,AZ,29,2012_1,Arizona
+2445,AR,18,2012_1,Arkansas
+2447,CA,33,2012_1,California
+2448,CO,35,2012_1,Colorado
+2449,CT,43,2012_1,Connecticut
+2451,DE,26,2012_1,Delaware
+2450,DC,15,2012_1,District of Columbia
+2452,FL,37,2012_1,Florida
+2453,GA,29,2012_1,Georgia
+2454,HI,207,2012_1,Hawaii
+2456,ID,44,2012_1,Idaho
+2457,IL,35,2012_1,Illinois
+2458,IN,39,2012_1,Indiana
+2455,IA,30,2012_1,Iowa
+2459,KS,27,2012_1,Kansas
+2460,KY,56,2012_1,Kentucky
+2461,LA,51,2012_1,Louisiana
+2464,ME,207,2012_1,Maine
+2463,MD,29,2012_1,Maryland
+2462,MA,37,2012_1,Massachusetts
+2465,MI,56,2012_1,Michigan
+2466,MN,28,2012_1,Minnesota
+2468,MS,53,2012_1,Mississippi
+2467,MO,35,2012_1,Missouri
+2469,MT,17,2012_1,Montana
+2472,NE,38,2012_1,Nebraska
+2476,NV,28,2012_1,Nevada
+2473,NH,134,2012_1,New Hampshire
+2474,NJ,27,2012_1,New Jersey
+2475,NM,19,2012_1,New Mexico
+2477,NY,33,2012_1,New York
+2470,NC,43,2012_1,North Carolina
+2471,ND,13,2012_1,North Dakota
+2478,OH,38,2012_1,Ohio
+2479,OK,30,2012_1,Oklahoma
+2480,OR,36,2012_1,Oregon
+2481,PA,37,2012_1,Pennsylvania
+2482,RI,53,2012_1,Rhode Island
+2483,SC,49,2012_1,South Carolina
+2484,SD,48,2012_1,South Dakota
+2485,TN,35,2012_1,Tennessee
+2486,TX,31,2012_1,Texas
+2487,UT,33,2012_1,Utah
+2489,VT,207,2012_1,Vermont
+2488,VA,28,2012_1,Virginia
+2490,WA,36,2012_1,Washington
+2492,WV,207,2012_1,West Virginia
+2491,WI,44,2012_1,Wisconsin
+2493,WY,48,2012_1,Wyoming
+2903,AL,28,2012_10,Alabama
+2902,AK,18,2012_10,Alaska
+2905,AZ,19,2012_10,Arizona
+2904,AR,19,2012_10,Arkansas
+2906,CA,27,2012_10,California
+2907,CO,18,2012_10,Colorado
+2908,CT,33,2012_10,Connecticut
+2910,DE,20,2012_10,Delaware
+2909,DC,20,2012_10,District of Columbia
+2911,FL,22,2012_10,Florida
+2912,GA,24,2012_10,Georgia
+2913,HI,29,2012_10,Hawaii
+2915,ID,12,2012_10,Idaho
+2916,IL,33,2012_10,Illinois
+2917,IN,27,2012_10,Indiana
+2914,IA,14,2012_10,Iowa
+2918,KS,20,2012_10,Kansas
+2919,KY,24,2012_10,Kentucky
+2920,LA,21,2012_10,Louisiana
+2923,ME,27,2012_10,Maine
+2922,MD,28,2012_10,Maryland
+2921,MA,33,2012_10,Massachusetts
+2924,MI,26,2012_10,Michigan
+2925,MN,28,2012_10,Minnesota
+2927,MS,25,2012_10,Mississippi
+2926,MO,25,2012_10,Missouri
+2928,MT,12,2012_10,Montana
+2931,NE,26,2012_10,Nebraska
+2935,NV,19,2012_10,Nevada
+2932,NH,17,2012_10,New Hampshire
+2933,NJ,41,2012_10,New Jersey
+2934,NM,16,2012_10,New Mexico
+2936,NY,35,2012_10,New York
+2929,NC,23,2012_10,North Carolina
+2930,ND,14,2012_10,North Dakota
+2937,OH,22,2012_10,Ohio
+2938,OK,26,2012_10,Oklahoma
+2939,OR,19,2012_10,Oregon
+2940,PA,27,2012_10,Pennsylvania
+2941,RI,32,2012_10,Rhode Island
+2942,SC,19,2012_10,South Carolina
+2943,SD,18,2012_10,South Dakota
+2944,TN,20,2012_10,Tennessee
+2945,TX,26,2012_10,Texas
+2946,UT,26,2012_10,Utah
+2948,VT,22,2012_10,Vermont
+2947,VA,26,2012_10,Virginia
+2949,WA,32,2012_10,Washington
+2951,WV,19,2012_10,West Virginia
+2950,WI,32,2012_10,Wisconsin
+2952,WY,28,2012_10,Wyoming
+2954,AL,32,2012_11,Alabama
+2953,AK,34,2012_11,Alaska
+2956,AZ,28,2012_11,Arizona
+2955,AR,24,2012_11,Arkansas
+2957,CA,31,2012_11,California
+2958,CO,24,2012_11,Colorado
+2959,CT,40,2012_11,Connecticut
+2961,DE,19,2012_11,Delaware
+2960,DC,17,2012_11,District of Columbia
+2962,FL,24,2012_11,Florida
+2963,GA,25,2012_11,Georgia
+2964,HI,38,2012_11,Hawaii
+2966,ID,13,2012_11,Idaho
+2967,IL,30,2012_11,Illinois
+2968,IN,30,2012_11,Indiana
+2965,IA,19,2012_11,Iowa
+2969,KS,21,2012_11,Kansas
+2970,KY,32,2012_11,Kentucky
+2971,LA,31,2012_11,Louisiana
+2974,ME,22,2012_11,Maine
+2973,MD,22,2012_11,Maryland
+2972,MA,28,2012_11,Massachusetts
+2975,MI,30,2012_11,Michigan
+2976,MN,28,2012_11,Minnesota
+2978,MS,18,2012_11,Mississippi
+2977,MO,27,2012_11,Missouri
+2979,MT,25,2012_11,Montana
+2982,NE,24,2012_11,Nebraska
+2986,NV,32,2012_11,Nevada
+2983,NH,17,2012_11,New Hampshire
+2984,NJ,34,2012_11,New Jersey
+2985,NM,22,2012_11,New Mexico
+2987,NY,31,2012_11,New York
+2980,NC,24,2012_11,North Carolina
+2981,ND,16,2012_11,North Dakota
+2988,OH,29,2012_11,Ohio
+2989,OK,22,2012_11,Oklahoma
+2990,OR,24,2012_11,Oregon
+2991,PA,25,2012_11,Pennsylvania
+2992,RI,35,2012_11,Rhode Island
+2993,SC,18,2012_11,South Carolina
+2994,SD,19,2012_11,South Dakota
+2995,TN,21,2012_11,Tennessee
+2996,TX,28,2012_11,Texas
+2997,UT,19,2012_11,Utah
+2999,VT,27,2012_11,Vermont
+2998,VA,25,2012_11,Virginia
+3000,WA,31,2012_11,Washington
+3002,WV,33,2012_11,West Virginia
+3001,WI,32,2012_11,Wisconsin
+3003,WY,25,2012_11,Wyoming
+3005,AL,41,2012_12,Alabama
+3004,AK,27,2012_12,Alaska
+3007,AZ,27,2012_12,Arizona
+3006,AR,26,2012_12,Arkansas
+3008,CA,35,2012_12,California
+3009,CO,30,2012_12,Colorado
+3010,CT,44,2012_12,Connecticut
+3012,DE,25,2012_12,Delaware
+3011,DC,19,2012_12,District of Columbia
+3013,FL,26,2012_12,Florida
+3014,GA,32,2012_12,Georgia
+3015,HI,31,2012_12,Hawaii
+3017,ID,13,2012_12,Idaho
+3018,IL,31,2012_12,Illinois
+3019,IN,28,2012_12,Indiana
+3016,IA,20,2012_12,Iowa
+3020,KS,25,2012_12,Kansas
+3021,KY,26,2012_12,Kentucky
+3022,LA,27,2012_12,Louisiana
+3025,ME,13,2012_12,Maine
+3024,MD,28,2012_12,Maryland
+3023,MA,42,2012_12,Massachusetts
+3026,MI,29,2012_12,Michigan
+3027,MN,24,2012_12,Minnesota
+3029,MS,34,2012_12,Mississippi
+3028,MO,32,2012_12,Missouri
+3030,MT,24,2012_12,Montana
+3033,NE,34,2012_12,Nebraska
+3037,NV,28,2012_12,Nevada
+3034,NH,25,2012_12,New Hampshire
+3035,NJ,42,2012_12,New Jersey
+3036,NM,24,2012_12,New Mexico
+3038,NY,41,2012_12,New York
+3031,NC,22,2012_12,North Carolina
+3032,ND,23,2012_12,North Dakota
+3039,OH,32,2012_12,Ohio
+3040,OK,28,2012_12,Oklahoma
+3041,OR,30,2012_12,Oregon
+3042,PA,26,2012_12,Pennsylvania
+3043,RI,38,2012_12,Rhode Island
+3044,SC,28,2012_12,South Carolina
+3045,SD,17,2012_12,South Dakota
+3046,TN,29,2012_12,Tennessee
+3047,TX,29,2012_12,Texas
+3048,UT,26,2012_12,Utah
+3050,VT,27,2012_12,Vermont
+3049,VA,31,2012_12,Virginia
+3051,WA,33,2012_12,Washington
+3053,WV,20,2012_12,West Virginia
+3052,WI,29,2012_12,Wisconsin
+3054,WY,12,2012_12,Wyoming
+2495,AL,27,2012_2,Alabama
+2494,AK,20,2012_2,Alaska
+2497,AZ,21,2012_2,Arizona
+2496,AR,21,2012_2,Arkansas
+2498,CA,32,2012_2,California
+2499,CO,25,2012_2,Colorado
+2500,CT,45,2012_2,Connecticut
+2502,DE,24,2012_2,Delaware
+2501,DC,14,2012_2,District of Columbia
+2503,FL,28,2012_2,Florida
+2504,GA,25,2012_2,Georgia
+2505,HI,30,2012_2,Hawaii
+2507,ID,12,2012_2,Idaho
+2508,IL,28,2012_2,Illinois
+2509,IN,27,2012_2,Indiana
+2506,IA,20,2012_2,Iowa
+2510,KS,27,2012_2,Kansas
+2511,KY,30,2012_2,Kentucky
+2512,LA,36,2012_2,Louisiana
+2515,ME,19,2012_2,Maine
+2514,MD,26,2012_2,Maryland
+2513,MA,32,2012_2,Massachusetts
+2516,MI,27,2012_2,Michigan
+2517,MN,24,2012_2,Minnesota
+2519,MS,17,2012_2,Mississippi
+2518,MO,20,2012_2,Missouri
+2520,MT,14,2012_2,Montana
+2523,NE,26,2012_2,Nebraska
+2527,NV,30,2012_2,Nevada
+2524,NH,73,2012_2,New Hampshire
+2525,NJ,23,2012_2,New Jersey
+2526,NM,20,2012_2,New Mexico
+2528,NY,29,2012_2,New York
+2521,NC,27,2012_2,North Carolina
+2522,ND,6,2012_2,North Dakota
+2529,OH,28,2012_2,Ohio
+2530,OK,23,2012_2,Oklahoma
+2531,OR,24,2012_2,Oregon
+2532,PA,27,2012_2,Pennsylvania
+2533,RI,32,2012_2,Rhode Island
+2534,SC,13,2012_2,South Carolina
+2535,SD,12,2012_2,South Dakota
+2536,TN,25,2012_2,Tennessee
+2537,TX,27,2012_2,Texas
+2538,UT,25,2012_2,Utah
+2540,VT,52,2012_2,Vermont
+2539,VA,31,2012_2,Virginia
+2541,WA,27,2012_2,Washington
+2543,WV,21,2012_2,West Virginia
+2542,WI,21,2012_2,Wisconsin
+2544,WY,17,2012_2,Wyoming
+2546,AL,20,2012_3,Alabama
+2545,AK,22,2012_3,Alaska
+2548,AZ,22,2012_3,Arizona
+2547,AR,18,2012_3,Arkansas
+2549,CA,26,2012_3,California
+2550,CO,22,2012_3,Colorado
+2551,CT,24,2012_3,Connecticut
+2553,DE,24,2012_3,Delaware
+2552,DC,13,2012_3,District of Columbia
+2554,FL,26,2012_3,Florida
+2555,GA,24,2012_3,Georgia
+2556,HI,22,2012_3,Hawaii
+2558,ID,18,2012_3,Idaho
+2559,IL,26,2012_3,Illinois
+2560,IN,25,2012_3,Indiana
+2557,IA,20,2012_3,Iowa
+2561,KS,22,2012_3,Kansas
+2562,KY,26,2012_3,Kentucky
+2563,LA,22,2012_3,Louisiana
+2566,ME,22,2012_3,Maine
+2565,MD,22,2012_3,Maryland
+2564,MA,29,2012_3,Massachusetts
+2567,MI,25,2012_3,Michigan
+2568,MN,22,2012_3,Minnesota
+2570,MS,20,2012_3,Mississippi
+2569,MO,26,2012_3,Missouri
+2571,MT,17,2012_3,Montana
+2574,NE,21,2012_3,Nebraska
+2578,NV,22,2012_3,Nevada
+2575,NH,22,2012_3,New Hampshire
+2576,NJ,26,2012_3,New Jersey
+2577,NM,19,2012_3,New Mexico
+2579,NY,31,2012_3,New York
+2572,NC,22,2012_3,North Carolina
+2573,ND,17,2012_3,North Dakota
+2580,OH,29,2012_3,Ohio
+2581,OK,20,2012_3,Oklahoma
+2582,OR,20,2012_3,Oregon
+2583,PA,26,2012_3,Pennsylvania
+2584,RI,24,2012_3,Rhode Island
+2585,SC,19,2012_3,South Carolina
+2586,SD,13,2012_3,South Dakota
+2587,TN,24,2012_3,Tennessee
+2588,TX,26,2012_3,Texas
+2589,UT,24,2012_3,Utah
+2591,VT,17,2012_3,Vermont
+2590,VA,23,2012_3,Virginia
+2592,WA,29,2012_3,Washington
+2594,WV,21,2012_3,West Virginia
+2593,WI,23,2012_3,Wisconsin
+2595,WY,21,2012_3,Wyoming
+2597,AL,15,2012_4,Alabama
+2596,AK,18,2012_4,Alaska
+2599,AZ,19,2012_4,Arizona
+2598,AR,24,2012_4,Arkansas
+2600,CA,24,2012_4,California
+2601,CO,19,2012_4,Colorado
+2602,CT,13,2012_4,Connecticut
+2604,DE,26,2012_4,Delaware
+2603,DC,15,2012_4,District of Columbia
+2605,FL,24,2012_4,Florida
+2606,GA,23,2012_4,Georgia
+2607,HI,33,2012_4,Hawaii
+2609,ID,11,2012_4,Idaho
+2610,IL,19,2012_4,Illinois
+2611,IN,27,2012_4,Indiana
+2608,IA,20,2012_4,Iowa
+2612,KS,23,2012_4,Kansas
+2613,KY,25,2012_4,Kentucky
+2614,LA,45,2012_4,Louisiana
+2617,ME,20,2012_4,Maine
+2616,MD,24,2012_4,Maryland
+2615,MA,27,2012_4,Massachusetts
+2618,MI,19,2012_4,Michigan
+2619,MN,19,2012_4,Minnesota
+2621,MS,16,2012_4,Mississippi
+2620,MO,23,2012_4,Missouri
+2622,MT,13,2012_4,Montana
+2625,NE,20,2012_4,Nebraska
+2629,NV,28,2012_4,Nevada
+2626,NH,42,2012_4,New Hampshire
+2627,NJ,32,2012_4,New Jersey
+2628,NM,15,2012_4,New Mexico
+2630,NY,26,2012_4,New York
+2623,NC,19,2012_4,North Carolina
+2624,ND,11,2012_4,North Dakota
+2631,OH,32,2012_4,Ohio
+2632,OK,17,2012_4,Oklahoma
+2633,OR,19,2012_4,Oregon
+2634,PA,24,2012_4,Pennsylvania
+2635,RI,28,2012_4,Rhode Island
+2636,SC,13,2012_4,South Carolina
+2637,SD,19,2012_4,South Dakota
+2638,TN,19,2012_4,Tennessee
+2639,TX,26,2012_4,Texas
+2640,UT,20,2012_4,Utah
+2642,VT,35,2012_4,Vermont
+2641,VA,13,2012_4,Virginia
+2643,WA,24,2012_4,Washington
+2645,WV,19,2012_4,West Virginia
+2644,WI,22,2012_4,Wisconsin
+2646,WY,15,2012_4,Wyoming
+2648,AL,19,2012_5,Alabama
+2647,AK,15,2012_5,Alaska
+2650,AZ,19,2012_5,Arizona
+2649,AR,19,2012_5,Arkansas
+2651,CA,28,2012_5,California
+2652,CO,22,2012_5,Colorado
+2653,CT,31,2012_5,Connecticut
+2655,DE,31,2012_5,Delaware
+2654,DC,15,2012_5,District of Columbia
+2656,FL,30,2012_5,Florida
+2657,GA,28,2012_5,Georgia
+2658,HI,24,2012_5,Hawaii
+2660,ID,25,2012_5,Idaho
+2661,IL,33,2012_5,Illinois
+2662,IN,24,2012_5,Indiana
+2659,IA,18,2012_5,Iowa
+2663,KS,23,2012_5,Kansas
+2664,KY,21,2012_5,Kentucky
+2665,LA,31,2012_5,Louisiana
+2668,ME,10,2012_5,Maine
+2667,MD,28,2012_5,Maryland
+2666,MA,32,2012_5,Massachusetts
+2669,MI,28,2012_5,Michigan
+2670,MN,24,2012_5,Minnesota
+2672,MS,13,2012_5,Mississippi
+2671,MO,26,2012_5,Missouri
+2673,MT,13,2012_5,Montana
+2676,NE,25,2012_5,Nebraska
+2680,NV,24,2012_5,Nevada
+2677,NH,26,2012_5,New Hampshire
+2678,NJ,30,2012_5,New Jersey
+2679,NM,17,2012_5,New Mexico
+2681,NY,34,2012_5,New York
+2674,NC,19,2012_5,North Carolina
+2675,ND,24,2012_5,North Dakota
+2682,OH,28,2012_5,Ohio
+2683,OK,20,2012_5,Oklahoma
+2684,OR,21,2012_5,Oregon
+2685,PA,30,2012_5,Pennsylvania
+2686,RI,24,2012_5,Rhode Island
+2687,SC,21,2012_5,South Carolina
+2688,SD,4,2012_5,South Dakota
+2689,TN,25,2012_5,Tennessee
+2690,TX,28,2012_5,Texas
+2691,UT,26,2012_5,Utah
+2693,VT,36,2012_5,Vermont
+2692,VA,28,2012_5,Virginia
+2694,WA,29,2012_5,Washington
+2696,WV,25,2012_5,West Virginia
+2695,WI,25,2012_5,Wisconsin
+2697,WY,21,2012_5,Wyoming
+2699,AL,27,2012_6,Alabama
+2698,AK,15,2012_6,Alaska
+2701,AZ,21,2012_6,Arizona
+2700,AR,26,2012_6,Arkansas
+2702,CA,27,2012_6,California
+2703,CO,28,2012_6,Colorado
+2704,CT,28,2012_6,Connecticut
+2706,DE,30,2012_6,Delaware
+2705,DC,19,2012_6,District of Columbia
+2707,FL,24,2012_6,Florida
+2708,GA,27,2012_6,Georgia
+2709,HI,31,2012_6,Hawaii
+2711,ID,13,2012_6,Idaho
+2712,IL,30,2012_6,Illinois
+2713,IN,24,2012_6,Indiana
+2710,IA,20,2012_6,Iowa
+2714,KS,24,2012_6,Kansas
+2715,KY,28,2012_6,Kentucky
+2716,LA,24,2012_6,Louisiana
+2719,ME,20,2012_6,Maine
+2718,MD,31,2012_6,Maryland
+2717,MA,34,2012_6,Massachusetts
+2720,MI,38,2012_6,Michigan
+2721,MN,21,2012_6,Minnesota
+2723,MS,13,2012_6,Mississippi
+2722,MO,27,2012_6,Missouri
+2724,MT,18,2012_6,Montana
+2727,NE,20,2012_6,Nebraska
+2731,NV,35,2012_6,Nevada
+2728,NH,33,2012_6,New Hampshire
+2729,NJ,33,2012_6,New Jersey
+2730,NM,14,2012_6,New Mexico
+2732,NY,31,2012_6,New York
+2725,NC,20,2012_6,North Carolina
+2726,ND,16,2012_6,North Dakota
+2733,OH,33,2012_6,Ohio
+2734,OK,15,2012_6,Oklahoma
+2735,OR,25,2012_6,Oregon
+2736,PA,33,2012_6,Pennsylvania
+2737,RI,30,2012_6,Rhode Island
+2738,SC,15,2012_6,South Carolina
+2739,SD,20,2012_6,South Dakota
+2740,TN,29,2012_6,Tennessee
+2741,TX,28,2012_6,Texas
+2742,UT,26,2012_6,Utah
+2744,VT,35,2012_6,Vermont
+2743,VA,32,2012_6,Virginia
+2745,WA,33,2012_6,Washington
+2747,WV,35,2012_6,West Virginia
+2746,WI,26,2012_6,Wisconsin
+2748,WY,33,2012_6,Wyoming
+2750,AL,33,2012_7,Alabama
+2749,AK,28,2012_7,Alaska
+2752,AZ,28,2012_7,Arizona
+2751,AR,13,2012_7,Arkansas
+2753,CA,30,2012_7,California
+2754,CO,27,2012_7,Colorado
+2755,CT,31,2012_7,Connecticut
+2757,DE,31,2012_7,Delaware
+2756,DC,14,2012_7,District of Columbia
+2758,FL,26,2012_7,Florida
+2759,GA,30,2012_7,Georgia
+2760,HI,28,2012_7,Hawaii
+2762,ID,21,2012_7,Idaho
+2763,IL,38,2012_7,Illinois
+2764,IN,31,2012_7,Indiana
+2761,IA,30,2012_7,Iowa
+2765,KS,25,2012_7,Kansas
+2766,KY,20,2012_7,Kentucky
+2767,LA,26,2012_7,Louisiana
+2770,ME,36,2012_7,Maine
+2769,MD,25,2012_7,Maryland
+2768,MA,36,2012_7,Massachusetts
+2771,MI,37,2012_7,Michigan
+2772,MN,16,2012_7,Minnesota
+2774,MS,16,2012_7,Mississippi
+2773,MO,26,2012_7,Missouri
+2775,MT,26,2012_7,Montana
+2778,NE,19,2012_7,Nebraska
+2782,NV,22,2012_7,Nevada
+2779,NH,49,2012_7,New Hampshire
+2780,NJ,41,2012_7,New Jersey
+2781,NM,15,2012_7,New Mexico
+2783,NY,30,2012_7,New York
+2776,NC,30,2012_7,North Carolina
+2777,ND,21,2012_7,North Dakota
+2784,OH,33,2012_7,Ohio
+2785,OK,16,2012_7,Oklahoma
+2786,OR,35,2012_7,Oregon
+2787,PA,33,2012_7,Pennsylvania
+2788,RI,42,2012_7,Rhode Island
+2789,SC,31,2012_7,South Carolina
+2790,SD,18,2012_7,South Dakota
+2791,TN,30,2012_7,Tennessee
+2792,TX,28,2012_7,Texas
+2793,UT,18,2012_7,Utah
+2795,VT,35,2012_7,Vermont
+2794,VA,31,2012_7,Virginia
+2796,WA,28,2012_7,Washington
+2798,WV,25,2012_7,West Virginia
+2797,WI,32,2012_7,Wisconsin
+2799,WY,40,2012_7,Wyoming
+2801,AL,49,2012_8,Alabama
+2800,AK,23,2012_8,Alaska
+2803,AZ,31,2012_8,Arizona
+2802,AR,35,2012_8,Arkansas
+2804,CA,26,2012_8,California
+2805,CO,22,2012_8,Colorado
+2806,CT,28,2012_8,Connecticut
+2808,DE,26,2012_8,Delaware
+2807,DC,13,2012_8,District of Columbia
+2809,FL,25,2012_8,Florida
+2810,GA,26,2012_8,Georgia
+2811,HI,31,2012_8,Hawaii
+2813,ID,13,2012_8,Idaho
+2814,IL,29,2012_8,Illinois
+2815,IN,27,2012_8,Indiana
+2812,IA,27,2012_8,Iowa
+2816,KS,23,2012_8,Kansas
+2817,KY,26,2012_8,Kentucky
+2818,LA,31,2012_8,Louisiana
+2821,ME,44,2012_8,Maine
+2820,MD,18,2012_8,Maryland
+2819,MA,21,2012_8,Massachusetts
+2822,MI,26,2012_8,Michigan
+2823,MN,21,2012_8,Minnesota
+2825,MS,13,2012_8,Mississippi
+2824,MO,28,2012_8,Missouri
+2826,MT,16,2012_8,Montana
+2829,NE,18,2012_8,Nebraska
+2833,NV,30,2012_8,Nevada
+2830,NH,32,2012_8,New Hampshire
+2831,NJ,35,2012_8,New Jersey
+2832,NM,24,2012_8,New Mexico
+2834,NY,31,2012_8,New York
+2827,NC,20,2012_8,North Carolina
+2828,ND,26,2012_8,North Dakota
+2835,OH,29,2012_8,Ohio
+2836,OK,21,2012_8,Oklahoma
+2837,OR,26,2012_8,Oregon
+2838,PA,26,2012_8,Pennsylvania
+2839,RI,36,2012_8,Rhode Island
+2840,SC,14,2012_8,South Carolina
+2841,SD,22,2012_8,South Dakota
+2842,TN,22,2012_8,Tennessee
+2843,TX,26,2012_8,Texas
+2844,UT,24,2012_8,Utah
+2846,VT,34,2012_8,Vermont
+2845,VA,23,2012_8,Virginia
+2847,WA,26,2012_8,Washington
+2849,WV,22,2012_8,West Virginia
+2848,WI,32,2012_8,Wisconsin
+2850,WY,48,2012_8,Wyoming
+2852,AL,29,2012_9,Alabama
+2851,AK,19,2012_9,Alaska
+2854,AZ,26,2012_9,Arizona
+2853,AR,27,2012_9,Arkansas
+2855,CA,23,2012_9,California
+2856,CO,23,2012_9,Colorado
+2857,CT,34,2012_9,Connecticut
+2859,DE,34,2012_9,Delaware
+2858,DC,18,2012_9,District of Columbia
+2860,FL,26,2012_9,Florida
+2861,GA,26,2012_9,Georgia
+2862,HI,11,2012_9,Hawaii
+2864,ID,21,2012_9,Idaho
+2865,IL,33,2012_9,Illinois
+2866,IN,27,2012_9,Indiana
+2863,IA,27,2012_9,Iowa
+2867,KS,27,2012_9,Kansas
+2868,KY,30,2012_9,Kentucky
+2869,LA,22,2012_9,Louisiana
+2872,ME,17,2012_9,Maine
+2871,MD,28,2012_9,Maryland
+2870,MA,34,2012_9,Massachusetts
+2873,MI,34,2012_9,Michigan
+2874,MN,27,2012_9,Minnesota
+2876,MS,11,2012_9,Mississippi
+2875,MO,28,2012_9,Missouri
+2877,MT,25,2012_9,Montana
+2880,NE,30,2012_9,Nebraska
+2884,NV,27,2012_9,Nevada
+2881,NH,53,2012_9,New Hampshire
+2882,NJ,40,2012_9,New Jersey
+2883,NM,24,2012_9,New Mexico
+2885,NY,33,2012_9,New York
+2878,NC,27,2012_9,North Carolina
+2879,ND,27,2012_9,North Dakota
+2886,OH,27,2012_9,Ohio
+2887,OK,21,2012_9,Oklahoma
+2888,OR,33,2012_9,Oregon
+2889,PA,30,2012_9,Pennsylvania
+2890,RI,36,2012_9,Rhode Island
+2891,SC,20,2012_9,South Carolina
+2892,SD,23,2012_9,South Dakota
+2893,TN,25,2012_9,Tennessee
+2894,TX,29,2012_9,Texas
+2895,UT,27,2012_9,Utah
+2897,VT,41,2012_9,Vermont
+2896,VA,25,2012_9,Virginia
+2898,WA,29,2012_9,Washington
+2900,WV,23,2012_9,West Virginia
+2899,WI,39,2012_9,Wisconsin
+2901,WY,27,2012_9,Wyoming
+3056,AL,31,2013_1,Alabama
+3055,AK,31,2013_1,Alaska
+3058,AZ,31,2013_1,Arizona
+3057,AR,13,2013_1,Arkansas
+3059,CA,31,2013_1,California
+3060,CO,31,2013_1,Colorado
+3061,CT,31,2013_1,Connecticut
+3063,DE,31,2013_1,Delaware
+3062,DC,20,2013_1,District of Columbia
+3064,FL,31,2013_1,Florida
+3065,GA,31,2013_1,Georgia
+3066,HI,32,2013_1,Hawaii
+3068,ID,22,2013_1,Idaho
+3069,IL,31,2013_1,Illinois
+3070,IN,31,2013_1,Indiana
+3067,IA,31,2013_1,Iowa
+3071,KS,31,2013_1,Kansas
+3072,KY,31,2013_1,Kentucky
+3073,LA,31,2013_1,Louisiana
+3076,ME,31,2013_1,Maine
+3075,MD,31,2013_1,Maryland
+3074,MA,31,2013_1,Massachusetts
+3077,MI,31,2013_1,Michigan
+3078,MN,31,2013_1,Minnesota
+3080,MS,31,2013_1,Mississippi
+3079,MO,31,2013_1,Missouri
+3081,MT,31,2013_1,Montana
+3084,NE,31,2013_1,Nebraska
+3088,NV,31,2013_1,Nevada
+3085,NH,31,2013_1,New Hampshire
+3086,NJ,31,2013_1,New Jersey
+3087,NM,31,2013_1,New Mexico
+3089,NY,31,2013_1,New York
+3082,NC,28,2013_1,North Carolina
+3083,ND,26,2013_1,North Dakota
+3090,OH,31,2013_1,Ohio
+3091,OK,31,2013_1,Oklahoma
+3092,OR,31,2013_1,Oregon
+3093,PA,31,2013_1,Pennsylvania
+3094,RI,31,2013_1,Rhode Island
+3095,SC,31,2013_1,South Carolina
+3096,SD,15,2013_1,South Dakota
+3097,TN,31,2013_1,Tennessee
+3098,TX,31,2013_1,Texas
+3099,UT,31,2013_1,Utah
+3101,VT,35,2013_1,Vermont
+3100,VA,31,2013_1,Virginia
+3102,WA,31,2013_1,Washington
+3104,WV,31,2013_1,West Virginia
+3103,WI,31,2013_1,Wisconsin
+3105,WY,15,2013_1,Wyoming
+3515,AL,33,2013_10,Alabama
+3514,AK,12,2013_10,Alaska
+3517,AZ,13,2013_10,Arizona
+3516,AR,18,2013_10,Arkansas
+3518,CA,26,2013_10,California
+3519,CO,21,2013_10,Colorado
+3520,CT,26,2013_10,Connecticut
+3522,DE,27,2013_10,Delaware
+3521,DC,23,2013_10,District of Columbia
+3523,FL,26,2013_10,Florida
+3524,GA,28,2013_10,Georgia
+3525,HI,36,2013_10,Hawaii
+3527,ID,22,2013_10,Idaho
+3528,IL,28,2013_10,Illinois
+3529,IN,24,2013_10,Indiana
+3526,IA,17,2013_10,Iowa
+3530,KS,20,2013_10,Kansas
+3531,KY,19,2013_10,Kentucky
+3532,LA,26,2013_10,Louisiana
+3535,ME,35,2013_10,Maine
+3534,MD,25,2013_10,Maryland
+3533,MA,23,2013_10,Massachusetts
+3536,MI,26,2013_10,Michigan
+3537,MN,28,2013_10,Minnesota
+3539,MS,12,2013_10,Mississippi
+3538,MO,26,2013_10,Missouri
+3540,MT,26,2013_10,Montana
+3543,NE,29,2013_10,Nebraska
+3547,NV,26,2013_10,Nevada
+3544,NH,26,2013_10,New Hampshire
+3545,NJ,35,2013_10,New Jersey
+3546,NM,19,2013_10,New Mexico
+3548,NY,36,2013_10,New York
+3541,NC,21,2013_10,North Carolina
+3542,ND,29,2013_10,North Dakota
+3549,OH,28,2013_10,Ohio
+3550,OK,25,2013_10,Oklahoma
+3551,OR,23,2013_10,Oregon
+3552,PA,28,2013_10,Pennsylvania
+3553,RI,24,2013_10,Rhode Island
+3554,SC,18,2013_10,South Carolina
+3555,SD,23,2013_10,South Dakota
+3556,TN,22,2013_10,Tennessee
+3557,TX,22,2013_10,Texas
+3558,UT,24,2013_10,Utah
+3560,VT,35,2013_10,Vermont
+3559,VA,22,2013_10,Virginia
+3561,WA,30,2013_10,Washington
+3563,WV,19,2013_10,West Virginia
+3562,WI,44,2013_10,Wisconsin
+3564,WY,24,2013_10,Wyoming
+3566,AL,27,2013_11,Alabama
+3565,AK,28,2013_11,Alaska
+3568,AZ,13,2013_11,Arizona
+3567,AR,15,2013_11,Arkansas
+3569,CA,27,2013_11,California
+3570,CO,24,2013_11,Colorado
+3571,CT,29,2013_11,Connecticut
+3573,DE,30,2013_11,Delaware
+3572,DC,22,2013_11,District of Columbia
+3574,FL,30,2013_11,Florida
+3575,GA,30,2013_11,Georgia
+3576,HI,20,2013_11,Hawaii
+3578,ID,23,2013_11,Idaho
+3579,IL,33,2013_11,Illinois
+3580,IN,27,2013_11,Indiana
+3577,IA,13,2013_11,Iowa
+3581,KS,28,2013_11,Kansas
+3582,KY,6,2013_11,Kentucky
+3583,LA,26,2013_11,Louisiana
+3586,ME,21,2013_11,Maine
+3585,MD,25,2013_11,Maryland
+3584,MA,28,2013_11,Massachusetts
+3587,MI,27,2013_11,Michigan
+3588,MN,28,2013_11,Minnesota
+3590,MS,14,2013_11,Mississippi
+3589,MO,35,2013_11,Missouri
+3591,MT,15,2013_11,Montana
+3594,NE,23,2013_11,Nebraska
+3598,NV,24,2013_11,Nevada
+3595,NH,42,2013_11,New Hampshire
+3596,NJ,42,2013_11,New Jersey
+3597,NM,20,2013_11,New Mexico
+3599,NY,42,2013_11,New York
+3592,NC,18,2013_11,North Carolina
+3593,ND,27,2013_11,North Dakota
+3600,OH,28,2013_11,Ohio
+3601,OK,15,2013_11,Oklahoma
+3602,OR,24,2013_11,Oregon
+3603,PA,32,2013_11,Pennsylvania
+3604,RI,31,2013_11,Rhode Island
+3605,SC,20,2013_11,South Carolina
+3606,SD,13,2013_11,South Dakota
+3607,TN,24,2013_11,Tennessee
+3608,TX,21,2013_11,Texas
+3609,UT,21,2013_11,Utah
+3611,VT,22,2013_11,Vermont
+3610,VA,21,2013_11,Virginia
+3612,WA,28,2013_11,Washington
+3614,WV,20,2013_11,West Virginia
+3613,WI,35,2013_11,Wisconsin
+3615,WY,14,2013_11,Wyoming
+3617,AL,32,2013_12,Alabama
+3616,AK,21,2013_12,Alaska
+3619,AZ,21,2013_12,Arizona
+3618,AR,20,2013_12,Arkansas
+3620,CA,29,2013_12,California
+3621,CO,27,2013_12,Colorado
+3622,CT,31,2013_12,Connecticut
+3624,DE,37,2013_12,Delaware
+3623,DC,38,2013_12,District of Columbia
+3625,FL,30,2013_12,Florida
+3626,GA,31,2013_12,Georgia
+3627,HI,16,2013_12,Hawaii
+3629,ID,17,2013_12,Idaho
+3630,IL,45,2013_12,Illinois
+3631,IN,35,2013_12,Indiana
+3628,IA,19,2013_12,Iowa
+3632,KS,38,2013_12,Kansas
+3633,KY,23,2013_12,Kentucky
+3634,LA,30,2013_12,Louisiana
+3637,ME,26,2013_12,Maine
+3636,MD,26,2013_12,Maryland
+3635,MA,32,2013_12,Massachusetts
+3638,MI,36,2013_12,Michigan
+3639,MN,30,2013_12,Minnesota
+3641,MS,20,2013_12,Mississippi
+3640,MO,34,2013_12,Missouri
+3642,MT,13,2013_12,Montana
+3645,NE,28,2013_12,Nebraska
+3649,NV,27,2013_12,Nevada
+3646,NH,27,2013_12,New Hampshire
+3647,NJ,49,2013_12,New Jersey
+3648,NM,21,2013_12,New Mexico
+3650,NY,46,2013_12,New York
+3643,NC,25,2013_12,North Carolina
+3644,ND,21,2013_12,North Dakota
+3651,OH,28,2013_12,Ohio
+3652,OK,30,2013_12,Oklahoma
+3653,OR,29,2013_12,Oregon
+3654,PA,35,2013_12,Pennsylvania
+3655,RI,38,2013_12,Rhode Island
+3656,SC,19,2013_12,South Carolina
+3657,SD,26,2013_12,South Dakota
+3658,TN,28,2013_12,Tennessee
+3659,TX,25,2013_12,Texas
+3660,UT,25,2013_12,Utah
+3662,VT,38,2013_12,Vermont
+3661,VA,28,2013_12,Virginia
+3663,WA,36,2013_12,Washington
+3665,WV,22,2013_12,West Virginia
+3664,WI,35,2013_12,Wisconsin
+3666,WY,22,2013_12,Wyoming
+3107,AL,22,2013_2,Alabama
+3106,AK,15,2013_2,Alaska
+3109,AZ,17,2013_2,Arizona
+3108,AR,14,2013_2,Arkansas
+3110,CA,23,2013_2,California
+3111,CO,22,2013_2,Colorado
+3112,CT,22,2013_2,Connecticut
+3114,DE,24,2013_2,Delaware
+3113,DC,13,2013_2,District of Columbia
+3115,FL,17,2013_2,Florida
+3116,GA,20,2013_2,Georgia
+3117,HI,13,2013_2,Hawaii
+3119,ID,12,2013_2,Idaho
+3120,IL,23,2013_2,Illinois
+3121,IN,11,2013_2,Indiana
+3118,IA,10,2013_2,Iowa
+3122,KS,13,2013_2,Kansas
+3123,KY,4,2013_2,Kentucky
+3124,LA,10,2013_2,Louisiana
+3127,ME,13,2013_2,Maine
+3126,MD,13,2013_2,Maryland
+3125,MA,24,2013_2,Massachusetts
+3128,MI,13,2013_2,Michigan
+3129,MN,21,2013_2,Minnesota
+3131,MS,10,2013_2,Mississippi
+3130,MO,15,2013_2,Missouri
+3132,MT,10,2013_2,Montana
+3135,NE,20,2013_2,Nebraska
+3139,NV,10,2013_2,Nevada
+3136,NH,13,2013_2,New Hampshire
+3137,NJ,25,2013_2,New Jersey
+3138,NM,13,2013_2,New Mexico
+3140,NY,22,2013_2,New York
+3133,NC,12,2013_2,North Carolina
+3134,ND,18,2013_2,North Dakota
+3141,OH,16,2013_2,Ohio
+3142,OK,12,2013_2,Oklahoma
+3143,OR,15,2013_2,Oregon
+3144,PA,13,2013_2,Pennsylvania
+3145,RI,11,2013_2,Rhode Island
+3146,SC,10,2013_2,South Carolina
+3147,SD,15,2013_2,South Dakota
+3148,TN,17,2013_2,Tennessee
+3149,TX,18,2013_2,Texas
+3150,UT,13,2013_2,Utah
+3152,VT,27,2013_2,Vermont
+3151,VA,16,2013_2,Virginia
+3153,WA,24,2013_2,Washington
+3155,WV,10,2013_2,West Virginia
+3154,WI,21,2013_2,Wisconsin
+3156,WY,27,2013_2,Wyoming
+3158,AL,22,2013_3,Alabama
+3157,AK,19,2013_3,Alaska
+3160,AZ,24,2013_3,Arizona
+3159,AR,17,2013_3,Arkansas
+3161,CA,26,2013_3,California
+3162,CO,25,2013_3,Colorado
+3163,CT,30,2013_3,Connecticut
+3165,DE,27,2013_3,Delaware
+3164,DC,16,2013_3,District of Columbia
+3166,FL,19,2013_3,Florida
+3167,GA,22,2013_3,Georgia
+3168,HI,26,2013_3,Hawaii
+3170,ID,11,2013_3,Idaho
+3171,IL,25,2013_3,Illinois
+3172,IN,22,2013_3,Indiana
+3169,IA,20,2013_3,Iowa
+3173,KS,25,2013_3,Kansas
+3174,KY,10,2013_3,Kentucky
+3175,LA,19,2013_3,Louisiana
+3178,ME,13,2013_3,Maine
+3177,MD,26,2013_3,Maryland
+3176,MA,25,2013_3,Massachusetts
+3179,MI,18,2013_3,Michigan
+3180,MN,22,2013_3,Minnesota
+3182,MS,19,2013_3,Mississippi
+3181,MO,21,2013_3,Missouri
+3183,MT,11,2013_3,Montana
+3186,NE,33,2013_3,Nebraska
+3190,NV,24,2013_3,Nevada
+3187,NH,28,2013_3,New Hampshire
+3188,NJ,32,2013_3,New Jersey
+3189,NM,26,2013_3,New Mexico
+3191,NY,28,2013_3,New York
+3184,NC,20,2013_3,North Carolina
+3185,ND,33,2013_3,North Dakota
+3192,OH,22,2013_3,Ohio
+3193,OK,24,2013_3,Oklahoma
+3194,OR,18,2013_3,Oregon
+3195,PA,25,2013_3,Pennsylvania
+3196,RI,11,2013_3,Rhode Island
+3197,SC,11,2013_3,South Carolina
+3198,SD,24,2013_3,South Dakota
+3199,TN,20,2013_3,Tennessee
+3200,TX,20,2013_3,Texas
+3201,UT,23,2013_3,Utah
+3203,VT,25,2013_3,Vermont
+3202,VA,18,2013_3,Virginia
+3204,WA,24,2013_3,Washington
+3206,WV,13,2013_3,West Virginia
+3205,WI,26,2013_3,Wisconsin
+3207,WY,4,2013_3,Wyoming
+3209,AL,111,2013_4,Alabama
+3208,AK,39,2013_4,Alaska
+3211,AZ,30,2013_4,Arizona
+3210,AR,29,2013_4,Arkansas
+3212,CA,31,2013_4,California
+3213,CO,30,2013_4,Colorado
+3214,CT,53,2013_4,Connecticut
+3216,DE,32,2013_4,Delaware
+3215,DC,21,2013_4,District of Columbia
+3217,FL,38,2013_4,Florida
+3218,GA,34,2013_4,Georgia
+3219,HI,111,2013_4,Hawaii
+3221,ID,18,2013_4,Idaho
+3222,IL,29,2013_4,Illinois
+3223,IN,60,2013_4,Indiana
+3220,IA,35,2013_4,Iowa
+3224,KS,30,2013_4,Kansas
+3225,KY,26,2013_4,Kentucky
+3226,LA,70,2013_4,Louisiana
+3229,ME,111,2013_4,Maine
+3228,MD,38,2013_4,Maryland
+3227,MA,31,2013_4,Massachusetts
+3230,MI,70,2013_4,Michigan
+3231,MN,29,2013_4,Minnesota
+3233,MS,111,2013_4,Mississippi
+3232,MO,34,2013_4,Missouri
+3234,MT,19,2013_4,Montana
+3237,NE,50,2013_4,Nebraska
+3241,NV,34,2013_4,Nevada
+3238,NH,111,2013_4,New Hampshire
+3239,NJ,34,2013_4,New Jersey
+3240,NM,43,2013_4,New Mexico
+3242,NY,36,2013_4,New York
+3235,NC,36,2013_4,North Carolina
+3236,ND,14,2013_4,North Dakota
+3243,OH,33,2013_4,Ohio
+3244,OK,27,2013_4,Oklahoma
+3245,OR,29,2013_4,Oregon
+3246,PA,52,2013_4,Pennsylvania
+3247,RI,25,2013_4,Rhode Island
+3248,SC,45,2013_4,South Carolina
+3249,SD,38,2013_4,South Dakota
+3250,TN,33,2013_4,Tennessee
+3251,TX,27,2013_4,Texas
+3252,UT,28,2013_4,Utah
+3254,VT,111,2013_4,Vermont
+3253,VA,26,2013_4,Virginia
+3255,WA,38,2013_4,Washington
+3257,WV,111,2013_4,West Virginia
+3256,WI,72,2013_4,Wisconsin
+3258,WY,111,2013_4,Wyoming
+3260,AL,26,2013_5,Alabama
+3259,AK,14,2013_5,Alaska
+3262,AZ,19,2013_5,Arizona
+3261,AR,16,2013_5,Arkansas
+3263,CA,28,2013_5,California
+3264,CO,20,2013_5,Colorado
+3265,CT,41,2013_5,Connecticut
+3267,DE,16,2013_5,Delaware
+3266,DC,17,2013_5,District of Columbia
+3268,FL,24,2013_5,Florida
+3269,GA,25,2013_5,Georgia
+3270,HI,36,2013_5,Hawaii
+3272,ID,21,2013_5,Idaho
+3273,IL,30,2013_5,Illinois
+3274,IN,25,2013_5,Indiana
+3271,IA,20,2013_5,Iowa
+3275,KS,21,2013_5,Kansas
+3276,KY,13,2013_5,Kentucky
+3277,LA,32,2013_5,Louisiana
+3280,ME,18,2013_5,Maine
+3279,MD,26,2013_5,Maryland
+3278,MA,24,2013_5,Massachusetts
+3281,MI,30,2013_5,Michigan
+3282,MN,24,2013_5,Minnesota
+3284,MS,23,2013_5,Mississippi
+3283,MO,26,2013_5,Missouri
+3285,MT,23,2013_5,Montana
+3288,NE,26,2013_5,Nebraska
+3292,NV,20,2013_5,Nevada
+3289,NH,23,2013_5,New Hampshire
+3290,NJ,29,2013_5,New Jersey
+3291,NM,23,2013_5,New Mexico
+3293,NY,29,2013_5,New York
+3286,NC,20,2013_5,North Carolina
+3287,ND,26,2013_5,North Dakota
+3294,OH,25,2013_5,Ohio
+3295,OK,18,2013_5,Oklahoma
+3296,OR,26,2013_5,Oregon
+3297,PA,28,2013_5,Pennsylvania
+3298,RI,13,2013_5,Rhode Island
+3299,SC,18,2013_5,South Carolina
+3300,SD,25,2013_5,South Dakota
+3301,TN,22,2013_5,Tennessee
+3302,TX,21,2013_5,Texas
+3303,UT,19,2013_5,Utah
+3305,VT,28,2013_5,Vermont
+3304,VA,23,2013_5,Virginia
+3306,WA,27,2013_5,Washington
+3308,WV,24,2013_5,West Virginia
+3307,WI,28,2013_5,Wisconsin
+3309,WY,32,2013_5,Wyoming
+3311,AL,24,2013_6,Alabama
+3310,AK,22,2013_6,Alaska
+3313,AZ,23,2013_6,Arizona
+3312,AR,19,2013_6,Arkansas
+3314,CA,27,2013_6,California
+3315,CO,26,2013_6,Colorado
+3316,CT,42,2013_6,Connecticut
+3318,DE,30,2013_6,Delaware
+3317,DC,25,2013_6,District of Columbia
+3319,FL,22,2013_6,Florida
+3320,GA,27,2013_6,Georgia
+3321,HI,15,2013_6,Hawaii
+3323,ID,16,2013_6,Idaho
+3324,IL,31,2013_6,Illinois
+3325,IN,28,2013_6,Indiana
+3322,IA,26,2013_6,Iowa
+3326,KS,23,2013_6,Kansas
+3327,KY,3,2013_6,Kentucky
+3328,LA,28,2013_6,Louisiana
+3331,ME,44,2013_6,Maine
+3330,MD,24,2013_6,Maryland
+3329,MA,27,2013_6,Massachusetts
+3332,MI,30,2013_6,Michigan
+3333,MN,26,2013_6,Minnesota
+3335,MS,26,2013_6,Mississippi
+3334,MO,27,2013_6,Missouri
+3336,MT,30,2013_6,Montana
+3339,NE,26,2013_6,Nebraska
+3343,NV,29,2013_6,Nevada
+3340,NH,23,2013_6,New Hampshire
+3341,NJ,32,2013_6,New Jersey
+3342,NM,21,2013_6,New Mexico
+3344,NY,36,2013_6,New York
+3337,NC,27,2013_6,North Carolina
+3338,ND,26,2013_6,North Dakota
+3345,OH,28,2013_6,Ohio
+3346,OK,23,2013_6,Oklahoma
+3347,OR,21,2013_6,Oregon
+3348,PA,32,2013_6,Pennsylvania
+3349,RI,37,2013_6,Rhode Island
+3350,SC,21,2013_6,South Carolina
+3351,SD,25,2013_6,South Dakota
+3352,TN,28,2013_6,Tennessee
+3353,TX,25,2013_6,Texas
+3354,UT,26,2013_6,Utah
+3356,VT,31,2013_6,Vermont
+3355,VA,23,2013_6,Virginia
+3357,WA,34,2013_6,Washington
+3359,WV,26,2013_6,West Virginia
+3358,WI,32,2013_6,Wisconsin
+3360,WY,15,2013_6,Wyoming
+3362,AL,228,2013_7,Alabama
+3361,AK,65,2013_7,Alaska
+3364,AZ,223,2013_7,Arizona
+3363,AR,27,2013_7,Arkansas
+3365,CA,228,2013_7,California
+3366,CO,89,2013_7,Colorado
+3367,CT,147,2013_7,Connecticut
+3369,DE,53,2013_7,Delaware
+3368,DC,26,2013_7,District of Columbia
+3370,FL,228,2013_7,Florida
+3371,GA,61,2013_7,Georgia
+3372,HI,231,2013_7,Hawaii
+3374,ID,231,2013_7,Idaho
+3375,IL,105,2013_7,Illinois
+3376,IN,231,2013_7,Indiana
+3373,IA,35,2013_7,Iowa
+3377,KS,79,2013_7,Kansas
+3378,KY,60,2013_7,Kentucky
+3379,LA,231,2013_7,Louisiana
+3382,ME,62,2013_7,Maine
+3381,MD,72,2013_7,Maryland
+3380,MA,72,2013_7,Massachusetts
+3383,MI,146,2013_7,Michigan
+3384,MN,46,2013_7,Minnesota
+3386,MS,198,2013_7,Mississippi
+3385,MO,74,2013_7,Missouri
+3387,MT,145,2013_7,Montana
+3390,NE,52,2013_7,Nebraska
+3394,NV,231,2013_7,Nevada
+3391,NH,66,2013_7,New Hampshire
+3392,NJ,231,2013_7,New Jersey
+3393,NM,231,2013_7,New Mexico
+3395,NY,117,2013_7,New York
+3388,NC,47,2013_7,North Carolina
+3389,ND,51,2013_7,North Dakota
+3396,OH,87,2013_7,Ohio
+3397,OK,37,2013_7,Oklahoma
+3398,OR,98,2013_7,Oregon
+3399,PA,101,2013_7,Pennsylvania
+3400,RI,84,2013_7,Rhode Island
+3401,SC,44,2013_7,South Carolina
+3402,SD,60,2013_7,South Dakota
+3403,TN,87,2013_7,Tennessee
+3404,TX,93,2013_7,Texas
+3405,UT,66,2013_7,Utah
+3407,VT,20,2013_7,Vermont
+3406,VA,46,2013_7,Virginia
+3408,WA,57,2013_7,Washington
+3410,WV,231,2013_7,West Virginia
+3409,WI,56,2013_7,Wisconsin
+3411,WY,23,2013_7,Wyoming
+3413,AL,485,2013_8,Alabama
+3412,AK,346,2013_8,Alaska
+3415,AZ,31,2013_8,Arizona
+3414,AR,35,2013_8,Arkansas
+3416,CA,50,2013_8,California
+3417,CO,37,2013_8,Colorado
+3418,CT,132,2013_8,Connecticut
+3420,DE,53,2013_8,Delaware
+3419,DC,20,2013_8,District of Columbia
+3421,FL,56,2013_8,Florida
+3422,GA,52,2013_8,Georgia
+3423,HI,485,2013_8,Hawaii
+3425,ID,30,2013_8,Idaho
+3426,IL,52,2013_8,Illinois
+3427,IN,77,2013_8,Indiana
+3424,IA,94,2013_8,Iowa
+3428,KS,63,2013_8,Kansas
+3429,KY,46,2013_8,Kentucky
+3430,LA,485,2013_8,Louisiana
+3433,ME,485,2013_8,Maine
+3432,MD,34,2013_8,Maryland
+3431,MA,45,2013_8,Massachusetts
+3434,MI,162,2013_8,Michigan
+3435,MN,45,2013_8,Minnesota
+3437,MS,485,2013_8,Mississippi
+3436,MO,39,2013_8,Missouri
+3438,MT,12,2013_8,Montana
+3441,NE,46,2013_8,Nebraska
+3445,NV,49,2013_8,Nevada
+3442,NH,485,2013_8,New Hampshire
+3443,NJ,52,2013_8,New Jersey
+3444,NM,62,2013_8,New Mexico
+3446,NY,54,2013_8,New York
+3439,NC,67,2013_8,North Carolina
+3440,ND,28,2013_8,North Dakota
+3447,OH,60,2013_8,Ohio
+3448,OK,41,2013_8,Oklahoma
+3449,OR,58,2013_8,Oregon
+3450,PA,98,2013_8,Pennsylvania
+3451,RI,46,2013_8,Rhode Island
+3452,SC,230,2013_8,South Carolina
+3453,SD,57,2013_8,South Dakota
+3454,TN,54,2013_8,Tennessee
+3455,TX,33,2013_8,Texas
+3456,UT,31,2013_8,Utah
+3458,VT,325,2013_8,Vermont
+3457,VA,30,2013_8,Virginia
+3459,WA,46,2013_8,Washington
+3461,WV,485,2013_8,West Virginia
+3460,WI,485,2013_8,Wisconsin
+3462,WY,485,2013_8,Wyoming
+3464,AL,25,2013_9,Alabama
+3463,AK,15,2013_9,Alaska
+3466,AZ,15,2013_9,Arizona
+3465,AR,16,2013_9,Arkansas
+3467,CA,28,2013_9,California
+3468,CO,28,2013_9,Colorado
+3469,CT,18,2013_9,Connecticut
+3471,DE,38,2013_9,Delaware
+3470,DC,17,2013_9,District of Columbia
+3472,FL,22,2013_9,Florida
+3473,GA,27,2013_9,Georgia
+3474,HI,36,2013_9,Hawaii
+3476,ID,16,2013_9,Idaho
+3477,IL,33,2013_9,Illinois
+3478,IN,27,2013_9,Indiana
+3475,IA,26,2013_9,Iowa
+3479,KS,24,2013_9,Kansas
+3480,KY,25,2013_9,Kentucky
+3481,LA,20,2013_9,Louisiana
+3484,ME,30,2013_9,Maine
+3483,MD,27,2013_9,Maryland
+3482,MA,28,2013_9,Massachusetts
+3485,MI,27,2013_9,Michigan
+3486,MN,27,2013_9,Minnesota
+3488,MS,15,2013_9,Mississippi
+3487,MO,34,2013_9,Missouri
+3489,MT,31,2013_9,Montana
+3492,NE,22,2013_9,Nebraska
+3496,NV,26,2013_9,Nevada
+3493,NH,26,2013_9,New Hampshire
+3494,NJ,34,2013_9,New Jersey
+3495,NM,16,2013_9,New Mexico
+3497,NY,33,2013_9,New York
+3490,NC,18,2013_9,North Carolina
+3491,ND,32,2013_9,North Dakota
+3498,OH,34,2013_9,Ohio
+3499,OK,19,2013_9,Oklahoma
+3500,OR,26,2013_9,Oregon
+3501,PA,27,2013_9,Pennsylvania
+3502,RI,24,2013_9,Rhode Island
+3503,SC,15,2013_9,South Carolina
+3504,SD,15,2013_9,South Dakota
+3505,TN,28,2013_9,Tennessee
+3506,TX,21,2013_9,Texas
+3507,UT,27,2013_9,Utah
+3509,VT,24,2013_9,Vermont
+3508,VA,23,2013_9,Virginia
+3510,WA,29,2013_9,Washington
+3512,WV,40,2013_9,West Virginia
+3511,WI,39,2013_9,Wisconsin
+3513,WY,19,2013_9,Wyoming
+3668,AL,28,2014_1,Alabama
+3667,AK,12,2014_1,Alaska
+3670,AZ,20,2014_1,Arizona
+3669,AR,14,2014_1,Arkansas
+3671,CA,30,2014_1,California
+3672,CO,27,2014_1,Colorado
+3673,CT,29,2014_1,Connecticut
+3675,DE,30,2014_1,Delaware
+3674,DC,24,2014_1,District of Columbia
+3676,FL,25,2014_1,Florida
+3677,GA,31,2014_1,Georgia
+3678,HI,21,2014_1,Hawaii
+3680,ID,14,2014_1,Idaho
+3681,IL,32,2014_1,Illinois
+3682,IN,28,2014_1,Indiana
+3679,IA,23,2014_1,Iowa
+3683,KS,26,2014_1,Kansas
+3684,KY,13,2014_1,Kentucky
+3685,LA,26,2014_1,Louisiana
+3688,ME,24,2014_1,Maine
+3687,MD,26,2014_1,Maryland
+3686,MA,23,2014_1,Massachusetts
+3689,MI,26,2014_1,Michigan
+3690,MN,26,2014_1,Minnesota
+3692,MS,22,2014_1,Mississippi
+3691,MO,28,2014_1,Missouri
+3693,MT,19,2014_1,Montana
+3696,NE,33,2014_1,Nebraska
+3700,NV,22,2014_1,Nevada
+3697,NH,32,2014_1,New Hampshire
+3698,NJ,48,2014_1,New Jersey
+3699,NM,18,2014_1,New Mexico
+3701,NY,38,2014_1,New York
+3694,NC,21,2014_1,North Carolina
+3695,ND,28,2014_1,North Dakota
+3702,OH,29,2014_1,Ohio
+3703,OK,26,2014_1,Oklahoma
+3704,OR,28,2014_1,Oregon
+3705,PA,26,2014_1,Pennsylvania
+3706,RI,35,2014_1,Rhode Island
+3707,SC,18,2014_1,South Carolina
+3708,SD,20,2014_1,South Dakota
+3709,TN,24,2014_1,Tennessee
+3710,TX,23,2014_1,Texas
+3711,UT,19,2014_1,Utah
+3713,VT,32,2014_1,Vermont
+3712,VA,28,2014_1,Virginia
+3714,WA,28,2014_1,Washington
+3716,WV,20,2014_1,West Virginia
+3715,WI,35,2014_1,Wisconsin
+3717,WY,21,2014_1,Wyoming
+4127,AL,25,2014_10,Alabama
+4126,AK,10,2014_10,Alaska
+4129,AZ,26,2014_10,Arizona
+4128,AR,18,2014_10,Arkansas
+4130,CA,30,2014_10,California
+4131,CO,24,2014_10,Colorado
+4132,CT,42,2014_10,Connecticut
+4134,DE,11,2014_10,Delaware
+4133,DC,27,2014_10,District of Columbia
+4135,FL,24,2014_10,Florida
+4136,GA,27,2014_10,Georgia
+4137,HI,48,2014_10,Hawaii
+4139,ID,24,2014_10,Idaho
+4140,IL,32,2014_10,Illinois
+4141,IN,26,2014_10,Indiana
+4138,IA,25,2014_10,Iowa
+4142,KS,28,2014_10,Kansas
+4143,KY,35,2014_10,Kentucky
+4144,LA,29,2014_10,Louisiana
+4147,ME,22,2014_10,Maine
+4146,MD,35,2014_10,Maryland
+4145,MA,36,2014_10,Massachusetts
+4148,MI,25,2014_10,Michigan
+4149,MN,6,2014_10,Minnesota
+4151,MS,28,2014_10,Mississippi
+4150,MO,27,2014_10,Missouri
+4152,MT,18,2014_10,Montana
+4155,NE,38,2014_10,Nebraska
+4159,NV,27,2014_10,Nevada
+4156,NH,30,2014_10,New Hampshire
+4157,NJ,37,2014_10,New Jersey
+4158,NM,23,2014_10,New Mexico
+4160,NY,39,2014_10,New York
+4153,NC,21,2014_10,North Carolina
+4154,ND,69,2014_10,North Dakota
+4161,OH,25,2014_10,Ohio
+4162,OK,21,2014_10,Oklahoma
+4163,OR,29,2014_10,Oregon
+4164,PA,28,2014_10,Pennsylvania
+4165,RI,35,2014_10,Rhode Island
+4166,SC,24,2014_10,South Carolina
+4167,SD,32,2014_10,South Dakota
+4168,TN,25,2014_10,Tennessee
+4169,TX,4,2014_10,Texas
+4170,UT,23,2014_10,Utah
+4172,VT,30,2014_10,Vermont
+4171,VA,25,2014_10,Virginia
+4173,WA,32,2014_10,Washington
+4175,WV,24,2014_10,West Virginia
+4174,WI,34,2014_10,Wisconsin
+4176,WY,23,2014_10,Wyoming
+4178,AL,22,2014_11,Alabama
+4177,AK,3,2014_11,Alaska
+4180,AZ,26,2014_11,Arizona
+4179,AR,25,2014_11,Arkansas
+4181,CA,29,2014_11,California
+4182,CO,20,2014_11,Colorado
+4183,CT,45,2014_11,Connecticut
+4185,DE,16,2014_11,Delaware
+4184,DC,19,2014_11,District of Columbia
+4186,FL,24,2014_11,Florida
+4187,GA,28,2014_11,Georgia
+4188,HI,13,2014_11,Hawaii
+4190,ID,28,2014_11,Idaho
+4191,IL,34,2014_11,Illinois
+4192,IN,30,2014_11,Indiana
+4189,IA,25,2014_11,Iowa
+4193,KS,28,2014_11,Kansas
+4194,KY,28,2014_11,Kentucky
+4195,LA,33,2014_11,Louisiana
+4198,ME,29,2014_11,Maine
+4197,MD,31,2014_11,Maryland
+4196,MA,36,2014_11,Massachusetts
+4199,MI,32,2014_11,Michigan
+4200,MN,6,2014_11,Minnesota
+4202,MS,25,2014_11,Mississippi
+4201,MO,32,2014_11,Missouri
+4203,MT,40,2014_11,Montana
+4206,NE,27,2014_11,Nebraska
+4210,NV,16,2014_11,Nevada
+4207,NH,25,2014_11,New Hampshire
+4208,NJ,43,2014_11,New Jersey
+4209,NM,13,2014_11,New Mexico
+4211,NY,41,2014_11,New York
+4204,NC,15,2014_11,North Carolina
+4205,ND,19,2014_11,North Dakota
+4212,OH,18,2014_11,Ohio
+4213,OK,26,2014_11,Oklahoma
+4214,OR,27,2014_11,Oregon
+4215,PA,25,2014_11,Pennsylvania
+4216,RI,30,2014_11,Rhode Island
+4217,SC,23,2014_11,South Carolina
+4218,SD,41,2014_11,South Dakota
+4219,TN,26,2014_11,Tennessee
+4220,TX,0,2014_11,Texas
+4221,UT,17,2014_11,Utah
+4223,VT,39,2014_11,Vermont
+4222,VA,24,2014_11,Virginia
+4224,WA,29,2014_11,Washington
+4226,WV,21,2014_11,West Virginia
+4225,WI,32,2014_11,Wisconsin
+4227,WY,29,2014_11,Wyoming
+4229,AL,22,2014_12,Alabama
+4228,AK,11,2014_12,Alaska
+4231,AZ,32,2014_12,Arizona
+4230,AR,19,2014_12,Arkansas
+4232,CA,31,2014_12,California
+4233,CO,29,2014_12,Colorado
+4234,CT,32,2014_12,Connecticut
+4236,DE,12,2014_12,Delaware
+4235,DC,22,2014_12,District of Columbia
+4237,FL,15,2014_12,Florida
+4238,GA,31,2014_12,Georgia
+4239,HI,14,2014_12,Hawaii
+4241,ID,29,2014_12,Idaho
+4242,IL,32,2014_12,Illinois
+4243,IN,28,2014_12,Indiana
+4240,IA,32,2014_12,Iowa
+4244,KS,36,2014_12,Kansas
+4245,KY,30,2014_12,Kentucky
+4246,LA,23,2014_12,Louisiana
+4249,ME,37,2014_12,Maine
+4248,MD,23,2014_12,Maryland
+4247,MA,39,2014_12,Massachusetts
+4250,MI,29,2014_12,Michigan
+4251,MN,11,2014_12,Minnesota
+4253,MS,46,2014_12,Mississippi
+4252,MO,33,2014_12,Missouri
+4254,MT,32,2014_12,Montana
+4257,NE,40,2014_12,Nebraska
+4261,NV,14,2014_12,Nevada
+4258,NH,34,2014_12,New Hampshire
+4259,NJ,37,2014_12,New Jersey
+4260,NM,25,2014_12,New Mexico
+4262,NY,44,2014_12,New York
+4255,NC,27,2014_12,North Carolina
+4256,ND,22,2014_12,North Dakota
+4263,OH,23,2014_12,Ohio
+4264,OK,26,2014_12,Oklahoma
+4265,OR,32,2014_12,Oregon
+4266,PA,26,2014_12,Pennsylvania
+4267,RI,35,2014_12,Rhode Island
+4268,SC,21,2014_12,South Carolina
+4269,SD,22,2014_12,South Dakota
+4270,TN,29,2014_12,Tennessee
+4271,TX,26,2014_12,Texas
+4272,UT,31,2014_12,Utah
+4274,VT,37,2014_12,Vermont
+4273,VA,25,2014_12,Virginia
+4275,WA,30,2014_12,Washington
+4277,WV,34,2014_12,West Virginia
+4276,WI,30,2014_12,Wisconsin
+4278,WY,21,2014_12,Wyoming
+3719,AL,35,2014_2,Alabama
+3718,AK,19,2014_2,Alaska
+3721,AZ,22,2014_2,Arizona
+3720,AR,19,2014_2,Arkansas
+3722,CA,30,2014_2,California
+3723,CO,28,2014_2,Colorado
+3724,CT,27,2014_2,Connecticut
+3726,DE,34,2014_2,Delaware
+3725,DC,25,2014_2,District of Columbia
+3727,FL,23,2014_2,Florida
+3728,GA,27,2014_2,Georgia
+3729,HI,25,2014_2,Hawaii
+3731,ID,29,2014_2,Idaho
+3732,IL,34,2014_2,Illinois
+3733,IN,25,2014_2,Indiana
+3730,IA,23,2014_2,Iowa
+3734,KS,23,2014_2,Kansas
+3735,KY,26,2014_2,Kentucky
+3736,LA,19,2014_2,Louisiana
+3739,ME,23,2014_2,Maine
+3738,MD,17,2014_2,Maryland
+3737,MA,26,2014_2,Massachusetts
+3740,MI,27,2014_2,Michigan
+3741,MN,26,2014_2,Minnesota
+3743,MS,19,2014_2,Mississippi
+3742,MO,23,2014_2,Missouri
+3744,MT,17,2014_2,Montana
+3747,NE,47,2014_2,Nebraska
+3751,NV,26,2014_2,Nevada
+3748,NH,28,2014_2,New Hampshire
+3749,NJ,52,2014_2,New Jersey
+3750,NM,18,2014_2,New Mexico
+3752,NY,37,2014_2,New York
+3745,NC,17,2014_2,North Carolina
+3746,ND,27,2014_2,North Dakota
+3753,OH,25,2014_2,Ohio
+3754,OK,23,2014_2,Oklahoma
+3755,OR,27,2014_2,Oregon
+3756,PA,27,2014_2,Pennsylvania
+3757,RI,33,2014_2,Rhode Island
+3758,SC,25,2014_2,South Carolina
+3759,SD,34,2014_2,South Dakota
+3760,TN,25,2014_2,Tennessee
+3761,TX,21,2014_2,Texas
+3762,UT,21,2014_2,Utah
+3764,VT,27,2014_2,Vermont
+3763,VA,19,2014_2,Virginia
+3765,WA,30,2014_2,Washington
+3767,WV,18,2014_2,West Virginia
+3766,WI,28,2014_2,Wisconsin
+3768,WY,28,2014_2,Wyoming
+3770,AL,4,2014_3,Alabama
+3769,AK,6,2014_3,Alaska
+3772,AZ,11,2014_3,Arizona
+3771,AR,16,2014_3,Arkansas
+3773,CA,19,2014_3,California
+3774,CO,15,2014_3,Colorado
+3775,CT,14,2014_3,Connecticut
+3777,DE,28,2014_3,Delaware
+3776,DC,19,2014_3,District of Columbia
+3778,FL,12,2014_3,Florida
+3779,GA,19,2014_3,Georgia
+3780,HI,6,2014_3,Hawaii
+3782,ID,4,2014_3,Idaho
+3783,IL,24,2014_3,Illinois
+3784,IN,6,2014_3,Indiana
+3781,IA,12,2014_3,Iowa
+3785,KS,22,2014_3,Kansas
+3786,KY,3,2014_3,Kentucky
+3787,LA,7,2014_3,Louisiana
+3790,ME,10,2014_3,Maine
+3789,MD,4,2014_3,Maryland
+3788,MA,17,2014_3,Massachusetts
+3791,MI,6,2014_3,Michigan
+3792,MN,18,2014_3,Minnesota
+3794,MS,4,2014_3,Mississippi
+3793,MO,15,2014_3,Missouri
+3795,MT,6,2014_3,Montana
+3798,NE,23,2014_3,Nebraska
+3802,NV,18,2014_3,Nevada
+3799,NH,12,2014_3,New Hampshire
+3800,NJ,22,2014_3,New Jersey
+3801,NM,0,2014_3,New Mexico
+3803,NY,27,2014_3,New York
+3796,NC,13,2014_3,North Carolina
+3797,ND,21,2014_3,North Dakota
+3804,OH,4,2014_3,Ohio
+3805,OK,12,2014_3,Oklahoma
+3806,OR,12,2014_3,Oregon
+3807,PA,9,2014_3,Pennsylvania
+3808,RI,21,2014_3,Rhode Island
+3809,SC,10,2014_3,South Carolina
+3810,SD,30,2014_3,South Dakota
+3811,TN,8,2014_3,Tennessee
+3812,TX,15,2014_3,Texas
+3813,UT,10,2014_3,Utah
+3815,VT,11,2014_3,Vermont
+3814,VA,3,2014_3,Virginia
+3816,WA,25,2014_3,Washington
+3818,WV,3,2014_3,West Virginia
+3817,WI,29,2014_3,Wisconsin
+3819,WY,22,2014_3,Wyoming
+3821,AL,14,2014_4,Alabama
+3820,AK,4,2014_4,Alaska
+3823,AZ,11,2014_4,Arizona
+3822,AR,23,2014_4,Arkansas
+3824,CA,26,2014_4,California
+3825,CO,21,2014_4,Colorado
+3826,CT,22,2014_4,Connecticut
+3828,DE,25,2014_4,Delaware
+3827,DC,14,2014_4,District of Columbia
+3829,FL,20,2014_4,Florida
+3830,GA,24,2014_4,Georgia
+3831,HI,26,2014_4,Hawaii
+3833,ID,15,2014_4,Idaho
+3834,IL,32,2014_4,Illinois
+3835,IN,19,2014_4,Indiana
+3832,IA,25,2014_4,Iowa
+3836,KS,23,2014_4,Kansas
+3837,KY,27,2014_4,Kentucky
+3838,LA,24,2014_4,Louisiana
+3841,ME,36,2014_4,Maine
+3840,MD,2,2014_4,Maryland
+3839,MA,19,2014_4,Massachusetts
+3842,MI,27,2014_4,Michigan
+3843,MN,21,2014_4,Minnesota
+3845,MS,26,2014_4,Mississippi
+3844,MO,27,2014_4,Missouri
+3846,MT,17,2014_4,Montana
+3849,NE,30,2014_4,Nebraska
+3853,NV,21,2014_4,Nevada
+3850,NH,18,2014_4,New Hampshire
+3851,NJ,33,2014_4,New Jersey
+3852,NM,0,2014_4,New Mexico
+3854,NY,36,2014_4,New York
+3847,NC,19,2014_4,North Carolina
+3848,ND,25,2014_4,North Dakota
+3855,OH,30,2014_4,Ohio
+3856,OK,24,2014_4,Oklahoma
+3857,OR,25,2014_4,Oregon
+3858,PA,27,2014_4,Pennsylvania
+3859,RI,32,2014_4,Rhode Island
+3860,SC,25,2014_4,South Carolina
+3861,SD,25,2014_4,South Dakota
+3862,TN,23,2014_4,Tennessee
+3863,TX,20,2014_4,Texas
+3864,UT,16,2014_4,Utah
+3866,VT,25,2014_4,Vermont
+3865,VA,2,2014_4,Virginia
+3867,WA,27,2014_4,Washington
+3869,WV,27,2014_4,West Virginia
+3868,WI,32,2014_4,Wisconsin
+3870,WY,26,2014_4,Wyoming
+3872,AL,14,2014_5,Alabama
+3871,AK,11,2014_5,Alaska
+3874,AZ,11,2014_5,Arizona
+3873,AR,21,2014_5,Arkansas
+3875,CA,25,2014_5,California
+3876,CO,20,2014_5,Colorado
+3877,CT,30,2014_5,Connecticut
+3879,DE,30,2014_5,Delaware
+3878,DC,18,2014_5,District of Columbia
+3880,FL,18,2014_5,Florida
+3881,GA,22,2014_5,Georgia
+3882,HI,38,2014_5,Hawaii
+3884,ID,23,2014_5,Idaho
+3885,IL,28,2014_5,Illinois
+3886,IN,24,2014_5,Indiana
+3883,IA,26,2014_5,Iowa
+3887,KS,22,2014_5,Kansas
+3888,KY,10,2014_5,Kentucky
+3889,LA,18,2014_5,Louisiana
+3892,ME,29,2014_5,Maine
+3891,MD,14,2014_5,Maryland
+3890,MA,18,2014_5,Massachusetts
+3893,MI,26,2014_5,Michigan
+3894,MN,24,2014_5,Minnesota
+3896,MS,27,2014_5,Mississippi
+3895,MO,25,2014_5,Missouri
+3897,MT,13,2014_5,Montana
+3900,NE,29,2014_5,Nebraska
+3904,NV,29,2014_5,Nevada
+3901,NH,30,2014_5,New Hampshire
+3902,NJ,35,2014_5,New Jersey
+3903,NM,0,2014_5,New Mexico
+3905,NY,37,2014_5,New York
+3898,NC,18,2014_5,North Carolina
+3899,ND,30,2014_5,North Dakota
+3906,OH,24,2014_5,Ohio
+3907,OK,26,2014_5,Oklahoma
+3908,OR,22,2014_5,Oregon
+3909,PA,28,2014_5,Pennsylvania
+3910,RI,34,2014_5,Rhode Island
+3911,SC,19,2014_5,South Carolina
+3912,SD,17,2014_5,South Dakota
+3913,TN,23,2014_5,Tennessee
+3914,TX,23,2014_5,Texas
+3915,UT,27,2014_5,Utah
+3917,VT,18,2014_5,Vermont
+3916,VA,6,2014_5,Virginia
+3918,WA,28,2014_5,Washington
+3920,WV,26,2014_5,West Virginia
+3919,WI,29,2014_5,Wisconsin
+3921,WY,18,2014_5,Wyoming
+3923,AL,27,2014_6,Alabama
+3922,AK,7,2014_6,Alaska
+3925,AZ,18,2014_6,Arizona
+3924,AR,21,2014_6,Arkansas
+3926,CA,28,2014_6,California
+3927,CO,21,2014_6,Colorado
+3928,CT,42,2014_6,Connecticut
+3930,DE,43,2014_6,Delaware
+3929,DC,11,2014_6,District of Columbia
+3931,FL,26,2014_6,Florida
+3932,GA,15,2014_6,Georgia
+3933,HI,46,2014_6,Hawaii
+3935,ID,26,2014_6,Idaho
+3936,IL,36,2014_6,Illinois
+3937,IN,33,2014_6,Indiana
+3934,IA,37,2014_6,Iowa
+3938,KS,27,2014_6,Kansas
+3939,KY,23,2014_6,Kentucky
+3940,LA,27,2014_6,Louisiana
+3943,ME,41,2014_6,Maine
+3942,MD,32,2014_6,Maryland
+3941,MA,28,2014_6,Massachusetts
+3944,MI,26,2014_6,Michigan
+3945,MN,25,2014_6,Minnesota
+3947,MS,24,2014_6,Mississippi
+3946,MO,26,2014_6,Missouri
+3948,MT,19,2014_6,Montana
+3951,NE,33,2014_6,Nebraska
+3955,NV,28,2014_6,Nevada
+3952,NH,41,2014_6,New Hampshire
+3953,NJ,37,2014_6,New Jersey
+3954,NM,22,2014_6,New Mexico
+3956,NY,39,2014_6,New York
+3949,NC,28,2014_6,North Carolina
+3950,ND,28,2014_6,North Dakota
+3957,OH,24,2014_6,Ohio
+3958,OK,22,2014_6,Oklahoma
+3959,OR,22,2014_6,Oregon
+3960,PA,30,2014_6,Pennsylvania
+3961,RI,31,2014_6,Rhode Island
+3962,SC,18,2014_6,South Carolina
+3963,SD,20,2014_6,South Dakota
+3964,TN,26,2014_6,Tennessee
+3965,TX,13,2014_6,Texas
+3966,UT,20,2014_6,Utah
+3968,VT,33,2014_6,Vermont
+3967,VA,24,2014_6,Virginia
+3969,WA,35,2014_6,Washington
+3971,WV,26,2014_6,West Virginia
+3970,WI,37,2014_6,Wisconsin
+3972,WY,28,2014_6,Wyoming
+3974,AL,195,2014_7,Alabama
+3973,AK,59,2014_7,Alaska
+3976,AZ,195,2014_7,Arizona
+3975,AR,32,2014_7,Arkansas
+3977,CA,130,2014_7,California
+3978,CO,58,2014_7,Colorado
+3979,CT,100,2014_7,Connecticut
+3981,DE,54,2014_7,Delaware
+3980,DC,19,2014_7,District of Columbia
+3982,FL,172,2014_7,Florida
+3983,GA,63,2014_7,Georgia
+3984,HI,195,2014_7,Hawaii
+3986,ID,195,2014_7,Idaho
+3987,IL,133,2014_7,Illinois
+3988,IN,195,2014_7,Indiana
+3985,IA,124,2014_7,Iowa
+3989,KS,195,2014_7,Kansas
+3990,KY,195,2014_7,Kentucky
+3991,LA,195,2014_7,Louisiana
+3994,ME,195,2014_7,Maine
+3993,MD,77,2014_7,Maryland
+3992,MA,74,2014_7,Massachusetts
+3995,MI,195,2014_7,Michigan
+3996,MN,57,2014_7,Minnesota
+3998,MS,195,2014_7,Mississippi
+3997,MO,97,2014_7,Missouri
+3999,MT,107,2014_7,Montana
+4002,NE,65,2014_7,Nebraska
+4006,NV,195,2014_7,Nevada
+4003,NH,165,2014_7,New Hampshire
+4004,NJ,195,2014_7,New Jersey
+4005,NM,195,2014_7,New Mexico
+4007,NY,100,2014_7,New York
+4000,NC,66,2014_7,North Carolina
+4001,ND,22,2014_7,North Dakota
+4008,OH,61,2014_7,Ohio
+4009,OK,48,2014_7,Oklahoma
+4010,OR,195,2014_7,Oregon
+4011,PA,80,2014_7,Pennsylvania
+4012,RI,81,2014_7,Rhode Island
+4013,SC,159,2014_7,South Carolina
+4014,SD,20,2014_7,South Dakota
+4015,TN,95,2014_7,Tennessee
+4016,TX,49,2014_7,Texas
+4017,UT,73,2014_7,Utah
+4019,VT,21,2014_7,Vermont
+4018,VA,62,2014_7,Virginia
+4020,WA,86,2014_7,Washington
+4022,WV,195,2014_7,West Virginia
+4021,WI,109,2014_7,Wisconsin
+4023,WY,24,2014_7,Wyoming
+4025,AL,28,2014_8,Alabama
+4024,AK,9,2014_8,Alaska
+4027,AZ,26,2014_8,Arizona
+4026,AR,21,2014_8,Arkansas
+4028,CA,27,2014_8,California
+4029,CO,26,2014_8,Colorado
+4030,CT,31,2014_8,Connecticut
+4032,DE,14,2014_8,Delaware
+4031,DC,17,2014_8,District of Columbia
+4033,FL,20,2014_8,Florida
+4034,GA,20,2014_8,Georgia
+4035,HI,27,2014_8,Hawaii
+4037,ID,30,2014_8,Idaho
+4038,IL,27,2014_8,Illinois
+4039,IN,16,2014_8,Indiana
+4036,IA,16,2014_8,Iowa
+4040,KS,30,2014_8,Kansas
+4041,KY,24,2014_8,Kentucky
+4042,LA,25,2014_8,Louisiana
+4045,ME,24,2014_8,Maine
+4044,MD,29,2014_8,Maryland
+4043,MA,34,2014_8,Massachusetts
+4046,MI,27,2014_8,Michigan
+4047,MN,13,2014_8,Minnesota
+4049,MS,31,2014_8,Mississippi
+4048,MO,29,2014_8,Missouri
+4050,MT,30,2014_8,Montana
+4053,NE,33,2014_8,Nebraska
+4057,NV,27,2014_8,Nevada
+4054,NH,27,2014_8,New Hampshire
+4055,NJ,33,2014_8,New Jersey
+4056,NM,30,2014_8,New Mexico
+4058,NY,33,2014_8,New York
+4051,NC,17,2014_8,North Carolina
+4052,ND,15,2014_8,North Dakota
+4059,OH,24,2014_8,Ohio
+4060,OK,24,2014_8,Oklahoma
+4061,OR,27,2014_8,Oregon
+4062,PA,24,2014_8,Pennsylvania
+4063,RI,18,2014_8,Rhode Island
+4064,SC,16,2014_8,South Carolina
+4065,SD,19,2014_8,South Dakota
+4066,TN,26,2014_8,Tennessee
+4067,TX,6,2014_8,Texas
+4068,UT,24,2014_8,Utah
+4070,VT,22,2014_8,Vermont
+4069,VA,25,2014_8,Virginia
+4071,WA,29,2014_8,Washington
+4073,WV,30,2014_8,West Virginia
+4072,WI,31,2014_8,Wisconsin
+4074,WY,22,2014_8,Wyoming
+4076,AL,21,2014_9,Alabama
+4075,AK,0,2014_9,Alaska
+4078,AZ,24,2014_9,Arizona
+4077,AR,25,2014_9,Arkansas
+4079,CA,31,2014_9,California
+4080,CO,21,2014_9,Colorado
+4081,CT,36,2014_9,Connecticut
+4083,DE,2,2014_9,Delaware
+4082,DC,46,2014_9,District of Columbia
+4084,FL,18,2014_9,Florida
+4085,GA,27,2014_9,Georgia
+4086,HI,26,2014_9,Hawaii
+4088,ID,28,2014_9,Idaho
+4089,IL,35,2014_9,Illinois
+4090,IN,27,2014_9,Indiana
+4087,IA,22,2014_9,Iowa
+4091,KS,25,2014_9,Kansas
+4092,KY,26,2014_9,Kentucky
+4093,LA,28,2014_9,Louisiana
+4096,ME,21,2014_9,Maine
+4095,MD,28,2014_9,Maryland
+4094,MA,39,2014_9,Massachusetts
+4097,MI,20,2014_9,Michigan
+4098,MN,8,2014_9,Minnesota
+4100,MS,20,2014_9,Mississippi
+4099,MO,27,2014_9,Missouri
+4101,MT,42,2014_9,Montana
+4104,NE,39,2014_9,Nebraska
+4108,NV,28,2014_9,Nevada
+4105,NH,29,2014_9,New Hampshire
+4106,NJ,32,2014_9,New Jersey
+4107,NM,25,2014_9,New Mexico
+4109,NY,36,2014_9,New York
+4102,NC,24,2014_9,North Carolina
+4103,ND,25,2014_9,North Dakota
+4110,OH,20,2014_9,Ohio
+4111,OK,23,2014_9,Oklahoma
+4112,OR,23,2014_9,Oregon
+4113,PA,25,2014_9,Pennsylvania
+4114,RI,23,2014_9,Rhode Island
+4115,SC,18,2014_9,South Carolina
+4116,SD,25,2014_9,South Dakota
+4117,TN,25,2014_9,Tennessee
+4118,TX,4,2014_9,Texas
+4119,UT,26,2014_9,Utah
+4121,VT,39,2014_9,Vermont
+4120,VA,19,2014_9,Virginia
+4122,WA,37,2014_9,Washington
+4124,WV,10,2014_9,West Virginia
+4123,WI,35,2014_9,Wisconsin
+4125,WY,27,2014_9,Wyoming
+4280,AL,37,2015_1,Alabama
+4279,AK,19,2015_1,Alaska
+4282,AZ,26,2015_1,Arizona
+4281,AR,30,2015_1,Arkansas
+4283,CA,31,2015_1,California
+4284,CO,24,2015_1,Colorado
+4285,CT,35,2015_1,Connecticut
+4287,DE,37,2015_1,Delaware
+4286,DC,25,2015_1,District of Columbia
+4288,FL,25,2015_1,Florida
+4289,GA,31,2015_1,Georgia
+4290,HI,16,2015_1,Hawaii
+4292,ID,24,2015_1,Idaho
+4293,IL,28,2015_1,Illinois
+4294,IN,31,2015_1,Indiana
+4291,IA,33,2015_1,Iowa
+4295,KS,33,2015_1,Kansas
+4296,KY,25,2015_1,Kentucky
+4297,LA,46,2015_1,Louisiana
+4300,ME,30,2015_1,Maine
+4299,MD,32,2015_1,Maryland
+4298,MA,39,2015_1,Massachusetts
+4301,MI,35,2015_1,Michigan
+4302,MN,32,2015_1,Minnesota
+4304,MS,25,2015_1,Mississippi
+4303,MO,31,2015_1,Missouri
+4305,MT,19,2015_1,Montana
+4308,NE,26,2015_1,Nebraska
+4312,NV,24,2015_1,Nevada
+4309,NH,32,2015_1,New Hampshire
+4310,NJ,40,2015_1,New Jersey
+4311,NM,26,2015_1,New Mexico
+4313,NY,44,2015_1,New York
+4306,NC,26,2015_1,North Carolina
+4307,ND,39,2015_1,North Dakota
+4314,OH,29,2015_1,Ohio
+4315,OK,20,2015_1,Oklahoma
+4316,OR,29,2015_1,Oregon
+4317,PA,33,2015_1,Pennsylvania
+4318,RI,42,2015_1,Rhode Island
+4319,SC,15,2015_1,South Carolina
+4320,SD,35,2015_1,South Dakota
+4321,TN,25,2015_1,Tennessee
+4322,TX,31,2015_1,Texas
+4323,UT,21,2015_1,Utah
+4325,VT,34,2015_1,Vermont
+4324,VA,28,2015_1,Virginia
+4326,WA,17,2015_1,Washington
+4328,WV,41,2015_1,West Virginia
+4327,WI,38,2015_1,Wisconsin
+4329,WY,41,2015_1,Wyoming
+4739,AL,33,2015_10,Alabama
+4738,AK,17,2015_10,Alaska
+4741,AZ,26,2015_10,Arizona
+4740,AR,15,2015_10,Arkansas
+4742,CA,26,2015_10,California
+4743,CO,27,2015_10,Colorado
+4744,CT,36,2015_10,Connecticut
+4746,DE,35,2015_10,Delaware
+4745,DC,19,2015_10,District of Columbia
+4747,FL,19,2015_10,Florida
+4748,GA,27,2015_10,Georgia
+4749,HI,21,2015_10,Hawaii
+4751,ID,34,2015_10,Idaho
+4752,IL,23,2015_10,Illinois
+4753,IN,34,2015_10,Indiana
+4750,IA,25,2015_10,Iowa
+4754,KS,25,2015_10,Kansas
+4755,KY,23,2015_10,Kentucky
+4756,LA,22,2015_10,Louisiana
+4759,ME,27,2015_10,Maine
+4758,MD,22,2015_10,Maryland
+4757,MA,40,2015_10,Massachusetts
+4760,MI,28,2015_10,Michigan
+4761,MN,24,2015_10,Minnesota
+4763,MS,16,2015_10,Mississippi
+4762,MO,38,2015_10,Missouri
+4764,MT,28,2015_10,Montana
+4767,NE,35,2015_10,Nebraska
+4771,NV,23,2015_10,Nevada
+4768,NH,36,2015_10,New Hampshire
+4769,NJ,33,2015_10,New Jersey
+4770,NM,29,2015_10,New Mexico
+4772,NY,39,2015_10,New York
+4765,NC,25,2015_10,North Carolina
+4766,ND,18,2015_10,North Dakota
+4773,OH,33,2015_10,Ohio
+4774,OK,17,2015_10,Oklahoma
+4775,OR,25,2015_10,Oregon
+4776,PA,31,2015_10,Pennsylvania
+4777,RI,31,2015_10,Rhode Island
+4778,SC,23,2015_10,South Carolina
+4779,SD,17,2015_10,South Dakota
+4780,TN,34,2015_10,Tennessee
+4781,TX,26,2015_10,Texas
+4782,UT,33,2015_10,Utah
+4784,VT,31,2015_10,Vermont
+4783,VA,25,2015_10,Virginia
+4785,WA,27,2015_10,Washington
+4787,WV,25,2015_10,West Virginia
+4786,WI,41,2015_10,Wisconsin
+4788,WY,28,2015_10,Wyoming
+4790,AL,27,2015_11,Alabama
+4789,AK,19,2015_11,Alaska
+4792,AZ,26,2015_11,Arizona
+4791,AR,19,2015_11,Arkansas
+4793,CA,30,2015_11,California
+4794,CO,24,2015_11,Colorado
+4795,CT,44,2015_11,Connecticut
+4797,DE,40,2015_11,Delaware
+4796,DC,20,2015_11,District of Columbia
+4798,FL,25,2015_11,Florida
+4799,GA,30,2015_11,Georgia
+4800,HI,18,2015_11,Hawaii
+4802,ID,20,2015_11,Idaho
+4803,IL,28,2015_11,Illinois
+4804,IN,24,2015_11,Indiana
+4801,IA,25,2015_11,Iowa
+4805,KS,25,2015_11,Kansas
+4806,KY,20,2015_11,Kentucky
+4807,LA,25,2015_11,Louisiana
+4810,ME,23,2015_11,Maine
+4809,MD,31,2015_11,Maryland
+4808,MA,39,2015_11,Massachusetts
+4811,MI,26,2015_11,Michigan
+4812,MN,20,2015_11,Minnesota
+4814,MS,19,2015_11,Mississippi
+4813,MO,26,2015_11,Missouri
+4815,MT,33,2015_11,Montana
+4818,NE,25,2015_11,Nebraska
+4822,NV,27,2015_11,Nevada
+4819,NH,31,2015_11,New Hampshire
+4820,NJ,29,2015_11,New Jersey
+4821,NM,24,2015_11,New Mexico
+4823,NY,41,2015_11,New York
+4816,NC,22,2015_11,North Carolina
+4817,ND,12,2015_11,North Dakota
+4824,OH,29,2015_11,Ohio
+4825,OK,22,2015_11,Oklahoma
+4826,OR,26,2015_11,Oregon
+4827,PA,31,2015_11,Pennsylvania
+4828,RI,19,2015_11,Rhode Island
+4829,SC,19,2015_11,South Carolina
+4830,SD,20,2015_11,South Dakota
+4831,TN,30,2015_11,Tennessee
+4832,TX,26,2015_11,Texas
+4833,UT,22,2015_11,Utah
+4835,VT,31,2015_11,Vermont
+4834,VA,27,2015_11,Virginia
+4836,WA,31,2015_11,Washington
+4838,WV,27,2015_11,West Virginia
+4837,WI,37,2015_11,Wisconsin
+4839,WY,21,2015_11,Wyoming
+4841,AL,35,2015_12,Alabama
+4840,AK,21,2015_12,Alaska
+4843,AZ,24,2015_12,Arizona
+4842,AR,26,2015_12,Arkansas
+4844,CA,28,2015_12,California
+4845,CO,28,2015_12,Colorado
+4846,CT,41,2015_12,Connecticut
+4848,DE,32,2015_12,Delaware
+4847,DC,22,2015_12,District of Columbia
+4849,FL,26,2015_12,Florida
+4850,GA,26,2015_12,Georgia
+4851,HI,4,2015_12,Hawaii
+4853,ID,22,2015_12,Idaho
+4854,IL,29,2015_12,Illinois
+4855,IN,32,2015_12,Indiana
+4852,IA,23,2015_12,Iowa
+4856,KS,29,2015_12,Kansas
+4857,KY,26,2015_12,Kentucky
+4858,LA,23,2015_12,Louisiana
+4861,ME,25,2015_12,Maine
+4860,MD,25,2015_12,Maryland
+4859,MA,42,2015_12,Massachusetts
+4862,MI,31,2015_12,Michigan
+4863,MN,29,2015_12,Minnesota
+4865,MS,26,2015_12,Mississippi
+4864,MO,30,2015_12,Missouri
+4866,MT,22,2015_12,Montana
+4869,NE,25,2015_12,Nebraska
+4873,NV,27,2015_12,Nevada
+4870,NH,35,2015_12,New Hampshire
+4871,NJ,33,2015_12,New Jersey
+4872,NM,25,2015_12,New Mexico
+4874,NY,35,2015_12,New York
+4867,NC,27,2015_12,North Carolina
+4868,ND,16,2015_12,North Dakota
+4875,OH,30,2015_12,Ohio
+4876,OK,27,2015_12,Oklahoma
+4877,OR,33,2015_12,Oregon
+4878,PA,35,2015_12,Pennsylvania
+4879,RI,32,2015_12,Rhode Island
+4880,SC,16,2015_12,South Carolina
+4881,SD,17,2015_12,South Dakota
+4882,TN,32,2015_12,Tennessee
+4883,TX,27,2015_12,Texas
+4884,UT,30,2015_12,Utah
+4886,VT,29,2015_12,Vermont
+4885,VA,31,2015_12,Virginia
+4887,WA,28,2015_12,Washington
+4889,WV,21,2015_12,West Virginia
+4888,WI,38,2015_12,Wisconsin
+4890,WY,15,2015_12,Wyoming
+4331,AL,33,2015_2,Alabama
+4330,AK,33,2015_2,Alaska
+4333,AZ,33,2015_2,Arizona
+4332,AR,33,2015_2,Arkansas
+4334,CA,33,2015_2,California
+4335,CO,33,2015_2,Colorado
+4336,CT,33,2015_2,Connecticut
+4338,DE,33,2015_2,Delaware
+4337,DC,28,2015_2,District of Columbia
+4339,FL,33,2015_2,Florida
+4340,GA,33,2015_2,Georgia
+4341,HI,33,2015_2,Hawaii
+4343,ID,33,2015_2,Idaho
+4344,IL,33,2015_2,Illinois
+4345,IN,33,2015_2,Indiana
+4342,IA,33,2015_2,Iowa
+4346,KS,33,2015_2,Kansas
+4347,KY,33,2015_2,Kentucky
+4348,LA,33,2015_2,Louisiana
+4351,ME,33,2015_2,Maine
+4350,MD,33,2015_2,Maryland
+4349,MA,33,2015_2,Massachusetts
+4352,MI,33,2015_2,Michigan
+4353,MN,33,2015_2,Minnesota
+4355,MS,33,2015_2,Mississippi
+4354,MO,33,2015_2,Missouri
+4356,MT,33,2015_2,Montana
+4359,NE,33,2015_2,Nebraska
+4363,NV,33,2015_2,Nevada
+4360,NH,33,2015_2,New Hampshire
+4361,NJ,33,2015_2,New Jersey
+4362,NM,33,2015_2,New Mexico
+4364,NY,33,2015_2,New York
+4357,NC,33,2015_2,North Carolina
+4358,ND,33,2015_2,North Dakota
+4365,OH,33,2015_2,Ohio
+4366,OK,33,2015_2,Oklahoma
+4367,OR,33,2015_2,Oregon
+4368,PA,33,2015_2,Pennsylvania
+4369,RI,33,2015_2,Rhode Island
+4370,SC,33,2015_2,South Carolina
+4371,SD,33,2015_2,South Dakota
+4372,TN,33,2015_2,Tennessee
+4373,TX,33,2015_2,Texas
+4374,UT,33,2015_2,Utah
+4376,VT,38,2015_2,Vermont
+4375,VA,33,2015_2,Virginia
+4377,WA,32,2015_2,Washington
+4379,WV,33,2015_2,West Virginia
+4378,WI,33,2015_2,Wisconsin
+4380,WY,23,2015_2,Wyoming
+4382,AL,34,2015_3,Alabama
+4381,AK,0,2015_3,Alaska
+4384,AZ,0,2015_3,Arizona
+4383,AR,27,2015_3,Arkansas
+4385,CA,30,2015_3,California
+4386,CO,23,2015_3,Colorado
+4387,CT,46,2015_3,Connecticut
+4389,DE,32,2015_3,Delaware
+4388,DC,19,2015_3,District of Columbia
+4390,FL,26,2015_3,Florida
+4391,GA,32,2015_3,Georgia
+4392,HI,10,2015_3,Hawaii
+4394,ID,23,2015_3,Idaho
+4395,IL,34,2015_3,Illinois
+4396,IN,30,2015_3,Indiana
+4393,IA,29,2015_3,Iowa
+4397,KS,27,2015_3,Kansas
+4398,KY,28,2015_3,Kentucky
+4399,LA,28,2015_3,Louisiana
+4402,ME,23,2015_3,Maine
+4401,MD,8,2015_3,Maryland
+4400,MA,36,2015_3,Massachusetts
+4403,MI,33,2015_3,Michigan
+4404,MN,27,2015_3,Minnesota
+4406,MS,39,2015_3,Mississippi
+4405,MO,29,2015_3,Missouri
+4407,MT,20,2015_3,Montana
+4410,NE,25,2015_3,Nebraska
+4414,NV,0,2015_3,Nevada
+4411,NH,33,2015_3,New Hampshire
+4412,NJ,39,2015_3,New Jersey
+4413,NM,12,2015_3,New Mexico
+4415,NY,39,2015_3,New York
+4408,NC,24,2015_3,North Carolina
+4409,ND,21,2015_3,North Dakota
+4416,OH,33,2015_3,Ohio
+4417,OK,24,2015_3,Oklahoma
+4418,OR,26,2015_3,Oregon
+4419,PA,27,2015_3,Pennsylvania
+4420,RI,24,2015_3,Rhode Island
+4421,SC,23,2015_3,South Carolina
+4422,SD,28,2015_3,South Dakota
+4423,TN,28,2015_3,Tennessee
+4424,TX,30,2015_3,Texas
+4425,UT,0,2015_3,Utah
+4427,VT,25,2015_3,Vermont
+4426,VA,31,2015_3,Virginia
+4428,WA,12,2015_3,Washington
+4430,WV,28,2015_3,West Virginia
+4429,WI,38,2015_3,Wisconsin
+4431,WY,0,2015_3,Wyoming
+4433,AL,24,2015_4,Alabama
+4432,AK,19,2015_4,Alaska
+4435,AZ,25,2015_4,Arizona
+4434,AR,20,2015_4,Arkansas
+4436,CA,26,2015_4,California
+4437,CO,28,2015_4,Colorado
+4438,CT,37,2015_4,Connecticut
+4440,DE,24,2015_4,Delaware
+4439,DC,20,2015_4,District of Columbia
+4441,FL,22,2015_4,Florida
+4442,GA,28,2015_4,Georgia
+4443,HI,6,2015_4,Hawaii
+4445,ID,24,2015_4,Idaho
+4446,IL,29,2015_4,Illinois
+4447,IN,27,2015_4,Indiana
+4444,IA,22,2015_4,Iowa
+4448,KS,28,2015_4,Kansas
+4449,KY,25,2015_4,Kentucky
+4450,LA,25,2015_4,Louisiana
+4453,ME,32,2015_4,Maine
+4452,MD,34,2015_4,Maryland
+4451,MA,33,2015_4,Massachusetts
+4454,MI,27,2015_4,Michigan
+4455,MN,23,2015_4,Minnesota
+4457,MS,30,2015_4,Mississippi
+4456,MO,25,2015_4,Missouri
+4458,MT,25,2015_4,Montana
+4461,NE,29,2015_4,Nebraska
+4465,NV,22,2015_4,Nevada
+4462,NH,31,2015_4,New Hampshire
+4463,NJ,32,2015_4,New Jersey
+4464,NM,20,2015_4,New Mexico
+4466,NY,36,2015_4,New York
+4459,NC,18,2015_4,North Carolina
+4460,ND,17,2015_4,North Dakota
+4467,OH,25,2015_4,Ohio
+4468,OK,21,2015_4,Oklahoma
+4469,OR,26,2015_4,Oregon
+4470,PA,20,2015_4,Pennsylvania
+4471,RI,30,2015_4,Rhode Island
+4472,SC,17,2015_4,South Carolina
+4473,SD,12,2015_4,South Dakota
+4474,TN,27,2015_4,Tennessee
+4475,TX,27,2015_4,Texas
+4476,UT,26,2015_4,Utah
+4478,VT,37,2015_4,Vermont
+4477,VA,28,2015_4,Virginia
+4479,WA,27,2015_4,Washington
+4481,WV,25,2015_4,West Virginia
+4480,WI,28,2015_4,Wisconsin
+4482,WY,28,2015_4,Wyoming
+4484,AL,28,2015_5,Alabama
+4483,AK,19,2015_5,Alaska
+4486,AZ,27,2015_5,Arizona
+4485,AR,19,2015_5,Arkansas
+4487,CA,23,2015_5,California
+4488,CO,26,2015_5,Colorado
+4489,CT,41,2015_5,Connecticut
+4491,DE,20,2015_5,Delaware
+4490,DC,24,2015_5,District of Columbia
+4492,FL,26,2015_5,Florida
+4493,GA,27,2015_5,Georgia
+4494,HI,23,2015_5,Hawaii
+4496,ID,29,2015_5,Idaho
+4497,IL,37,2015_5,Illinois
+4498,IN,20,2015_5,Indiana
+4495,IA,24,2015_5,Iowa
+4499,KS,33,2015_5,Kansas
+4500,KY,22,2015_5,Kentucky
+4501,LA,25,2015_5,Louisiana
+4504,ME,27,2015_5,Maine
+4503,MD,29,2015_5,Maryland
+4502,MA,32,2015_5,Massachusetts
+4505,MI,33,2015_5,Michigan
+4506,MN,31,2015_5,Minnesota
+4508,MS,31,2015_5,Mississippi
+4507,MO,33,2015_5,Missouri
+4509,MT,21,2015_5,Montana
+4512,NE,25,2015_5,Nebraska
+4516,NV,28,2015_5,Nevada
+4513,NH,24,2015_5,New Hampshire
+4514,NJ,38,2015_5,New Jersey
+4515,NM,28,2015_5,New Mexico
+4517,NY,39,2015_5,New York
+4510,NC,28,2015_5,North Carolina
+4511,ND,44,2015_5,North Dakota
+4518,OH,29,2015_5,Ohio
+4519,OK,26,2015_5,Oklahoma
+4520,OR,25,2015_5,Oregon
+4521,PA,30,2015_5,Pennsylvania
+4522,RI,38,2015_5,Rhode Island
+4523,SC,29,2015_5,South Carolina
+4524,SD,29,2015_5,South Dakota
+4525,TN,26,2015_5,Tennessee
+4526,TX,29,2015_5,Texas
+4527,UT,27,2015_5,Utah
+4529,VT,37,2015_5,Vermont
+4528,VA,27,2015_5,Virginia
+4530,WA,27,2015_5,Washington
+4532,WV,33,2015_5,West Virginia
+4531,WI,35,2015_5,Wisconsin
+4533,WY,27,2015_5,Wyoming
+4535,AL,28,2015_6,Alabama
+4534,AK,24,2015_6,Alaska
+4537,AZ,27,2015_6,Arizona
+4536,AR,22,2015_6,Arkansas
+4538,CA,26,2015_6,California
+4539,CO,26,2015_6,Colorado
+4540,CT,42,2015_6,Connecticut
+4542,DE,32,2015_6,Delaware
+4541,DC,23,2015_6,District of Columbia
+4543,FL,25,2015_6,Florida
+4544,GA,29,2015_6,Georgia
+4545,HI,20,2015_6,Hawaii
+4547,ID,28,2015_6,Idaho
+4548,IL,40,2015_6,Illinois
+4549,IN,30,2015_6,Indiana
+4546,IA,24,2015_6,Iowa
+4550,KS,32,2015_6,Kansas
+4551,KY,25,2015_6,Kentucky
+4552,LA,30,2015_6,Louisiana
+4555,ME,27,2015_6,Maine
+4554,MD,26,2015_6,Maryland
+4553,MA,38,2015_6,Massachusetts
+4556,MI,30,2015_6,Michigan
+4557,MN,32,2015_6,Minnesota
+4559,MS,27,2015_6,Mississippi
+4558,MO,29,2015_6,Missouri
+4560,MT,31,2015_6,Montana
+4563,NE,28,2015_6,Nebraska
+4567,NV,29,2015_6,Nevada
+4564,NH,31,2015_6,New Hampshire
+4565,NJ,29,2015_6,New Jersey
+4566,NM,21,2015_6,New Mexico
+4568,NY,44,2015_6,New York
+4561,NC,26,2015_6,North Carolina
+4562,ND,17,2015_6,North Dakota
+4569,OH,36,2015_6,Ohio
+4570,OK,25,2015_6,Oklahoma
+4571,OR,40,2015_6,Oregon
+4572,PA,35,2015_6,Pennsylvania
+4573,RI,30,2015_6,Rhode Island
+4574,SC,25,2015_6,South Carolina
+4575,SD,24,2015_6,South Dakota
+4576,TN,26,2015_6,Tennessee
+4577,TX,28,2015_6,Texas
+4578,UT,21,2015_6,Utah
+4580,VT,35,2015_6,Vermont
+4579,VA,25,2015_6,Virginia
+4581,WA,27,2015_6,Washington
+4583,WV,27,2015_6,West Virginia
+4582,WI,34,2015_6,Wisconsin
+4584,WY,33,2015_6,Wyoming
+4586,AL,31,2015_7,Alabama
+4585,AK,26,2015_7,Alaska
+4588,AZ,24,2015_7,Arizona
+4587,AR,25,2015_7,Arkansas
+4589,CA,30,2015_7,California
+4590,CO,28,2015_7,Colorado
+4591,CT,48,2015_7,Connecticut
+4593,DE,38,2015_7,Delaware
+4592,DC,16,2015_7,District of Columbia
+4594,FL,25,2015_7,Florida
+4595,GA,27,2015_7,Georgia
+4596,HI,24,2015_7,Hawaii
+4598,ID,36,2015_7,Idaho
+4599,IL,33,2015_7,Illinois
+4600,IN,28,2015_7,Indiana
+4597,IA,28,2015_7,Iowa
+4601,KS,23,2015_7,Kansas
+4602,KY,23,2015_7,Kentucky
+4603,LA,27,2015_7,Louisiana
+4606,ME,25,2015_7,Maine
+4605,MD,28,2015_7,Maryland
+4604,MA,40,2015_7,Massachusetts
+4607,MI,30,2015_7,Michigan
+4608,MN,28,2015_7,Minnesota
+4610,MS,27,2015_7,Mississippi
+4609,MO,30,2015_7,Missouri
+4611,MT,14,2015_7,Montana
+4614,NE,24,2015_7,Nebraska
+4618,NV,30,2015_7,Nevada
+4615,NH,42,2015_7,New Hampshire
+4616,NJ,32,2015_7,New Jersey
+4617,NM,18,2015_7,New Mexico
+4619,NY,42,2015_7,New York
+4612,NC,21,2015_7,North Carolina
+4613,ND,20,2015_7,North Dakota
+4620,OH,28,2015_7,Ohio
+4621,OK,19,2015_7,Oklahoma
+4622,OR,31,2015_7,Oregon
+4623,PA,32,2015_7,Pennsylvania
+4624,RI,35,2015_7,Rhode Island
+4625,SC,16,2015_7,South Carolina
+4626,SD,39,2015_7,South Dakota
+4627,TN,20,2015_7,Tennessee
+4628,TX,26,2015_7,Texas
+4629,UT,30,2015_7,Utah
+4631,VT,35,2015_7,Vermont
+4630,VA,26,2015_7,Virginia
+4632,WA,27,2015_7,Washington
+4634,WV,30,2015_7,West Virginia
+4633,WI,38,2015_7,Wisconsin
+4635,WY,21,2015_7,Wyoming
+4637,AL,26,2015_8,Alabama
+4636,AK,24,2015_8,Alaska
+4639,AZ,24,2015_8,Arizona
+4638,AR,13,2015_8,Arkansas
+4640,CA,27,2015_8,California
+4641,CO,29,2015_8,Colorado
+4642,CT,31,2015_8,Connecticut
+4644,DE,34,2015_8,Delaware
+4643,DC,19,2015_8,District of Columbia
+4645,FL,24,2015_8,Florida
+4646,GA,27,2015_8,Georgia
+4647,HI,8,2015_8,Hawaii
+4649,ID,33,2015_8,Idaho
+4650,IL,27,2015_8,Illinois
+4651,IN,27,2015_8,Indiana
+4648,IA,24,2015_8,Iowa
+4652,KS,28,2015_8,Kansas
+4653,KY,19,2015_8,Kentucky
+4654,LA,27,2015_8,Louisiana
+4657,ME,36,2015_8,Maine
+4656,MD,26,2015_8,Maryland
+4655,MA,39,2015_8,Massachusetts
+4658,MI,34,2015_8,Michigan
+4659,MN,25,2015_8,Minnesota
+4661,MS,13,2015_8,Mississippi
+4660,MO,30,2015_8,Missouri
+4662,MT,26,2015_8,Montana
+4665,NE,26,2015_8,Nebraska
+4669,NV,20,2015_8,Nevada
+4666,NH,31,2015_8,New Hampshire
+4667,NJ,34,2015_8,New Jersey
+4668,NM,21,2015_8,New Mexico
+4670,NY,36,2015_8,New York
+4663,NC,24,2015_8,North Carolina
+4664,ND,25,2015_8,North Dakota
+4671,OH,34,2015_8,Ohio
+4672,OK,20,2015_8,Oklahoma
+4673,OR,26,2015_8,Oregon
+4674,PA,29,2015_8,Pennsylvania
+4675,RI,20,2015_8,Rhode Island
+4676,SC,15,2015_8,South Carolina
+4677,SD,21,2015_8,South Dakota
+4678,TN,27,2015_8,Tennessee
+4679,TX,28,2015_8,Texas
+4680,UT,20,2015_8,Utah
+4682,VT,26,2015_8,Vermont
+4681,VA,28,2015_8,Virginia
+4683,WA,29,2015_8,Washington
+4685,WV,25,2015_8,West Virginia
+4684,WI,25,2015_8,Wisconsin
+4686,WY,16,2015_8,Wyoming
+4688,AL,27,2015_9,Alabama
+4687,AK,18,2015_9,Alaska
+4690,AZ,24,2015_9,Arizona
+4689,AR,16,2015_9,Arkansas
+4691,CA,25,2015_9,California
+4692,CO,25,2015_9,Colorado
+4693,CT,36,2015_9,Connecticut
+4695,DE,30,2015_9,Delaware
+4694,DC,18,2015_9,District of Columbia
+4696,FL,18,2015_9,Florida
+4697,GA,29,2015_9,Georgia
+4698,HI,17,2015_9,Hawaii
+4700,ID,24,2015_9,Idaho
+4701,IL,25,2015_9,Illinois
+4702,IN,26,2015_9,Indiana
+4699,IA,25,2015_9,Iowa
+4703,KS,27,2015_9,Kansas
+4704,KY,19,2015_9,Kentucky
+4705,LA,24,2015_9,Louisiana
+4708,ME,24,2015_9,Maine
+4707,MD,28,2015_9,Maryland
+4706,MA,33,2015_9,Massachusetts
+4709,MI,26,2015_9,Michigan
+4710,MN,23,2015_9,Minnesota
+4712,MS,14,2015_9,Mississippi
+4711,MO,29,2015_9,Missouri
+4713,MT,19,2015_9,Montana
+4716,NE,21,2015_9,Nebraska
+4720,NV,26,2015_9,Nevada
+4717,NH,39,2015_9,New Hampshire
+4718,NJ,33,2015_9,New Jersey
+4719,NM,16,2015_9,New Mexico
+4721,NY,39,2015_9,New York
+4714,NC,25,2015_9,North Carolina
+4715,ND,23,2015_9,North Dakota
+4722,OH,30,2015_9,Ohio
+4723,OK,20,2015_9,Oklahoma
+4724,OR,27,2015_9,Oregon
+4725,PA,30,2015_9,Pennsylvania
+4726,RI,37,2015_9,Rhode Island
+4727,SC,18,2015_9,South Carolina
+4728,SD,24,2015_9,South Dakota
+4729,TN,27,2015_9,Tennessee
+4730,TX,25,2015_9,Texas
+4731,UT,25,2015_9,Utah
+4733,VT,35,2015_9,Vermont
+4732,VA,28,2015_9,Virginia
+4734,WA,27,2015_9,Washington
+4736,WV,27,2015_9,West Virginia
+4735,WI,37,2015_9,Wisconsin
+4737,WY,12,2015_9,Wyoming
+4892,AL,24,2016_1,Alabama
+4891,AK,16,2016_1,Alaska
+4894,AZ,20,2016_1,Arizona
+4893,AR,14,2016_1,Arkansas
+4895,CA,28,2016_1,California
+4896,CO,24,2016_1,Colorado
+4897,CT,32,2016_1,Connecticut
+4899,DE,40,2016_1,Delaware
+4898,DC,22,2016_1,District of Columbia
+4900,FL,22,2016_1,Florida
+4901,GA,27,2016_1,Georgia
+4902,HI,19,2016_1,Hawaii
+4904,ID,23,2016_1,Idaho
+4905,IL,30,2016_1,Illinois
+4906,IN,26,2016_1,Indiana
+4903,IA,24,2016_1,Iowa
+4907,KS,20,2016_1,Kansas
+4908,KY,22,2016_1,Kentucky
+4909,LA,21,2016_1,Louisiana
+4912,ME,18,2016_1,Maine
+4911,MD,28,2016_1,Maryland
+4910,MA,34,2016_1,Massachusetts
+4913,MI,27,2016_1,Michigan
+4914,MN,26,2016_1,Minnesota
+4916,MS,23,2016_1,Mississippi
+4915,MO,24,2016_1,Missouri
+4917,MT,10,2016_1,Montana
+4920,NE,20,2016_1,Nebraska
+4924,NV,23,2016_1,Nevada
+4921,NH,21,2016_1,New Hampshire
+4922,NJ,26,2016_1,New Jersey
+4923,NM,18,2016_1,New Mexico
+4925,NY,35,2016_1,New York
+4918,NC,20,2016_1,North Carolina
+4919,ND,28,2016_1,North Dakota
+4926,OH,30,2016_1,Ohio
+4927,OK,19,2016_1,Oklahoma
+4928,OR,25,2016_1,Oregon
+4929,PA,29,2016_1,Pennsylvania
+4930,RI,22,2016_1,Rhode Island
+4931,SC,16,2016_1,South Carolina
+4932,SD,19,2016_1,South Dakota
+4933,TN,24,2016_1,Tennessee
+4934,TX,24,2016_1,Texas
+4935,UT,25,2016_1,Utah
+4937,VT,28,2016_1,Vermont
+4936,VA,26,2016_1,Virginia
+4938,WA,28,2016_1,Washington
+4940,WV,30,2016_1,West Virginia
+4939,WI,35,2016_1,Wisconsin
+4941,WY,20,2016_1,Wyoming
+5351,AL,27,2016_10,Alabama
+5350,AK,19,2016_10,Alaska
+5353,AZ,22,2016_10,Arizona
+5352,AR,12,2016_10,Arkansas
+5354,CA,32,2016_10,California
+5355,CO,22,2016_10,Colorado
+5356,CT,32,2016_10,Connecticut
+5358,DE,28,2016_10,Delaware
+5357,DC,10,2016_10,District of Columbia
+5359,FL,21,2016_10,Florida
+5360,GA,26,2016_10,Georgia
+5361,HI,10,2016_10,Hawaii
+5363,ID,20,2016_10,Idaho
+5364,IL,30,2016_10,Illinois
+5365,IN,24,2016_10,Indiana
+5362,IA,18,2016_10,Iowa
+5366,KS,23,2016_10,Kansas
+5367,KY,22,2016_10,Kentucky
+5368,LA,29,2016_10,Louisiana
+5371,ME,25,2016_10,Maine
+5370,MD,24,2016_10,Maryland
+5369,MA,32,2016_10,Massachusetts
+5372,MI,27,2016_10,Michigan
+5373,MN,18,2016_10,Minnesota
+5375,MS,27,2016_10,Mississippi
+5374,MO,27,2016_10,Missouri
+5376,MT,14,2016_10,Montana
+5379,NE,21,2016_10,Nebraska
+5383,NV,24,2016_10,Nevada
+5380,NH,20,2016_10,New Hampshire
+5381,NJ,34,2016_10,New Jersey
+5382,NM,18,2016_10,New Mexico
+5384,NY,35,2016_10,New York
+5377,NC,21,2016_10,North Carolina
+5378,ND,13,2016_10,North Dakota
+5385,OH,27,2016_10,Ohio
+5386,OK,14,2016_10,Oklahoma
+5387,OR,22,2016_10,Oregon
+5388,PA,28,2016_10,Pennsylvania
+5389,RI,25,2016_10,Rhode Island
+5390,SC,22,2016_10,South Carolina
+5391,SD,14,2016_10,South Dakota
+5392,TN,30,2016_10,Tennessee
+5393,TX,24,2016_10,Texas
+5394,UT,18,2016_10,Utah
+5396,VT,18,2016_10,Vermont
+5395,VA,22,2016_10,Virginia
+5397,WA,27,2016_10,Washington
+5399,WV,21,2016_10,West Virginia
+5398,WI,30,2016_10,Wisconsin
+5400,WY,12,2016_10,Wyoming
+5402,AL,22,2016_11,Alabama
+5401,AK,24,2016_11,Alaska
+5404,AZ,25,2016_11,Arizona
+5403,AR,12,2016_11,Arkansas
+5405,CA,35,2016_11,California
+5406,CO,26,2016_11,Colorado
+5407,CT,39,2016_11,Connecticut
+5409,DE,31,2016_11,Delaware
+5408,DC,6,2016_11,District of Columbia
+5410,FL,22,2016_11,Florida
+5411,GA,26,2016_11,Georgia
+5412,HI,13,2016_11,Hawaii
+5414,ID,28,2016_11,Idaho
+5415,IL,33,2016_11,Illinois
+5416,IN,24,2016_11,Indiana
+5413,IA,111,2016_11,Iowa
+5417,KS,23,2016_11,Kansas
+5418,KY,22,2016_11,Kentucky
+5419,LA,35,2016_11,Louisiana
+5422,ME,23,2016_11,Maine
+5421,MD,29,2016_11,Maryland
+5420,MA,36,2016_11,Massachusetts
+5423,MI,26,2016_11,Michigan
+5424,MN,27,2016_11,Minnesota
+5426,MS,17,2016_11,Mississippi
+5425,MO,29,2016_11,Missouri
+5427,MT,20,2016_11,Montana
+5430,NE,35,2016_11,Nebraska
+5434,NV,29,2016_11,Nevada
+5431,NH,35,2016_11,New Hampshire
+5432,NJ,41,2016_11,New Jersey
+5433,NM,27,2016_11,New Mexico
+5435,NY,37,2016_11,New York
+5428,NC,18,2016_11,North Carolina
+5429,ND,24,2016_11,North Dakota
+5436,OH,30,2016_11,Ohio
+5437,OK,20,2016_11,Oklahoma
+5438,OR,26,2016_11,Oregon
+5439,PA,29,2016_11,Pennsylvania
+5440,RI,31,2016_11,Rhode Island
+5441,SC,33,2016_11,South Carolina
+5442,SD,12,2016_11,South Dakota
+5443,TN,19,2016_11,Tennessee
+5444,TX,24,2016_11,Texas
+5445,UT,23,2016_11,Utah
+5447,VT,39,2016_11,Vermont
+5446,VA,25,2016_11,Virginia
+5448,WA,28,2016_11,Washington
+5450,WV,23,2016_11,West Virginia
+5449,WI,21,2016_11,Wisconsin
+5451,WY,12,2016_11,Wyoming
+5453,AL,26,2016_12,Alabama
+5452,AK,28,2016_12,Alaska
+5455,AZ,29,2016_12,Arizona
+5454,AR,11,2016_12,Arkansas
+5456,CA,39,2016_12,California
+5457,CO,23,2016_12,Colorado
+5458,CT,46,2016_12,Connecticut
+5460,DE,29,2016_12,Delaware
+5459,DC,6,2016_12,District of Columbia
+5461,FL,27,2016_12,Florida
+5462,GA,29,2016_12,Georgia
+5463,HI,12,2016_12,Hawaii
+5465,ID,27,2016_12,Idaho
+5466,IL,34,2016_12,Illinois
+5467,IN,20,2016_12,Indiana
+5464,IA,28,2016_12,Iowa
+5468,KS,27,2016_12,Kansas
+5469,KY,25,2016_12,Kentucky
+5470,LA,28,2016_12,Louisiana
+5473,ME,24,2016_12,Maine
+5472,MD,19,2016_12,Maryland
+5471,MA,45,2016_12,Massachusetts
+5474,MI,31,2016_12,Michigan
+5475,MN,29,2016_12,Minnesota
+5477,MS,24,2016_12,Mississippi
+5476,MO,31,2016_12,Missouri
+5478,MT,22,2016_12,Montana
+5481,NE,38,2016_12,Nebraska
+5485,NV,31,2016_12,Nevada
+5482,NH,25,2016_12,New Hampshire
+5483,NJ,37,2016_12,New Jersey
+5484,NM,25,2016_12,New Mexico
+5486,NY,44,2016_12,New York
+5479,NC,25,2016_12,North Carolina
+5480,ND,12,2016_12,North Dakota
+5487,OH,33,2016_12,Ohio
+5488,OK,21,2016_12,Oklahoma
+5489,OR,27,2016_12,Oregon
+5490,PA,32,2016_12,Pennsylvania
+5491,RI,38,2016_12,Rhode Island
+5492,SC,28,2016_12,South Carolina
+5493,SD,20,2016_12,South Dakota
+5494,TN,27,2016_12,Tennessee
+5495,TX,27,2016_12,Texas
+5496,UT,26,2016_12,Utah
+5498,VT,40,2016_12,Vermont
+5497,VA,36,2016_12,Virginia
+5499,WA,30,2016_12,Washington
+5501,WV,32,2016_12,West Virginia
+5500,WI,29,2016_12,Wisconsin
+5502,WY,20,2016_12,Wyoming
+4943,AL,24,2016_2,Alabama
+4942,AK,19,2016_2,Alaska
+4945,AZ,19,2016_2,Arizona
+4944,AR,12,2016_2,Arkansas
+4946,CA,36,2016_2,California
+4947,CO,22,2016_2,Colorado
+4948,CT,33,2016_2,Connecticut
+4950,DE,39,2016_2,Delaware
+4949,DC,17,2016_2,District of Columbia
+4951,FL,19,2016_2,Florida
+4952,GA,26,2016_2,Georgia
+4953,HI,10,2016_2,Hawaii
+4955,ID,22,2016_2,Idaho
+4956,IL,28,2016_2,Illinois
+4957,IN,20,2016_2,Indiana
+4954,IA,14,2016_2,Iowa
+4958,KS,19,2016_2,Kansas
+4959,KY,19,2016_2,Kentucky
+4960,LA,22,2016_2,Louisiana
+4963,ME,28,2016_2,Maine
+4962,MD,26,2016_2,Maryland
+4961,MA,35,2016_2,Massachusetts
+4964,MI,31,2016_2,Michigan
+4965,MN,26,2016_2,Minnesota
+4967,MS,20,2016_2,Mississippi
+4966,MO,27,2016_2,Missouri
+4968,MT,28,2016_2,Montana
+4971,NE,27,2016_2,Nebraska
+4975,NV,18,2016_2,Nevada
+4972,NH,34,2016_2,New Hampshire
+4973,NJ,27,2016_2,New Jersey
+4974,NM,17,2016_2,New Mexico
+4976,NY,32,2016_2,New York
+4969,NC,20,2016_2,North Carolina
+4970,ND,14,2016_2,North Dakota
+4977,OH,26,2016_2,Ohio
+4978,OK,17,2016_2,Oklahoma
+4979,OR,24,2016_2,Oregon
+4980,PA,30,2016_2,Pennsylvania
+4981,RI,22,2016_2,Rhode Island
+4982,SC,14,2016_2,South Carolina
+4983,SD,15,2016_2,South Dakota
+4984,TN,24,2016_2,Tennessee
+4985,TX,24,2016_2,Texas
+4986,UT,18,2016_2,Utah
+4988,VT,49,2016_2,Vermont
+4987,VA,24,2016_2,Virginia
+4989,WA,29,2016_2,Washington
+4991,WV,24,2016_2,West Virginia
+4990,WI,30,2016_2,Wisconsin
+4992,WY,14,2016_2,Wyoming
+4994,AL,26,2016_3,Alabama
+4993,AK,17,2016_3,Alaska
+4996,AZ,21,2016_3,Arizona
+4995,AR,14,2016_3,Arkansas
+4997,CA,31,2016_3,California
+4998,CO,23,2016_3,Colorado
+4999,CT,34,2016_3,Connecticut
+5001,DE,29,2016_3,Delaware
+5000,DC,18,2016_3,District of Columbia
+5002,FL,22,2016_3,Florida
+5003,GA,31,2016_3,Georgia
+5004,HI,9,2016_3,Hawaii
+5006,ID,23,2016_3,Idaho
+5007,IL,32,2016_3,Illinois
+5008,IN,25,2016_3,Indiana
+5005,IA,16,2016_3,Iowa
+5009,KS,19,2016_3,Kansas
+5010,KY,25,2016_3,Kentucky
+5011,LA,26,2016_3,Louisiana
+5014,ME,19,2016_3,Maine
+5013,MD,23,2016_3,Maryland
+5012,MA,27,2016_3,Massachusetts
+5015,MI,31,2016_3,Michigan
+5016,MN,24,2016_3,Minnesota
+5018,MS,19,2016_3,Mississippi
+5017,MO,29,2016_3,Missouri
+5019,MT,26,2016_3,Montana
+5022,NE,20,2016_3,Nebraska
+5026,NV,26,2016_3,Nevada
+5023,NH,29,2016_3,New Hampshire
+5024,NJ,30,2016_3,New Jersey
+5025,NM,27,2016_3,New Mexico
+5027,NY,34,2016_3,New York
+5020,NC,24,2016_3,North Carolina
+5021,ND,20,2016_3,North Dakota
+5028,OH,28,2016_3,Ohio
+5029,OK,20,2016_3,Oklahoma
+5030,OR,28,2016_3,Oregon
+5031,PA,29,2016_3,Pennsylvania
+5032,RI,19,2016_3,Rhode Island
+5033,SC,16,2016_3,South Carolina
+5034,SD,12,2016_3,South Dakota
+5035,TN,26,2016_3,Tennessee
+5036,TX,26,2016_3,Texas
+5037,UT,19,2016_3,Utah
+5039,VT,19,2016_3,Vermont
+5038,VA,22,2016_3,Virginia
+5040,WA,32,2016_3,Washington
+5042,WV,18,2016_3,West Virginia
+5041,WI,32,2016_3,Wisconsin
+5043,WY,28,2016_3,Wyoming
+5045,AL,25,2016_4,Alabama
+5044,AK,18,2016_4,Alaska
+5047,AZ,22,2016_4,Arizona
+5046,AR,12,2016_4,Arkansas
+5048,CA,29,2016_4,California
+5049,CO,24,2016_4,Colorado
+5050,CT,26,2016_4,Connecticut
+5052,DE,41,2016_4,Delaware
+5051,DC,18,2016_4,District of Columbia
+5053,FL,20,2016_4,Florida
+5054,GA,26,2016_4,Georgia
+5055,HI,13,2016_4,Hawaii
+5057,ID,48,2016_4,Idaho
+5058,IL,31,2016_4,Illinois
+5059,IN,26,2016_4,Indiana
+5056,IA,19,2016_4,Iowa
+5060,KS,26,2016_4,Kansas
+5061,KY,15,2016_4,Kentucky
+5062,LA,17,2016_4,Louisiana
+5065,ME,18,2016_4,Maine
+5064,MD,26,2016_4,Maryland
+5063,MA,31,2016_4,Massachusetts
+5066,MI,28,2016_4,Michigan
+5067,MN,26,2016_4,Minnesota
+5069,MS,23,2016_4,Mississippi
+5068,MO,29,2016_4,Missouri
+5070,MT,35,2016_4,Montana
+5073,NE,26,2016_4,Nebraska
+5077,NV,25,2016_4,Nevada
+5074,NH,35,2016_4,New Hampshire
+5075,NJ,31,2016_4,New Jersey
+5076,NM,13,2016_4,New Mexico
+5078,NY,34,2016_4,New York
+5071,NC,19,2016_4,North Carolina
+5072,ND,22,2016_4,North Dakota
+5079,OH,27,2016_4,Ohio
+5080,OK,22,2016_4,Oklahoma
+5081,OR,29,2016_4,Oregon
+5082,PA,28,2016_4,Pennsylvania
+5083,RI,29,2016_4,Rhode Island
+5084,SC,17,2016_4,South Carolina
+5085,SD,26,2016_4,South Dakota
+5086,TN,26,2016_4,Tennessee
+5087,TX,24,2016_4,Texas
+5088,UT,22,2016_4,Utah
+5090,VT,31,2016_4,Vermont
+5089,VA,24,2016_4,Virginia
+5091,WA,28,2016_4,Washington
+5093,WV,17,2016_4,West Virginia
+5092,WI,32,2016_4,Wisconsin
+5094,WY,42,2016_4,Wyoming
+5096,AL,25,2016_5,Alabama
+5095,AK,19,2016_5,Alaska
+5098,AZ,24,2016_5,Arizona
+5097,AR,15,2016_5,Arkansas
+5099,CA,28,2016_5,California
+5100,CO,28,2016_5,Colorado
+5101,CT,28,2016_5,Connecticut
+5103,DE,35,2016_5,Delaware
+5102,DC,16,2016_5,District of Columbia
+5104,FL,19,2016_5,Florida
+5105,GA,28,2016_5,Georgia
+5106,HI,6,2016_5,Hawaii
+5108,ID,29,2016_5,Idaho
+5109,IL,32,2016_5,Illinois
+5110,IN,30,2016_5,Indiana
+5107,IA,19,2016_5,Iowa
+5111,KS,28,2016_5,Kansas
+5112,KY,24,2016_5,Kentucky
+5113,LA,26,2016_5,Louisiana
+5116,ME,34,2016_5,Maine
+5115,MD,20,2016_5,Maryland
+5114,MA,33,2016_5,Massachusetts
+5117,MI,28,2016_5,Michigan
+5118,MN,28,2016_5,Minnesota
+5120,MS,20,2016_5,Mississippi
+5119,MO,31,2016_5,Missouri
+5121,MT,40,2016_5,Montana
+5124,NE,26,2016_5,Nebraska
+5128,NV,24,2016_5,Nevada
+5125,NH,36,2016_5,New Hampshire
+5126,NJ,31,2016_5,New Jersey
+5127,NM,24,2016_5,New Mexico
+5129,NY,37,2016_5,New York
+5122,NC,21,2016_5,North Carolina
+5123,ND,23,2016_5,North Dakota
+5130,OH,33,2016_5,Ohio
+5131,OK,27,2016_5,Oklahoma
+5132,OR,25,2016_5,Oregon
+5133,PA,31,2016_5,Pennsylvania
+5134,RI,45,2016_5,Rhode Island
+5135,SC,19,2016_5,South Carolina
+5136,SD,19,2016_5,South Dakota
+5137,TN,26,2016_5,Tennessee
+5138,TX,25,2016_5,Texas
+5139,UT,26,2016_5,Utah
+5141,VT,19,2016_5,Vermont
+5140,VA,24,2016_5,Virginia
+5142,WA,35,2016_5,Washington
+5144,WV,49,2016_5,West Virginia
+5143,WI,26,2016_5,Wisconsin
+5145,WY,49,2016_5,Wyoming
+5147,AL,6,2016_6,Alabama
+5146,AK,19,2016_6,Alaska
+5149,AZ,19,2016_6,Arizona
+5148,AR,12,2016_6,Arkansas
+5150,CA,34,2016_6,California
+5151,CO,23,2016_6,Colorado
+5152,CT,36,2016_6,Connecticut
+5154,DE,47,2016_6,Delaware
+5153,DC,14,2016_6,District of Columbia
+5155,FL,25,2016_6,Florida
+5156,GA,27,2016_6,Georgia
+5157,HI,20,2016_6,Hawaii
+5159,ID,22,2016_6,Idaho
+5160,IL,33,2016_6,Illinois
+5161,IN,27,2016_6,Indiana
+5158,IA,18,2016_6,Iowa
+5162,KS,22,2016_6,Kansas
+5163,KY,24,2016_6,Kentucky
+5164,LA,19,2016_6,Louisiana
+5167,ME,37,2016_6,Maine
+5166,MD,24,2016_6,Maryland
+5165,MA,38,2016_6,Massachusetts
+5168,MI,34,2016_6,Michigan
+5169,MN,24,2016_6,Minnesota
+5171,MS,17,2016_6,Mississippi
+5170,MO,43,2016_6,Missouri
+5172,MT,17,2016_6,Montana
+5175,NE,25,2016_6,Nebraska
+5179,NV,21,2016_6,Nevada
+5176,NH,29,2016_6,New Hampshire
+5177,NJ,34,2016_6,New Jersey
+5178,NM,30,2016_6,New Mexico
+5180,NY,36,2016_6,New York
+5173,NC,22,2016_6,North Carolina
+5174,ND,21,2016_6,North Dakota
+5181,OH,28,2016_6,Ohio
+5182,OK,24,2016_6,Oklahoma
+5183,OR,23,2016_6,Oregon
+5184,PA,38,2016_6,Pennsylvania
+5185,RI,30,2016_6,Rhode Island
+5186,SC,21,2016_6,South Carolina
+5187,SD,19,2016_6,South Dakota
+5188,TN,28,2016_6,Tennessee
+5189,TX,26,2016_6,Texas
+5190,UT,20,2016_6,Utah
+5192,VT,27,2016_6,Vermont
+5191,VA,33,2016_6,Virginia
+5193,WA,35,2016_6,Washington
+5195,WV,42,2016_6,West Virginia
+5194,WI,27,2016_6,Wisconsin
+5196,WY,12,2016_6,Wyoming
+5198,AL,140,2016_7,Alabama
+5197,AK,34,2016_7,Alaska
+5200,AZ,44,2016_7,Arizona
+5199,AR,21,2016_7,Arkansas
+5201,CA,52,2016_7,California
+5202,CO,41,2016_7,Colorado
+5203,CT,61,2016_7,Connecticut
+5205,DE,44,2016_7,Delaware
+5204,DC,12,2016_7,District of Columbia
+5206,FL,52,2016_7,Florida
+5207,GA,46,2016_7,Georgia
+5208,HI,33,2016_7,Hawaii
+5210,ID,140,2016_7,Idaho
+5211,IL,55,2016_7,Illinois
+5212,IN,75,2016_7,Indiana
+5209,IA,60,2016_7,Iowa
+5213,KS,81,2016_7,Kansas
+5214,KY,128,2016_7,Kentucky
+5215,LA,140,2016_7,Louisiana
+5218,ME,48,2016_7,Maine
+5217,MD,36,2016_7,Maryland
+5216,MA,55,2016_7,Massachusetts
+5219,MI,119,2016_7,Michigan
+5220,MN,31,2016_7,Minnesota
+5222,MS,140,2016_7,Mississippi
+5221,MO,63,2016_7,Missouri
+5223,MT,140,2016_7,Montana
+5226,NE,37,2016_7,Nebraska
+5230,NV,52,2016_7,Nevada
+5227,NH,55,2016_7,New Hampshire
+5228,NJ,55,2016_7,New Jersey
+5229,NM,138,2016_7,New Mexico
+5231,NY,58,2016_7,New York
+5224,NC,36,2016_7,North Carolina
+5225,ND,43,2016_7,North Dakota
+5232,OH,71,2016_7,Ohio
+5233,OK,41,2016_7,Oklahoma
+5234,OR,54,2016_7,Oregon
+5235,PA,50,2016_7,Pennsylvania
+5236,RI,46,2016_7,Rhode Island
+5237,SC,50,2016_7,South Carolina
+5238,SD,25,2016_7,South Dakota
+5239,TN,53,2016_7,Tennessee
+5240,TX,53,2016_7,Texas
+5241,UT,48,2016_7,Utah
+5243,VT,27,2016_7,Vermont
+5242,VA,58,2016_7,Virginia
+5244,WA,48,2016_7,Washington
+5246,WV,140,2016_7,West Virginia
+5245,WI,55,2016_7,Wisconsin
+5247,WY,79,2016_7,Wyoming
+5249,AL,30,2016_8,Alabama
+5248,AK,21,2016_8,Alaska
+5251,AZ,24,2016_8,Arizona
+5250,AR,16,2016_8,Arkansas
+5252,CA,27,2016_8,California
+5253,CO,26,2016_8,Colorado
+5254,CT,40,2016_8,Connecticut
+5256,DE,30,2016_8,Delaware
+5255,DC,10,2016_8,District of Columbia
+5257,FL,23,2016_8,Florida
+5258,GA,26,2016_8,Georgia
+5259,HI,18,2016_8,Hawaii
+5261,ID,35,2016_8,Idaho
+5262,IL,38,2016_8,Illinois
+5263,IN,33,2016_8,Indiana
+5260,IA,26,2016_8,Iowa
+5264,KS,29,2016_8,Kansas
+5265,KY,27,2016_8,Kentucky
+5266,LA,27,2016_8,Louisiana
+5269,ME,28,2016_8,Maine
+5268,MD,21,2016_8,Maryland
+5267,MA,38,2016_8,Massachusetts
+5270,MI,31,2016_8,Michigan
+5271,MN,28,2016_8,Minnesota
+5273,MS,25,2016_8,Mississippi
+5272,MO,34,2016_8,Missouri
+5274,MT,14,2016_8,Montana
+5277,NE,25,2016_8,Nebraska
+5281,NV,22,2016_8,Nevada
+5278,NH,23,2016_8,New Hampshire
+5279,NJ,31,2016_8,New Jersey
+5280,NM,24,2016_8,New Mexico
+5282,NY,37,2016_8,New York
+5275,NC,20,2016_8,North Carolina
+5276,ND,25,2016_8,North Dakota
+5283,OH,33,2016_8,Ohio
+5284,OK,20,2016_8,Oklahoma
+5285,OR,33,2016_8,Oregon
+5286,PA,33,2016_8,Pennsylvania
+5287,RI,20,2016_8,Rhode Island
+5288,SC,20,2016_8,South Carolina
+5289,SD,33,2016_8,South Dakota
+5290,TN,27,2016_8,Tennessee
+5291,TX,26,2016_8,Texas
+5292,UT,31,2016_8,Utah
+5294,VT,31,2016_8,Vermont
+5293,VA,27,2016_8,Virginia
+5295,WA,34,2016_8,Washington
+5297,WV,30,2016_8,West Virginia
+5296,WI,39,2016_8,Wisconsin
+5298,WY,18,2016_8,Wyoming
+5300,AL,26,2016_9,Alabama
+5299,AK,18,2016_9,Alaska
+5302,AZ,20,2016_9,Arizona
+5301,AR,17,2016_9,Arkansas
+5303,CA,28,2016_9,California
+5304,CO,23,2016_9,Colorado
+5305,CT,42,2016_9,Connecticut
+5307,DE,24,2016_9,Delaware
+5306,DC,6,2016_9,District of Columbia
+5308,FL,20,2016_9,Florida
+5309,GA,28,2016_9,Georgia
+5310,HI,17,2016_9,Hawaii
+5312,ID,25,2016_9,Idaho
+5313,IL,31,2016_9,Illinois
+5314,IN,28,2016_9,Indiana
+5311,IA,18,2016_9,Iowa
+5315,KS,22,2016_9,Kansas
+5316,KY,24,2016_9,Kentucky
+5317,LA,22,2016_9,Louisiana
+5320,ME,18,2016_9,Maine
+5319,MD,18,2016_9,Maryland
+5318,MA,35,2016_9,Massachusetts
+5321,MI,25,2016_9,Michigan
+5322,MN,25,2016_9,Minnesota
+5324,MS,26,2016_9,Mississippi
+5323,MO,31,2016_9,Missouri
+5325,MT,23,2016_9,Montana
+5328,NE,26,2016_9,Nebraska
+5332,NV,18,2016_9,Nevada
+5329,NH,33,2016_9,New Hampshire
+5330,NJ,30,2016_9,New Jersey
+5331,NM,15,2016_9,New Mexico
+5333,NY,31,2016_9,New York
+5326,NC,16,2016_9,North Carolina
+5327,ND,18,2016_9,North Dakota
+5334,OH,30,2016_9,Ohio
+5335,OK,13,2016_9,Oklahoma
+5336,OR,16,2016_9,Oregon
+5337,PA,30,2016_9,Pennsylvania
+5338,RI,25,2016_9,Rhode Island
+5339,SC,20,2016_9,South Carolina
+5340,SD,22,2016_9,South Dakota
+5341,TN,27,2016_9,Tennessee
+5342,TX,19,2016_9,Texas
+5343,UT,26,2016_9,Utah
+5345,VT,34,2016_9,Vermont
+5344,VA,12,2016_9,Virginia
+5346,WA,32,2016_9,Washington
+5348,WV,22,2016_9,West Virginia
+5347,WI,34,2016_9,Wisconsin
+5349,WY,18,2016_9,Wyoming
+5504,AL,22,2017_1,Alabama
+5503,AK,20,2017_1,Alaska
+5506,AZ,27,2017_1,Arizona
+5505,AR,8,2017_1,Arkansas
+5507,CA,35,2017_1,California
+5508,CO,20,2017_1,Colorado
+5509,CT,38,2017_1,Connecticut
+5511,DE,28,2017_1,Delaware
+5510,DC,4,2017_1,District of Columbia
+5512,FL,24,2017_1,Florida
+5513,GA,24,2017_1,Georgia
+5514,HI,12,2017_1,Hawaii
+5516,ID,24,2017_1,Idaho
+5517,IL,28,2017_1,Illinois
+5518,IN,18,2017_1,Indiana
+5515,IA,26,2017_1,Iowa
+5519,KS,22,2017_1,Kansas
+5520,KY,14,2017_1,Kentucky
+5521,LA,25,2017_1,Louisiana
+5524,ME,8,2017_1,Maine
+5523,MD,18,2017_1,Maryland
+5522,MA,36,2017_1,Massachusetts
+5525,MI,26,2017_1,Michigan
+5526,MN,28,2017_1,Minnesota
+5528,MS,25,2017_1,Mississippi
+5527,MO,30,2017_1,Missouri
+5529,MT,22,2017_1,Montana
+5532,NE,37,2017_1,Nebraska
+5536,NV,27,2017_1,Nevada
+5533,NH,24,2017_1,New Hampshire
+5534,NJ,32,2017_1,New Jersey
+5535,NM,20,2017_1,New Mexico
+5537,NY,32,2017_1,New York
+5530,NC,26,2017_1,North Carolina
+5531,ND,10,2017_1,North Dakota
+5538,OH,25,2017_1,Ohio
+5539,OK,20,2017_1,Oklahoma
+5540,OR,28,2017_1,Oregon
+5541,PA,28,2017_1,Pennsylvania
+5542,RI,30,2017_1,Rhode Island
+5543,SC,19,2017_1,South Carolina
+5544,SD,0,2017_1,South Dakota
+5545,TN,26,2017_1,Tennessee
+5546,TX,24,2017_1,Texas
+5547,UT,20,2017_1,Utah
+5549,VT,26,2017_1,Vermont
+5548,VA,21,2017_1,Virginia
+5550,WA,30,2017_1,Washington
+5552,WV,13,2017_1,West Virginia
+5551,WI,33,2017_1,Wisconsin
+5553,WY,23,2017_1,Wyoming
+5963,AL,27,2017_10,Alabama
+5962,AK,21,2017_10,Alaska
+5965,AZ,26,2017_10,Arizona
+5964,AR,19,2017_10,Arkansas
+5966,CA,34,2017_10,California
+5967,CO,25,2017_10,Colorado
+5968,CT,49,2017_10,Connecticut
+5970,DE,28,2017_10,Delaware
+5969,DC,24,2017_10,District of Columbia
+5971,FL,24,2017_10,Florida
+5972,GA,27,2017_10,Georgia
+5973,HI,28,2017_10,Hawaii
+5975,ID,27,2017_10,Idaho
+5976,IL,33,2017_10,Illinois
+5977,IN,32,2017_10,Indiana
+5974,IA,10,2017_10,Iowa
+5978,KS,21,2017_10,Kansas
+5979,KY,28,2017_10,Kentucky
+5980,LA,12,2017_10,Louisiana
+5983,ME,17,2017_10,Maine
+5982,MD,29,2017_10,Maryland
+5981,MA,35,2017_10,Massachusetts
+5984,MI,33,2017_10,Michigan
+5985,MN,29,2017_10,Minnesota
+5987,MS,22,2017_10,Mississippi
+5986,MO,30,2017_10,Missouri
+5988,MT,20,2017_10,Montana
+5991,NE,16,2017_10,Nebraska
+5995,NV,16,2017_10,Nevada
+5992,NH,29,2017_10,New Hampshire
+5993,NJ,27,2017_10,New Jersey
+5994,NM,13,2017_10,New Mexico
+5996,NY,29,2017_10,New York
+5989,NC,27,2017_10,North Carolina
+5990,ND,10,2017_10,North Dakota
+5997,OH,17,2017_10,Ohio
+5998,OK,22,2017_10,Oklahoma
+5999,OR,27,2017_10,Oregon
+6000,PA,30,2017_10,Pennsylvania
+6001,RI,32,2017_10,Rhode Island
+6002,SC,17,2017_10,South Carolina
+6003,SD,0,2017_10,South Dakota
+6004,TN,29,2017_10,Tennessee
+6005,TX,22,2017_10,Texas
+6006,UT,24,2017_10,Utah
+6008,VT,25,2017_10,Vermont
+6007,VA,25,2017_10,Virginia
+6009,WA,20,2017_10,Washington
+6011,WV,28,2017_10,West Virginia
+6010,WI,29,2017_10,Wisconsin
+6012,WY,53,2017_10,Wyoming
+6014,AL,27,2017_11,Alabama
+6013,AK,15,2017_11,Alaska
+6016,AZ,35,2017_11,Arizona
+6015,AR,17,2017_11,Arkansas
+6017,CA,39,2017_11,California
+6018,CO,26,2017_11,Colorado
+6019,CT,44,2017_11,Connecticut
+6021,DE,44,2017_11,Delaware
+6020,DC,14,2017_11,District of Columbia
+6022,FL,25,2017_11,Florida
+6023,GA,34,2017_11,Georgia
+6024,HI,18,2017_11,Hawaii
+6026,ID,16,2017_11,Idaho
+6027,IL,43,2017_11,Illinois
+6028,IN,34,2017_11,Indiana
+6025,IA,22,2017_11,Iowa
+6029,KS,27,2017_11,Kansas
+6030,KY,31,2017_11,Kentucky
+6031,LA,16,2017_11,Louisiana
+6034,ME,35,2017_11,Maine
+6033,MD,30,2017_11,Maryland
+6032,MA,45,2017_11,Massachusetts
+6035,MI,41,2017_11,Michigan
+6036,MN,34,2017_11,Minnesota
+6038,MS,40,2017_11,Mississippi
+6037,MO,49,2017_11,Missouri
+6039,MT,30,2017_11,Montana
+6042,NE,12,2017_11,Nebraska
+6046,NV,15,2017_11,Nevada
+6043,NH,50,2017_11,New Hampshire
+6044,NJ,27,2017_11,New Jersey
+6045,NM,24,2017_11,New Mexico
+6047,NY,34,2017_11,New York
+6040,NC,28,2017_11,North Carolina
+6041,ND,12,2017_11,North Dakota
+6048,OH,23,2017_11,Ohio
+6049,OK,26,2017_11,Oklahoma
+6050,OR,39,2017_11,Oregon
+6051,PA,37,2017_11,Pennsylvania
+6052,RI,38,2017_11,Rhode Island
+6053,SC,18,2017_11,South Carolina
+6054,SD,0,2017_11,South Dakota
+6055,TN,28,2017_11,Tennessee
+6056,TX,27,2017_11,Texas
+6057,UT,26,2017_11,Utah
+6059,VT,23,2017_11,Vermont
+6058,VA,29,2017_11,Virginia
+6060,WA,28,2017_11,Washington
+6062,WV,33,2017_11,West Virginia
+6061,WI,37,2017_11,Wisconsin
+6063,WY,36,2017_11,Wyoming
+6065,AL,29,2017_12,Alabama
+6064,AK,24,2017_12,Alaska
+6067,AZ,28,2017_12,Arizona
+6066,AR,14,2017_12,Arkansas
+6068,CA,47,2017_12,California
+6069,CO,28,2017_12,Colorado
+6070,CT,43,2017_12,Connecticut
+6072,DE,34,2017_12,Delaware
+6071,DC,26,2017_12,District of Columbia
+6073,FL,26,2017_12,Florida
+6074,GA,32,2017_12,Georgia
+6075,HI,15,2017_12,Hawaii
+6077,ID,22,2017_12,Idaho
+6078,IL,44,2017_12,Illinois
+6079,IN,29,2017_12,Indiana
+6076,IA,32,2017_12,Iowa
+6080,KS,18,2017_12,Kansas
+6081,KY,23,2017_12,Kentucky
+6082,LA,15,2017_12,Louisiana
+6085,ME,31,2017_12,Maine
+6084,MD,33,2017_12,Maryland
+6083,MA,40,2017_12,Massachusetts
+6086,MI,32,2017_12,Michigan
+6087,MN,29,2017_12,Minnesota
+6089,MS,27,2017_12,Mississippi
+6088,MO,28,2017_12,Missouri
+6090,MT,31,2017_12,Montana
+6093,NE,16,2017_12,Nebraska
+6097,NV,17,2017_12,Nevada
+6094,NH,36,2017_12,New Hampshire
+6095,NJ,28,2017_12,New Jersey
+6096,NM,13,2017_12,New Mexico
+6098,NY,34,2017_12,New York
+6091,NC,30,2017_12,North Carolina
+6092,ND,14,2017_12,North Dakota
+6099,OH,28,2017_12,Ohio
+6100,OK,16,2017_12,Oklahoma
+6101,OR,23,2017_12,Oregon
+6102,PA,30,2017_12,Pennsylvania
+6103,RI,29,2017_12,Rhode Island
+6104,SC,25,2017_12,South Carolina
+6105,SD,0,2017_12,South Dakota
+6106,TN,28,2017_12,Tennessee
+6107,TX,28,2017_12,Texas
+6108,UT,31,2017_12,Utah
+6110,VT,36,2017_12,Vermont
+6109,VA,28,2017_12,Virginia
+6111,WA,29,2017_12,Washington
+6113,WV,19,2017_12,West Virginia
+6112,WI,29,2017_12,Wisconsin
+6114,WY,54,2017_12,Wyoming
+5555,AL,28,2017_2,Alabama
+5554,AK,23,2017_2,Alaska
+5557,AZ,23,2017_2,Arizona
+5556,AR,14,2017_2,Arkansas
+5558,CA,36,2017_2,California
+5559,CO,23,2017_2,Colorado
+5560,CT,33,2017_2,Connecticut
+5562,DE,28,2017_2,Delaware
+5561,DC,16,2017_2,District of Columbia
+5563,FL,24,2017_2,Florida
+5564,GA,25,2017_2,Georgia
+5565,HI,16,2017_2,Hawaii
+5567,ID,36,2017_2,Idaho
+5568,IL,28,2017_2,Illinois
+5569,IN,20,2017_2,Indiana
+5566,IA,24,2017_2,Iowa
+5570,KS,24,2017_2,Kansas
+5571,KY,14,2017_2,Kentucky
+5572,LA,18,2017_2,Louisiana
+5575,ME,10,2017_2,Maine
+5574,MD,24,2017_2,Maryland
+5573,MA,34,2017_2,Massachusetts
+5576,MI,26,2017_2,Michigan
+5577,MN,28,2017_2,Minnesota
+5579,MS,33,2017_2,Mississippi
+5578,MO,27,2017_2,Missouri
+5580,MT,30,2017_2,Montana
+5583,NE,20,2017_2,Nebraska
+5587,NV,22,2017_2,Nevada
+5584,NH,20,2017_2,New Hampshire
+5585,NJ,31,2017_2,New Jersey
+5586,NM,18,2017_2,New Mexico
+5588,NY,38,2017_2,New York
+5581,NC,24,2017_2,North Carolina
+5582,ND,17,2017_2,North Dakota
+5589,OH,20,2017_2,Ohio
+5590,OK,12,2017_2,Oklahoma
+5591,OR,22,2017_2,Oregon
+5592,PA,26,2017_2,Pennsylvania
+5593,RI,34,2017_2,Rhode Island
+5594,SC,22,2017_2,South Carolina
+5595,SD,0,2017_2,South Dakota
+5596,TN,26,2017_2,Tennessee
+5597,TX,24,2017_2,Texas
+5598,UT,24,2017_2,Utah
+5600,VT,35,2017_2,Vermont
+5599,VA,24,2017_2,Virginia
+5601,WA,31,2017_2,Washington
+5603,WV,25,2017_2,West Virginia
+5602,WI,32,2017_2,Wisconsin
+5604,WY,23,2017_2,Wyoming
+5606,AL,23,2017_3,Alabama
+5605,AK,15,2017_3,Alaska
+5608,AZ,29,2017_3,Arizona
+5607,AR,14,2017_3,Arkansas
+5609,CA,34,2017_3,California
+5610,CO,23,2017_3,Colorado
+5611,CT,39,2017_3,Connecticut
+5613,DE,29,2017_3,Delaware
+5612,DC,24,2017_3,District of Columbia
+5614,FL,23,2017_3,Florida
+5615,GA,27,2017_3,Georgia
+5616,HI,37,2017_3,Hawaii
+5618,ID,21,2017_3,Idaho
+5619,IL,36,2017_3,Illinois
+5620,IN,27,2017_3,Indiana
+5617,IA,30,2017_3,Iowa
+5621,KS,25,2017_3,Kansas
+5622,KY,22,2017_3,Kentucky
+5623,LA,26,2017_3,Louisiana
+5626,ME,13,2017_3,Maine
+5625,MD,29,2017_3,Maryland
+5624,MA,37,2017_3,Massachusetts
+5627,MI,21,2017_3,Michigan
+5628,MN,27,2017_3,Minnesota
+5630,MS,35,2017_3,Mississippi
+5629,MO,29,2017_3,Missouri
+5631,MT,27,2017_3,Montana
+5634,NE,34,2017_3,Nebraska
+5638,NV,24,2017_3,Nevada
+5635,NH,30,2017_3,New Hampshire
+5636,NJ,29,2017_3,New Jersey
+5637,NM,15,2017_3,New Mexico
+5639,NY,38,2017_3,New York
+5632,NC,22,2017_3,North Carolina
+5633,ND,12,2017_3,North Dakota
+5640,OH,21,2017_3,Ohio
+5641,OK,19,2017_3,Oklahoma
+5642,OR,33,2017_3,Oregon
+5643,PA,34,2017_3,Pennsylvania
+5644,RI,39,2017_3,Rhode Island
+5645,SC,24,2017_3,South Carolina
+5646,SD,0,2017_3,South Dakota
+5647,TN,32,2017_3,Tennessee
+5648,TX,24,2017_3,Texas
+5649,UT,28,2017_3,Utah
+5651,VT,29,2017_3,Vermont
+5650,VA,31,2017_3,Virginia
+5652,WA,31,2017_3,Washington
+5654,WV,40,2017_3,West Virginia
+5653,WI,31,2017_3,Wisconsin
+5655,WY,25,2017_3,Wyoming
+5657,AL,19,2017_4,Alabama
+5656,AK,24,2017_4,Alaska
+5659,AZ,20,2017_4,Arizona
+5658,AR,11,2017_4,Arkansas
+5660,CA,30,2017_4,California
+5661,CO,22,2017_4,Colorado
+5662,CT,30,2017_4,Connecticut
+5664,DE,34,2017_4,Delaware
+5663,DC,32,2017_4,District of Columbia
+5665,FL,18,2017_4,Florida
+5666,GA,24,2017_4,Georgia
+5667,HI,17,2017_4,Hawaii
+5669,ID,21,2017_4,Idaho
+5670,IL,29,2017_4,Illinois
+5671,IN,14,2017_4,Indiana
+5668,IA,19,2017_4,Iowa
+5672,KS,19,2017_4,Kansas
+5673,KY,20,2017_4,Kentucky
+5674,LA,16,2017_4,Louisiana
+5677,ME,16,2017_4,Maine
+5676,MD,14,2017_4,Maryland
+5675,MA,32,2017_4,Massachusetts
+5678,MI,19,2017_4,Michigan
+5679,MN,28,2017_4,Minnesota
+5681,MS,20,2017_4,Mississippi
+5680,MO,28,2017_4,Missouri
+5682,MT,28,2017_4,Montana
+5685,NE,25,2017_4,Nebraska
+5689,NV,12,2017_4,Nevada
+5686,NH,28,2017_4,New Hampshire
+5687,NJ,27,2017_4,New Jersey
+5688,NM,12,2017_4,New Mexico
+5690,NY,30,2017_4,New York
+5683,NC,23,2017_4,North Carolina
+5684,ND,11,2017_4,North Dakota
+5691,OH,15,2017_4,Ohio
+5692,OK,12,2017_4,Oklahoma
+5693,OR,27,2017_4,Oregon
+5694,PA,29,2017_4,Pennsylvania
+5695,RI,32,2017_4,Rhode Island
+5696,SC,21,2017_4,South Carolina
+5697,SD,0,2017_4,South Dakota
+5698,TN,26,2017_4,Tennessee
+5699,TX,22,2017_4,Texas
+5700,UT,20,2017_4,Utah
+5702,VT,15,2017_4,Vermont
+5701,VA,25,2017_4,Virginia
+5703,WA,29,2017_4,Washington
+5705,WV,17,2017_4,West Virginia
+5704,WI,21,2017_4,Wisconsin
+5706,WY,27,2017_4,Wyoming
+5708,AL,18,2017_5,Alabama
+5707,AK,14,2017_5,Alaska
+5710,AZ,21,2017_5,Arizona
+5709,AR,12,2017_5,Arkansas
+5711,CA,30,2017_5,California
+5712,CO,26,2017_5,Colorado
+5713,CT,34,2017_5,Connecticut
+5715,DE,37,2017_5,Delaware
+5714,DC,34,2017_5,District of Columbia
+5716,FL,18,2017_5,Florida
+5717,GA,25,2017_5,Georgia
+5718,HI,18,2017_5,Hawaii
+5720,ID,14,2017_5,Idaho
+5721,IL,29,2017_5,Illinois
+5722,IN,12,2017_5,Indiana
+5719,IA,26,2017_5,Iowa
+5723,KS,18,2017_5,Kansas
+5724,KY,20,2017_5,Kentucky
+5725,LA,10,2017_5,Louisiana
+5728,ME,26,2017_5,Maine
+5727,MD,3,2017_5,Maryland
+5726,MA,33,2017_5,Massachusetts
+5729,MI,29,2017_5,Michigan
+5730,MN,26,2017_5,Minnesota
+5732,MS,22,2017_5,Mississippi
+5731,MO,38,2017_5,Missouri
+5733,MT,26,2017_5,Montana
+5736,NE,18,2017_5,Nebraska
+5740,NV,19,2017_5,Nevada
+5737,NH,28,2017_5,New Hampshire
+5738,NJ,24,2017_5,New Jersey
+5739,NM,16,2017_5,New Mexico
+5741,NY,32,2017_5,New York
+5734,NC,24,2017_5,North Carolina
+5735,ND,14,2017_5,North Dakota
+5742,OH,16,2017_5,Ohio
+5743,OK,16,2017_5,Oklahoma
+5744,OR,27,2017_5,Oregon
+5745,PA,30,2017_5,Pennsylvania
+5746,RI,22,2017_5,Rhode Island
+5747,SC,22,2017_5,South Carolina
+5748,SD,0,2017_5,South Dakota
+5749,TN,28,2017_5,Tennessee
+5750,TX,23,2017_5,Texas
+5751,UT,28,2017_5,Utah
+5753,VT,22,2017_5,Vermont
+5752,VA,26,2017_5,Virginia
+5754,WA,30,2017_5,Washington
+5756,WV,15,2017_5,West Virginia
+5755,WI,22,2017_5,Wisconsin
+5757,WY,6,2017_5,Wyoming
+5759,AL,21,2017_6,Alabama
+5758,AK,20,2017_6,Alaska
+5761,AZ,25,2017_6,Arizona
+5760,AR,14,2017_6,Arkansas
+5762,CA,34,2017_6,California
+5763,CO,26,2017_6,Colorado
+5764,CT,40,2017_6,Connecticut
+5766,DE,36,2017_6,Delaware
+5765,DC,27,2017_6,District of Columbia
+5767,FL,22,2017_6,Florida
+5768,GA,26,2017_6,Georgia
+5769,HI,25,2017_6,Hawaii
+5771,ID,14,2017_6,Idaho
+5772,IL,32,2017_6,Illinois
+5773,IN,18,2017_6,Indiana
+5770,IA,33,2017_6,Iowa
+5774,KS,18,2017_6,Kansas
+5775,KY,20,2017_6,Kentucky
+5776,LA,12,2017_6,Louisiana
+5779,ME,21,2017_6,Maine
+5778,MD,8,2017_6,Maryland
+5777,MA,31,2017_6,Massachusetts
+5780,MI,29,2017_6,Michigan
+5781,MN,11,2017_6,Minnesota
+5783,MS,25,2017_6,Mississippi
+5782,MO,40,2017_6,Missouri
+5784,MT,26,2017_6,Montana
+5787,NE,20,2017_6,Nebraska
+5791,NV,21,2017_6,Nevada
+5788,NH,28,2017_6,New Hampshire
+5789,NJ,27,2017_6,New Jersey
+5790,NM,12,2017_6,New Mexico
+5792,NY,32,2017_6,New York
+5785,NC,26,2017_6,North Carolina
+5786,ND,7,2017_6,North Dakota
+5793,OH,20,2017_6,Ohio
+5794,OK,17,2017_6,Oklahoma
+5795,OR,21,2017_6,Oregon
+5796,PA,33,2017_6,Pennsylvania
+5797,RI,32,2017_6,Rhode Island
+5798,SC,22,2017_6,South Carolina
+5799,SD,0,2017_6,South Dakota
+5800,TN,26,2017_6,Tennessee
+5801,TX,22,2017_6,Texas
+5802,UT,26,2017_6,Utah
+5804,VT,28,2017_6,Vermont
+5803,VA,29,2017_6,Virginia
+5805,WA,27,2017_6,Washington
+5807,WV,26,2017_6,West Virginia
+5806,WI,26,2017_6,Wisconsin
+5808,WY,9,2017_6,Wyoming
+5810,AL,15,2017_7,Alabama
+5809,AK,16,2017_7,Alaska
+5812,AZ,21,2017_7,Arizona
+5811,AR,17,2017_7,Arkansas
+5813,CA,25,2017_7,California
+5814,CO,12,2017_7,Colorado
+5815,CT,37,2017_7,Connecticut
+5817,DE,31,2017_7,Delaware
+5816,DC,31,2017_7,District of Columbia
+5818,FL,14,2017_7,Florida
+5819,GA,21,2017_7,Georgia
+5820,HI,6,2017_7,Hawaii
+5822,ID,11,2017_7,Idaho
+5823,IL,22,2017_7,Illinois
+5824,IN,14,2017_7,Indiana
+5821,IA,17,2017_7,Iowa
+5825,KS,10,2017_7,Kansas
+5826,KY,15,2017_7,Kentucky
+5827,LA,4,2017_7,Louisiana
+5830,ME,16,2017_7,Maine
+5829,MD,6,2017_7,Maryland
+5828,MA,29,2017_7,Massachusetts
+5831,MI,17,2017_7,Michigan
+5832,MN,0,2017_7,Minnesota
+5834,MS,5,2017_7,Mississippi
+5833,MO,26,2017_7,Missouri
+5835,MT,26,2017_7,Montana
+5838,NE,17,2017_7,Nebraska
+5842,NV,18,2017_7,Nevada
+5839,NH,24,2017_7,New Hampshire
+5840,NJ,24,2017_7,New Jersey
+5841,NM,10,2017_7,New Mexico
+5843,NY,27,2017_7,New York
+5836,NC,25,2017_7,North Carolina
+5837,ND,14,2017_7,North Dakota
+5844,OH,19,2017_7,Ohio
+5845,OK,14,2017_7,Oklahoma
+5846,OR,21,2017_7,Oregon
+5847,PA,22,2017_7,Pennsylvania
+5848,RI,12,2017_7,Rhode Island
+5849,SC,18,2017_7,South Carolina
+5850,SD,0,2017_7,South Dakota
+5851,TN,21,2017_7,Tennessee
+5852,TX,16,2017_7,Texas
+5853,UT,14,2017_7,Utah
+5855,VT,37,2017_7,Vermont
+5854,VA,19,2017_7,Virginia
+5856,WA,25,2017_7,Washington
+5858,WV,18,2017_7,West Virginia
+5857,WI,18,2017_7,Wisconsin
+5859,WY,38,2017_7,Wyoming
+5861,AL,87,2017_8,Alabama
+5860,AK,43,2017_8,Alaska
+5863,AZ,46,2017_8,Arizona
+5862,AR,33,2017_8,Arkansas
+5864,CA,61,2017_8,California
+5865,CO,42,2017_8,Colorado
+5866,CT,62,2017_8,Connecticut
+5868,DE,28,2017_8,Delaware
+5867,DC,38,2017_8,District of Columbia
+5869,FL,52,2017_8,Florida
+5870,GA,52,2017_8,Georgia
+5871,HI,49,2017_8,Hawaii
+5873,ID,74,2017_8,Idaho
+5874,IL,54,2017_8,Illinois
+5875,IN,46,2017_8,Indiana
+5872,IA,74,2017_8,Iowa
+5876,KS,57,2017_8,Kansas
+5877,KY,74,2017_8,Kentucky
+5878,LA,74,2017_8,Louisiana
+5881,ME,48,2017_8,Maine
+5880,MD,43,2017_8,Maryland
+5879,MA,52,2017_8,Massachusetts
+5882,MI,79,2017_8,Michigan
+5883,MN,20,2017_8,Minnesota
+5885,MS,209,2017_8,Mississippi
+5884,MO,69,2017_8,Missouri
+5886,MT,54,2017_8,Montana
+5889,NE,24,2017_8,Nebraska
+5893,NV,33,2017_8,Nevada
+5890,NH,60,2017_8,New Hampshire
+5891,NJ,37,2017_8,New Jersey
+5892,NM,74,2017_8,New Mexico
+5894,NY,46,2017_8,New York
+5887,NC,40,2017_8,North Carolina
+5888,ND,38,2017_8,North Dakota
+5895,OH,57,2017_8,Ohio
+5896,OK,51,2017_8,Oklahoma
+5897,OR,74,2017_8,Oregon
+5898,PA,55,2017_8,Pennsylvania
+5899,RI,68,2017_8,Rhode Island
+5900,SC,34,2017_8,South Carolina
+5901,SD,25,2017_8,South Dakota
+5902,TN,56,2017_8,Tennessee
+5903,TX,39,2017_8,Texas
+5904,UT,58,2017_8,Utah
+5906,VT,46,2017_8,Vermont
+5905,VA,40,2017_8,Virginia
+5907,WA,49,2017_8,Washington
+5909,WV,100,2017_8,West Virginia
+5908,WI,74,2017_8,Wisconsin
+5910,WY,214,2017_8,Wyoming
+5912,AL,25,2017_9,Alabama
+5911,AK,20,2017_9,Alaska
+5914,AZ,26,2017_9,Arizona
+5913,AR,14,2017_9,Arkansas
+5915,CA,33,2017_9,California
+5916,CO,24,2017_9,Colorado
+5917,CT,33,2017_9,Connecticut
+5919,DE,29,2017_9,Delaware
+5918,DC,26,2017_9,District of Columbia
+5920,FL,22,2017_9,Florida
+5921,GA,28,2017_9,Georgia
+5922,HI,27,2017_9,Hawaii
+5924,ID,23,2017_9,Idaho
+5925,IL,28,2017_9,Illinois
+5926,IN,14,2017_9,Indiana
+5923,IA,11,2017_9,Iowa
+5927,KS,13,2017_9,Kansas
+5928,KY,15,2017_9,Kentucky
+5929,LA,10,2017_9,Louisiana
+5932,ME,19,2017_9,Maine
+5931,MD,30,2017_9,Maryland
+5930,MA,37,2017_9,Massachusetts
+5933,MI,25,2017_9,Michigan
+5934,MN,24,2017_9,Minnesota
+5936,MS,17,2017_9,Mississippi
+5935,MO,26,2017_9,Missouri
+5937,MT,13,2017_9,Montana
+5940,NE,17,2017_9,Nebraska
+5944,NV,12,2017_9,Nevada
+5941,NH,27,2017_9,New Hampshire
+5942,NJ,23,2017_9,New Jersey
+5943,NM,20,2017_9,New Mexico
+5945,NY,30,2017_9,New York
+5938,NC,25,2017_9,North Carolina
+5939,ND,14,2017_9,North Dakota
+5946,OH,16,2017_9,Ohio
+5947,OK,20,2017_9,Oklahoma
+5948,OR,21,2017_9,Oregon
+5949,PA,29,2017_9,Pennsylvania
+5950,RI,32,2017_9,Rhode Island
+5951,SC,14,2017_9,South Carolina
+5952,SD,0,2017_9,South Dakota
+5953,TN,23,2017_9,Tennessee
+5954,TX,20,2017_9,Texas
+5955,UT,26,2017_9,Utah
+5957,VT,30,2017_9,Vermont
+5956,VA,23,2017_9,Virginia
+5958,WA,25,2017_9,Washington
+5960,WV,20,2017_9,West Virginia
+5959,WI,25,2017_9,Wisconsin
+5961,WY,30,2017_9,Wyoming
+6116,AL,23,2018_1,Alabama
+6115,AK,26,2018_1,Alaska
+6118,AZ,27,2018_1,Arizona
+6117,AR,18,2018_1,Arkansas
+6119,CA,31,2018_1,California
+6120,CO,26,2018_1,Colorado
+6121,CT,34,2018_1,Connecticut
+6123,DE,29,2018_1,Delaware
+6122,DC,16,2018_1,District of Columbia
+6124,FL,23,2018_1,Florida
+6125,GA,31,2018_1,Georgia
+6126,HI,17,2018_1,Hawaii
+6128,ID,18,2018_1,Idaho
+6129,IL,30,2018_1,Illinois
+6130,IN,27,2018_1,Indiana
+6127,IA,0,2018_1,Iowa
+6131,KS,25,2018_1,Kansas
+6132,KY,22,2018_1,Kentucky
+6133,LA,20,2018_1,Louisiana
+6136,ME,28,2018_1,Maine
+6135,MD,25,2018_1,Maryland
+6134,MA,37,2018_1,Massachusetts
+6137,MI,27,2018_1,Michigan
+6138,MN,24,2018_1,Minnesota
+6140,MS,22,2018_1,Mississippi
+6139,MO,26,2018_1,Missouri
+6141,MT,28,2018_1,Montana
+6144,NE,17,2018_1,Nebraska
+6148,NV,18,2018_1,Nevada
+6145,NH,32,2018_1,New Hampshire
+6146,NJ,27,2018_1,New Jersey
+6147,NM,16,2018_1,New Mexico
+6149,NY,31,2018_1,New York
+6142,NC,26,2018_1,North Carolina
+6143,ND,32,2018_1,North Dakota
+6150,OH,29,2018_1,Ohio
+6151,OK,24,2018_1,Oklahoma
+6152,OR,16,2018_1,Oregon
+6153,PA,28,2018_1,Pennsylvania
+6154,RI,20,2018_1,Rhode Island
+6155,SC,20,2018_1,South Carolina
+6156,SD,0,2018_1,South Dakota
+6157,TN,26,2018_1,Tennessee
+6158,TX,24,2018_1,Texas
+6159,UT,28,2018_1,Utah
+6161,VT,35,2018_1,Vermont
+6160,VA,26,2018_1,Virginia
+6162,WA,28,2018_1,Washington
+6164,WV,28,2018_1,West Virginia
+6163,WI,26,2018_1,Wisconsin
+6165,WY,28,2018_1,Wyoming
+6167,AL,27,2018_2,Alabama
+6166,AK,25,2018_2,Alaska
+6169,AZ,26,2018_2,Arizona
+6168,AR,16,2018_2,Arkansas
+6170,CA,29,2018_2,California
+6171,CO,22,2018_2,Colorado
+6172,CT,27,2018_2,Connecticut
+6174,DE,19,2018_2,Delaware
+6173,DC,12,2018_2,District of Columbia
+6175,FL,21,2018_2,Florida
+6176,GA,28,2018_2,Georgia
+6177,HI,10,2018_2,Hawaii
+6179,ID,20,2018_2,Idaho
+6180,IL,32,2018_2,Illinois
+6181,IN,23,2018_2,Indiana
+6178,IA,28,2018_2,Iowa
+6182,KS,32,2018_2,Kansas
+6183,KY,26,2018_2,Kentucky
+6184,LA,14,2018_2,Louisiana
+6187,ME,26,2018_2,Maine
+6186,MD,26,2018_2,Maryland
+6185,MA,39,2018_2,Massachusetts
+6188,MI,26,2018_2,Michigan
+6189,MN,26,2018_2,Minnesota
+6191,MS,26,2018_2,Mississippi
+6190,MO,36,2018_2,Missouri
+6192,MT,26,2018_2,Montana
+6195,NE,22,2018_2,Nebraska
+6199,NV,21,2018_2,Nevada
+6196,NH,30,2018_2,New Hampshire
+6197,NJ,18,2018_2,New Jersey
+6198,NM,18,2018_2,New Mexico
+6200,NY,26,2018_2,New York
+6193,NC,26,2018_2,North Carolina
+6194,ND,12,2018_2,North Dakota
+6201,OH,28,2018_2,Ohio
+6202,OK,17,2018_2,Oklahoma
+6203,OR,12,2018_2,Oregon
+6204,PA,26,2018_2,Pennsylvania
+6205,RI,34,2018_2,Rhode Island
+6206,SC,12,2018_2,South Carolina
+6207,SD,0,2018_2,South Dakota
+6208,TN,26,2018_2,Tennessee
+6209,TX,20,2018_2,Texas
+6210,UT,18,2018_2,Utah
+6212,VT,45,2018_2,Vermont
+6211,VA,22,2018_2,Virginia
+6213,WA,27,2018_2,Washington
+6215,WV,21,2018_2,West Virginia
+6214,WI,31,2018_2,Wisconsin
+6216,WY,24,2018_2,Wyoming
+6218,AL,30,2018_3,Alabama
+6217,AK,25,2018_3,Alaska
+6220,AZ,26,2018_3,Arizona
+6219,AR,20,2018_3,Arkansas
+6221,CA,41,2018_3,California
+6222,CO,26,2018_3,Colorado
+6223,CT,30,2018_3,Connecticut
+6225,DE,29,2018_3,Delaware
+6224,DC,20,2018_3,District of Columbia
+6226,FL,25,2018_3,Florida
+6227,GA,30,2018_3,Georgia
+6228,HI,20,2018_3,Hawaii
+6230,ID,14,2018_3,Idaho
+6231,IL,34,2018_3,Illinois
+6232,IN,23,2018_3,Indiana
+6229,IA,26,2018_3,Iowa
+6233,KS,21,2018_3,Kansas
+6234,KY,28,2018_3,Kentucky
+6235,LA,21,2018_3,Louisiana
+6238,ME,28,2018_3,Maine
+6237,MD,30,2018_3,Maryland
+6236,MA,38,2018_3,Massachusetts
+6239,MI,24,2018_3,Michigan
+6240,MN,29,2018_3,Minnesota
+6242,MS,28,2018_3,Mississippi
+6241,MO,36,2018_3,Missouri
+6243,MT,25,2018_3,Montana
+6246,NE,22,2018_3,Nebraska
+6250,NV,18,2018_3,Nevada
+6247,NH,30,2018_3,New Hampshire
+6248,NJ,28,2018_3,New Jersey
+6249,NM,18,2018_3,New Mexico
+6251,NY,31,2018_3,New York
+6244,NC,30,2018_3,North Carolina
+6245,ND,31,2018_3,North Dakota
+6252,OH,28,2018_3,Ohio
+6253,OK,18,2018_3,Oklahoma
+6254,OR,20,2018_3,Oregon
+6255,PA,27,2018_3,Pennsylvania
+6256,RI,31,2018_3,Rhode Island
+6257,SC,13,2018_3,South Carolina
+6258,SD,28,2018_3,South Dakota
+6259,TN,27,2018_3,Tennessee
+6260,TX,27,2018_3,Texas
+6261,UT,27,2018_3,Utah
+6263,VT,16,2018_3,Vermont
+6262,VA,26,2018_3,Virginia
+6264,WA,33,2018_3,Washington
+6266,WV,35,2018_3,West Virginia
+6265,WI,33,2018_3,Wisconsin
+6267,WY,57,2018_3,Wyoming
+6269,AL,23,2018_4,Alabama
+6268,AK,25,2018_4,Alaska
+6271,AZ,27,2018_4,Arizona
+6270,AR,20,2018_4,Arkansas
+6272,CA,30,2018_4,California
+6273,CO,23,2018_4,Colorado
+6274,CT,23,2018_4,Connecticut
+6276,DE,28,2018_4,Delaware
+6275,DC,12,2018_4,District of Columbia
+6277,FL,26,2018_4,Florida
+6278,GA,26,2018_4,Georgia
+6279,HI,13,2018_4,Hawaii
+6281,ID,18,2018_4,Idaho
+6282,IL,30,2018_4,Illinois
+6283,IN,22,2018_4,Indiana
+6280,IA,26,2018_4,Iowa
+6284,KS,23,2018_4,Kansas
+6285,KY,19,2018_4,Kentucky
+6286,LA,13,2018_4,Louisiana
+6289,ME,8,2018_4,Maine
+6288,MD,22,2018_4,Maryland
+6287,MA,34,2018_4,Massachusetts
+6290,MI,28,2018_4,Michigan
+6291,MN,26,2018_4,Minnesota
+6293,MS,24,2018_4,Mississippi
+6292,MO,30,2018_4,Missouri
+6294,MT,28,2018_4,Montana
+6297,NE,26,2018_4,Nebraska
+6301,NV,20,2018_4,Nevada
+6298,NH,36,2018_4,New Hampshire
+6299,NJ,20,2018_4,New Jersey
+6300,NM,14,2018_4,New Mexico
+6302,NY,30,2018_4,New York
+6295,NC,26,2018_4,North Carolina
+6296,ND,19,2018_4,North Dakota
+6303,OH,31,2018_4,Ohio
+6304,OK,19,2018_4,Oklahoma
+6305,OR,16,2018_4,Oregon
+6306,PA,22,2018_4,Pennsylvania
+6307,RI,29,2018_4,Rhode Island
+6308,SC,12,2018_4,South Carolina
+6309,SD,20,2018_4,South Dakota
+6310,TN,21,2018_4,Tennessee
+6311,TX,26,2018_4,Texas
+6312,UT,28,2018_4,Utah
+6314,VT,22,2018_4,Vermont
+6313,VA,26,2018_4,Virginia
+6315,WA,28,2018_4,Washington
+6317,WV,25,2018_4,West Virginia
+6316,WI,28,2018_4,Wisconsin
+6318,WY,12,2018_4,Wyoming
+6320,AL,23,2018_5,Alabama
+6319,AK,23,2018_5,Alaska
+6322,AZ,25,2018_5,Arizona
+6321,AR,16,2018_5,Arkansas
+6323,CA,29,2018_5,California
+6324,CO,25,2018_5,Colorado
+6325,CT,29,2018_5,Connecticut
+6327,DE,30,2018_5,Delaware
+6326,DC,14,2018_5,District of Columbia
+6328,FL,24,2018_5,Florida
+6329,GA,26,2018_5,Georgia
+6330,HI,12,2018_5,Hawaii
+6332,ID,16,2018_5,Idaho
+6333,IL,27,2018_5,Illinois
+6334,IN,22,2018_5,Indiana
+6331,IA,12,2018_5,Iowa
+6335,KS,25,2018_5,Kansas
+6336,KY,18,2018_5,Kentucky
+6337,LA,16,2018_5,Louisiana
+6340,ME,10,2018_5,Maine
+6339,MD,22,2018_5,Maryland
+6338,MA,30,2018_5,Massachusetts
+6341,MI,20,2018_5,Michigan
+6342,MN,13,2018_5,Minnesota
+6344,MS,22,2018_5,Mississippi
+6343,MO,25,2018_5,Missouri
+6345,MT,28,2018_5,Montana
+6348,NE,23,2018_5,Nebraska
+6352,NV,19,2018_5,Nevada
+6349,NH,30,2018_5,New Hampshire
+6350,NJ,27,2018_5,New Jersey
+6351,NM,16,2018_5,New Mexico
+6353,NY,29,2018_5,New York
+6346,NC,24,2018_5,North Carolina
+6347,ND,13,2018_5,North Dakota
+6354,OH,25,2018_5,Ohio
+6355,OK,15,2018_5,Oklahoma
+6356,OR,12,2018_5,Oregon
+6357,PA,23,2018_5,Pennsylvania
+6358,RI,28,2018_5,Rhode Island
+6359,SC,8,2018_5,South Carolina
+6360,SD,1,2018_5,South Dakota
+6361,TN,21,2018_5,Tennessee
+6362,TX,24,2018_5,Texas
+6363,UT,24,2018_5,Utah
+6365,VT,19,2018_5,Vermont
+6364,VA,24,2018_5,Virginia
+6366,WA,27,2018_5,Washington
+6368,WV,23,2018_5,West Virginia
+6367,WI,20,2018_5,Wisconsin
+6369,WY,33,2018_5,Wyoming
+6371,AL,8,2018_6,Alabama
+6370,AK,8,2018_6,Alaska
+6373,AZ,9,2018_6,Arizona
+6372,AR,6,2018_6,Arkansas
+6374,CA,10,2018_6,California
+6375,CO,10,2018_6,Colorado
+6376,CT,10,2018_6,Connecticut
+6378,DE,11,2018_6,Delaware
+6377,DC,8,2018_6,District of Columbia
+6379,FL,8,2018_6,Florida
+6380,GA,8,2018_6,Georgia
+6381,HI,6,2018_6,Hawaii
+6383,ID,8,2018_6,Idaho
+6384,IL,9,2018_6,Illinois
+6385,IN,8,2018_6,Indiana
+6382,IA,6,2018_6,Iowa
+6386,KS,8,2018_6,Kansas
+6387,KY,8,2018_6,Kentucky
+6388,LA,5,2018_6,Louisiana
+6391,ME,4,2018_6,Maine
+6390,MD,8,2018_6,Maryland
+6389,MA,10,2018_6,Massachusetts
+6392,MI,8,2018_6,Michigan
+6393,MN,6,2018_6,Minnesota
+6395,MS,7,2018_6,Mississippi
+6394,MO,10,2018_6,Missouri
+6396,MT,6,2018_6,Montana
+6399,NE,10,2018_6,Nebraska
+6403,NV,8,2018_6,Nevada
+6400,NH,7,2018_6,New Hampshire
+6401,NJ,8,2018_6,New Jersey
+6402,NM,6,2018_6,New Mexico
+6404,NY,8,2018_6,New York
+6397,NC,8,2018_6,North Carolina
+6398,ND,4,2018_6,North Dakota
+6405,OH,8,2018_6,Ohio
+6406,OK,8,2018_6,Oklahoma
+6407,OR,4,2018_6,Oregon
+6408,PA,8,2018_6,Pennsylvania
+6409,RI,8,2018_6,Rhode Island
+6410,SC,4,2018_6,South Carolina
+6411,SD,8,2018_6,South Dakota
+6412,TN,10,2018_6,Tennessee
+6413,TX,8,2018_6,Texas
+6414,UT,10,2018_6,Utah
+6416,VT,10,2018_6,Vermont
+6415,VA,8,2018_6,Virginia
+6417,WA,10,2018_6,Washington
+6419,WV,8,2018_6,West Virginia
+6418,WI,8,2018_6,Wisconsin
+6420,WY,10,2018_6,Wyoming
